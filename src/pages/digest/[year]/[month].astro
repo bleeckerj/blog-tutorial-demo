@@ -1,0 +1,55 @@
+---
+import { getCollection } from 'astro:content';
+
+const year = Astro.params.year;
+const month = Astro.params.month;
+
+// Fetch your digest posts based on year and month
+// Example: const posts = await fetchPostsForMonth(year, month);
+export async function getStaticPaths() {
+    const posts = await getCollection('digest');
+    const paths = new Set();
+
+    posts.forEach(post => {
+        const pubDate = new Date(post.data.pubDate);
+        const year = pubDate.getFullYear();
+        const month = String(pubDate.getMonth() + 1).padStart(2, '0'); // Ensure month is 2 digits
+
+        // Construct the path
+        const path = `/digest/${year}/${month}`;
+        paths.add(path);
+    });
+
+    // Convert the Set into an array of path objects
+    return Array.from(paths).map(path => ({
+        params: {
+            year: path.split('/')[2], // Extract year from the path
+            month: path.split('/')[3] // Extract month from the path
+        }
+    }));
+}
+const allPosts = await getCollection('digest');
+const filteredPosts = allPosts.filter(post => {
+    const pubDate = new Date(post.data.pubDate);
+    return pubDate.getFullYear().toString() === year && 
+           String(pubDate.getMonth() + 1).padStart(2, '0') === month;
+});
+---
+<html>
+<head>
+    <title>Digest - {year}/{month}</title>
+</head>
+<body>
+    {/* Render your posts here */}
+    <h1>Digests for {year}/{month}</h1>
+    <ul>
+        {filteredPosts.map(post => (
+            <li key={post.url}>{post.data}  `/digest/{post.slug}/`
+                <a href={`/digest/${post.slug}/`}>{post.data.summary}</a>
+                <br/>
+                Published on: {new Date(post.data.pubDate).toLocaleDateString()}
+            </li>
+        ))}
+    </ul>
+</body>
+</html>

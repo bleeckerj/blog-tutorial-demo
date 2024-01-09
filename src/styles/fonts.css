@@ -1,0 +1,94 @@
+
+
+@font-face {
+	font-family: "ES Peak";
+  font-weight: normal;
+	src: url('/fonts/espeak/ESPeakExtrabold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: "ES Peak";
+  font-weight: 500;
+	src: url('/fonts/espeak/ESPeakMedium.woff') format('woff');
+}
+
+@font-face {
+	font-family: "ES Peak";
+  font-weight: 600;
+	src: url('/fonts/espeak/ESPeakSemibold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: "ES Peak";
+  font-weight: 700 899;
+	src: url('/fonts/espeak/ESPeakBold.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: "ES Peak";
+  font-weight: 900 1000;
+	src: url('/fonts/espeak/ESPeakExtrabold.woff2') format('woff2');
+}
+
+
+@font-face {
+    font-family: "Rebond Grotesque";
+    font-weight: normal;
+    src: url("/fonts/rebond-grotesque/ESRebondGrotesque-Regular.woff2") format("woff2"),
+      url("/fonts/rebond-grotesque/ESRebondGrotesque-Regular.woff") format("woff"),
+      url("/fonts/rebond-groteque/ESRebondGrotesque-Regular.eot") format("eot");
+  }
+  
+  @font-face {
+    font-family: "Rebond Grotesque";
+    font-weight: normal;
+    font-style: italic;
+    src: url("/fonts/rebond-grotesque/ESRebondGrotesque-Italic.woff2") format("woff2"),
+      url("/fonts/rebond-grotesque/ESRebondGrotesque-Italic.woff") format("woff"),
+      url("/fonts/rebond-groteque/ESRebondGrotesque-Italic.eot") format("eot");
+  }
+  
+  @font-face {
+    font-family: "Rebond Grotesque";
+    font-weight: bold;
+    src: url("/fonts/rebond-grotesque/ESRebondGrotesque-Bold.woff2") format("woff2"),
+      url("/fonts/rebond-grotesque/ESRebondGrotesque-Bold.woff") format("woff"),
+      url("/fonts/rebond-groteque/ESRebondGrotesque-Bold.eot") format("eot");
+  }
+  
+  @font-face {
+    font-family: "Berkeley Mono";
+    font-weight: normal;
+    src: url("/fonts/berkeley-mono/BerkeleyMonoVariable-Regular.woff2"),
+      url("/fonts/berkeley-mono/BerkeleyMonoVariable-Regular.woff");
+  }
+
+  @font-face {
+    font-family: "AkkuratMono-Regular";
+    src: url("https://db.onlinewebfonts.com/t/2ae387e9fd826eca2b02f780e91333c7.eot");
+    src: url("https://db.onlinewebfonts.com/t/2ae387e9fd826eca2b02f780e91333c7.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/2ae387e9fd826eca2b02f780e91333c7.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/2ae387e9fd826eca2b02f780e91333c7.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/2ae387e9fd826eca2b02f780e91333c7.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/2ae387e9fd826eca2b02f780e91333c7.svg#AkkuratMono-Regular")format("svg");
+}
+
+@font-face {
+  font-family: "ESKlarheit Kurrent Mono";
+  font-weight: bold;
+  src: url("/fonts/es-klarheit-kurrent-mono/woff2/ESKlarheitKurrentMono-Bd.woff2")format("woff2");
+}
+
+@font-face {
+  font-family: "ESKlarheit Kurrent Mono";
+  font-weight: normal;
+  src: url("/fonts/es-klarheit-kurrent-mono/woff2/ESKlarheitKurrentMono-Rg.woff2")format("woff2");
+
+}
+
+@font-face {
+  font-family: "ESKlarheit Kurrent Mono";
+  font-weight: xtra-light;
+  src: url("/fonts/es-klarheit-kurrent-mono/woff2/ESKlarheitKurrentMono-Xlt.woff2")format("woff2");
+
+}

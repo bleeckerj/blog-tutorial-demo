@@ -7,13 +7,14 @@ const finished = true;
 const goal = 3;
 
 const identity = {
-  firstName: "Sarah",
-  country: "Canada",
-  occupation: "Technical Writer",
-  hobbies: ["photography", "birdwatching", "baseball"],
+  firstName: "Julian",
+  country: "USA",
+  occupation: "Many Things",
+  hobbies: ["futures", "cinematography", "writing"],
+  more: "https://julianbleecker.com",
 };
 
-const skills = ["HTML", "CSS", "JavaScript", "React", "Astro", "Writing Docs"];
+const skills = ["Writing", "Cinematography", "Creating Communities", "Design Fiction", "Cycling", "Entrepreneur"];
 
 const skillColor = "navy";
 const fontWeight = "bold";
@@ -33,25 +34,23 @@ const textCase = "uppercase";
 </style>
 
 <BaseLayout pageTitle={pageTitle}>
-  <h2>... and my new Astro site!</h2>
+  <h2>The New Blog</h2>
 
   <p>
-    I am working through Astro's introductory tutorial. This is the second page
-    on my website, and it's the first one I built myself!
+  
   </p>
 
   <p>
-    This site will update as I complete more of the tutorial, so keep checking
-    back and see how my journey is going!
+
   </p>
 
-  {happy && <p>I am happy to be learning Astro!</p>}
+  {happy && <p>I am happy to be alive</p>}
 
-  {finished && <p>I finished this tutorial!</p>}
+  {finished && <p>We're here and running the 3rd evolution of the Near Future Laboratory</p>}
 
   {
     goal === 3 ? (
-      <p>My goal is to finish in 3 days.</p>
+      <p>Good to go.</p>
     ) : (
       <p>My goal is not 3 days.</p>
     )
@@ -59,7 +58,7 @@ const textCase = "uppercase";
 
   <p>Here are a few facts about me:</p>
   <ul>
-    <li>My name is {identity.firstName}.</li>
+    <li>My name is <a href={identity.more}>{identity.firstName}</a>.</li>
     <li>I live in {identity.country} and I work as a {identity.occupation}.</li>
     {
       identity.hobbies.length >= 2 && (

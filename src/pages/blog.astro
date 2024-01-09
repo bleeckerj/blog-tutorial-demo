@@ -1,13 +1,24 @@
 ---
+import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
-const pageTitle = "My Astro Learning Blog";
-const allPosts = await Astro.glob("../pages/posts/*.md");
+const pageTitle = "General Posts";
+const posts = await getCollection("blog");
+const allPosts = posts.sort((a, b) => {
+        const dateA = new Date(a.data.pubDate);
+        const dateB = new Date(b.data.pubDate);
+        return dateA > dateB ? -1 : dateA < dateB ? 1 : 0; // For ascending order, use `dateA - dateB`
+    });
+
+//console.log(allPosts)
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p>This is where I will post about my journey learning Astro.</p>
-  <ul>
-    {allPosts.map((post) => <BlogPost url={post.url} title={post.frontmatter.title} />)}
+  <ul style="list-style: none">
+    {
+      allPosts.map((post) => (
+        <BlogPost url={`/blog/${post.slug}/`} pubDate={post.data.pubDate} title={post.data.title} />
+      ))
+    }
   </ul>
 </BaseLayout>
