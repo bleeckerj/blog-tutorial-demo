@@ -5,7 +5,7 @@ import { Image } from "astro:assets";
 import nflImgReference from '/images/site/NFL_LOGO_EV3_02_GRGR_600px.png'
 
 interface Props {
-  post: CollectionEntry<"blog">;
+  post: CollectionEntry<"digest">;
   index: number;
   source: string;
   slug: string;
@@ -49,10 +49,10 @@ const loading = index > 3 ? "lazy" : "eager";
         class="flex w-full flex-col gap-y-2 justify-between flex-grow">
         <div>
           <h2 class="text-xl font-bold transition-colors">
-            {post.data.title}
+            {post.data.author}
           </h2>
           <div>
-            {post.data.description}
+            {post.data.summary}
           </div>
           {minutesRead ? <p>{minutesRead}ing time</p> : null}
         </div>

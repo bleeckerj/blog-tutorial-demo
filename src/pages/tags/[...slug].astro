@@ -5,8 +5,12 @@ const { slug } = Astro.params;
 
 import { getCollection } from "astro:content";
 import PostPreview from "../../components/PostPreview.astro";
+
+import BlogPostPreview from "../../components/PostPreview.astro";
+import DigestPostPreview from "../../components/DigestPostPreview.astro";
+
 import Tags from "../../components/Tags.astro";
-debugger;
+//debugger;
 const blogs = (await getCollection("blog", (blog) => blog.data.draft !== true)).map(post => ({ ...post, source: 'blog' }));
 const digests = (await getCollection("digest")).map(post => ({ ...post, source: 'digest' }));
 const allPosts = [...blogs, ...digests];
@@ -78,20 +82,23 @@ if (allBlogPostsWithTag.length === 0) {
         All Near Future Laboratory Thoughts About {slug}
     </h1>
     <Tags tags={tags} slug={slug} />
-    <div
-      class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 items-center auto-rows-min mt-4"
-    >
+    <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 items-center auto-rows-min mt-4">
       {
         postsWithTag.map(async (post, i) => {
           const { remarkPluginFrontmatter } = await post.render();
-
+    
           return (
-            <PostPreview
+            post.source === 'blog'
+            ? <BlogPostPreview 
               minutesRead={remarkPluginFrontmatter?.minutesRead}
               post={post}
               index={i}
-              source={post.source}
-            />
+              source={post.source} />
+            : <DigestPostPreview 
+              minutesRead={remarkPluginFrontmatter?.minutesRead}
+              post={post}
+              index={i}
+              source={post.source}  />
           );
         })
       }
