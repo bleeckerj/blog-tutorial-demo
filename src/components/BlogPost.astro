@@ -1,5 +1,5 @@
 ---
-const { title, url, pubDate } = Astro.props
+const { title, url, pubDate, description } = Astro.props
 console.log(pubDate)
 const formattedDate = new Intl.DateTimeFormat('en-US', { 
     year: 'numeric', 
@@ -7,6 +7,10 @@ const formattedDate = new Intl.DateTimeFormat('en-US', {
     day: '2-digit' 
 }).format(pubDate);
 ---
-<div class="grid grid-cols-[minmax(100px,auto)_1fr] gap-4">
-    <div class="date-mono w-32">{formattedDate}</div><div><a href={url}>{title}</a></div>
+<div class="grid grid-cols-[minmax(200px,auto)_1fr] gap-4">
+    <div class="date-mono w-32">{formattedDate}</div>
+    <div class="date-mono"><a href={url}>{title}</a></div>
+</div>
+<div class="mb-8 grid grid-cols-[minmax(200px,auto)_1fr] gap-4">
+    <div></div><div class="data-mono my-64px">{description}</div>
 </div>

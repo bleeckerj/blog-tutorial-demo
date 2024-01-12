@@ -1,0 +1,73 @@
+---
+// https://github.com/thomasledoux1/website-thomas-astro/src/components/PostPreview.astro
+import type { CollectionEntry } from "astro:content";
+import { Image } from "astro:assets";
+import nflImgReference from '/images/site/NFL_LOGO_EV3_02_GRGR_600px.png'
+
+interface Props {
+  post: CollectionEntry<"blog">;
+  index: number;
+  source: string;
+  slug: string;
+}
+debugger;
+const { post, index, source } = Astro.props;
+const { remarkPluginFrontmatter } = await Astro.props.post.render();
+const { minutesRead } = remarkPluginFrontmatter;
+const loading = index > 3 ? "lazy" : "eager";
+---
+
+<a
+  class="transform lg:text-center rounded-xl transition-transform lg:hover:scale-[1.08] shadow-lg h-full"
+  href={`/${source}/${post.slug}`}
+>
+  <article class="relative rounded-lg sm:mx-0 h-full flex flex-col">
+    
+    <!-- <Image
+    loading={loading}
+    decoding={loading === "lazy" ? "async" : "sync"}
+    class={`rounded-t-xl aspect-[1.33] ${post.data.containImage ? "object-contain" : "object-cover"}`}
+    src={post.data.image?.url || '/bd-images/make-meaning-make-money/make-meaning-make-money_8f60cfd6-c904-4d9a-bbbe-5e68c34b3708.jpg'} 
+    alt={post.data.image?.altText || 'Default image description'} 
+    widths={[360, 640, 768, 1024, 1280, 1568]}
+    transition:name={`blog-image-${post.id}`}
+    sizes="(min-width: 640px) 50vw, (min-width: 1024px) 33vw, 100vw"
+  />
+   -->
+
+    <div class="flex px-6 py-4 flex-grow flex-col">
+      <date class="text-sm"
+        >{
+          new Date(post.data.pubDate).toLocaleDateString("en-BE", {
+            day: "numeric",
+            month: "short",
+            year: "numeric",
+          })
+        }</date
+      >
+      <div
+        class="flex w-full flex-col gap-y-2 justify-between flex-grow">
+        <div>
+          <h2 class="text-xl font-bold transition-colors">
+            {post.data.title}
+          </h2>
+          <div>
+            {post.data.description}
+          </div>
+          {minutesRead ? <p>{minutesRead}ing time</p> : null}
+        </div>
+    </a>
+        <div>
+          {
+            post.data.tags?.map((tag: string) => {
+              return (
+                <span style="" class="text-left bg-secondary text-blue-600 text-xs mx-4 text-color-blue rounded-md shadow-md">
+                  {tag}
+                </span>
+
+              );
+            })
+          }
+      </div>
+    </div>
+  </article>

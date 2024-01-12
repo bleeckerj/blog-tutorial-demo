@@ -6,5 +6,6 @@ import tailwind from "@astrojs/tailwind";
 // https://astro.build/config
 export default defineConfig({
   site: "https://example.com",
-  integrations: [preact(), tailwind()]
+  integrations: [preact(), tailwind()],
+  server: { port: 3000 }
 });

@@ -11,9 +11,11 @@ const postsCollection = defineCollection({
       author: z.string(),
       image: z.object({
         url: z.string(),
-        alt: z.string()
+        altText: z.string()
       }).optional(),
-      tags: z.array(z.string()).optional()
+      tags: z.array(z.string()).optional(),
+      draft: z.boolean().optional(),
+      containImage: z.boolean().optional(),
     })
 });
 

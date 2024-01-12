@@ -1,13 +1,13 @@
 ---
-shortTitle: "Shift Happens: A book about keyboards"
-pubDate: 2022-12-30T17:24:12.319000+00:00
+shortTitle: "Test Styles: A Page To Test Tailwind CSS"
+pubDate: 2024-01-04T17:24:12.319000+00:00
 author: "Julian"
 channel: "📖-books"
 summary: "The rapid and unpredictable pace of technological advancements in our ever-changing world of 'Shift Happens' reminds us that if we don't stay in the loop, we'll be left tangled up like an out-of-date charging cable."
 path: 2022/12/
 filename: "12302022-172412-books"
 url: "https://discord.com/channels/724979694667169862/855616432388702228/1058435350424473743"
-tags: ['reflection', 'self-discovery', 'growth', 'transformation', 'journey', 'introspection', 'change', 'personal development', 'authenticity', 'exploration']
+tags: ['reflection', 'books', 'pizza', 'self-discovery', 'growth', 'transformation', 'journey', 'introspection', 'change', 'personal development', 'authenticity', 'exploration']
 ---
 
 <div class="bg-gray-300 p-4 rounded-md mb-4">
@@ -30,6 +30,10 @@ cf: <a href="https://discord.com/channels/724979694667169862/855616432388702228/
 The rapid and unpredictable pace of technological advancements in our ever-changing world of "Shift Happens" reminds us that if we don't stay in the loop, we'll be left tangled up like an out-of-date charging cable.
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Summary</div>
+<div class="bg-violet-300 mb-4 p-4 rounded-bl-md">
+Shift Happens tells the story of keyboards like no book ever before, covering 150 years from the early typewriters to the pixellated keyboards in our hands . It’s a book about typists competing during the Shift Wars of the 1880s; Nobel-prize winner Arthur Schawlow using a laser to build the best typo eraser .
+</div>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -44,10 +48,7 @@ Shift Happens is a captivating book that delves into the history and evolution o
 What sets Shift Happens apart is its unique ability to connect the world of typewriters to the universe of computers. Whether you have a passion for vintage typewriters, classic clicky IBM keyboards, or modern mechanical wonders, this book offers something for everyone. It is filled with fascinating stories, accompanied by over 1,000 beautiful full-color photos spread across two volumes. The special edition includes an additional volume of illustrations and "making of" material, all housed in an elegant slipcase. This book would be a remarkable gift for keyboard enthusiasts, as well as anyone interested in design, the stories behind everyday objects, or tech history.
 </div>
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">Some Summary</div>
-<div class="bg-violet-300 mb-4 p-4 rounded-bl-md">
-Shift Happens tells the story of keyboards like no book ever before, covering 150 years from the early typewriters to the pixellated keyboards in our hands . It’s a book about typists competing during the Shift Wars of the 1880s; Nobel-prize winner Arthur Schawlow using a laser to build the best typo eraser .
-</div>
+
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">Some GPT Tags</div>
 <div class="robot-content-container">

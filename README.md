@@ -1,3 +1,10 @@
+### 02-08-23
+Digester is used to grab Digest posts from the Mongo Datastore representing the posts in the NFL Discord that have been marked 'DIGEST'. It has some configuration parameters as represented in config.json
+
+
+
+
+
 # Astro "Build a Blog" Project - Completed
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/blog-tutorial-demo/tree/complete)
 

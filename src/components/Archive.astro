@@ -1,0 +1,11 @@
+---
+// src/components/Archive.astro
+const { postsByYear } = Astro.props;
+---
+<ul>
+  {Object.keys(postsByYear).map(year => (
+    <li key={year}>
+      <a href={`/blog/${year}`}>{year}</a> {/* Link to the yearly page */}
+    </li>
+  ))}
+</ul>

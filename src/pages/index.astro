@@ -1,9 +1,18 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import Greeting from '../components/Greeting';
-const pageTitle = "Home Page";
+const pageTitle = "We're Back..Over Here..";
+import Archive from '../components/Archive.astro'
+import { getPostsByYear } from '../utils/getPostsByYears.js';
+
+const postsByYear = await getPostsByYear();
 ---
+
 <BaseLayout pageTitle={pageTitle}>
-  <h2>My awesome blog subtitle</h2>
+  <h2>Here you can find..</h2>
   <Greeting client:load messages={["Hej", "Hallo", "Hola", "Habari"]} />
+  <Archive postsByYear={postsByYear}/>
+
 </BaseLayout>
+
+

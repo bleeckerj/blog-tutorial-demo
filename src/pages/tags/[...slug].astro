@@ -1,0 +1,100 @@
+---
+const { slug } = Astro.params;
+//const slug = Astro.request.slug;
+// const { source } = Astro.props; // This is how you access passed props
+
+import { getCollection } from "astro:content";
+import PostPreview from "../../components/PostPreview.astro";
+import Tags from "../../components/Tags.astro";
+debugger;
+const blogs = (await getCollection("blog", (blog) => blog.data.draft !== true)).map(post => ({ ...post, source: 'blog' }));
+const digests = (await getCollection("digest")).map(post => ({ ...post, source: 'digest' }));
+const allPosts = [...blogs, ...digests];
+const postsWithTag = allPosts.filter(post => post.data.tags?.includes(slug));
+
+// postsWithTag = await Promise.all(
+//   allBlogPostsWithTag.sort(
+//     (a, b) => +new Date(b.data.pubDate) - +new Date(a.data.pubDate),
+//   ),
+// );
+// Combine tags from both collections, safely handling undefined values
+const combinedTags = [...blogs, ...digests]
+  .map(entry => entry.data.tags?.filter(tag => typeof tag === 'string'))
+  .filter(Boolean) // Filter out undefined or null values
+  .flat();
+
+const tags = combinedTags.reduce<{ [key: string]: number }>((result, tag) => {
+  var count = result[tag] || 0;
+  result[tag] = count + 1;
+  return result;
+}, {});
+
+
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import type { Code } from "astro:components";
+
+export async function getStaticPaths() {
+  const blogs = (await getCollection("blog")).map(post => ({ ...post, source: 'blog' }));
+  const digests = (await getCollection("digest")).map(post => ({ ...post, source: 'digest' }));
+
+  const allPosts = [...blogs, ...digests];
+  // const postsWithTag = allPosts.filter(post => post.data.tags?.includes(slug));
+
+  const tagWithSource = (source) => (tag) => ({ tag, source });
+
+  const blogTags = blogs.flatMap(blog => blog.data.tags?.map(tagWithSource('blog')) || []);
+  const digestTags = digests.flatMap(digest => digest.data.tags?.map(tagWithSource('digest')) || []);
+
+  const combinedTags = [...blogTags, ...digestTags];
+  const uniqueTags = Array.from(new Set(combinedTags.map(t => JSON.stringify(t)))).map(JSON.parse);
+  console.log('Hi! I’m the server. This is logged in the terminal where Astro is running.');
+
+  const paths = uniqueTags.map(({ tag, source }) => ({
+    params: { slug: tag },
+    props: { source: source }, // Pass source as a prop
+  }));
+  console.log(paths)
+  return paths;
+}
+
+if (!slug) {
+  return Astro.redirect("/404");
+}
+const allBlogPostsWithTag = [...blogs, ...digests].filter((blog) =>
+  blog.data.tags?.some((tag) => tag === slug),
+);
+
+if (allBlogPostsWithTag.length === 0) {
+  return Astro.redirect("/404");
+}
+
+---
+<BaseLayout
+  title={`The Near Future Laboratory Blog | ${slug}`}
+  description={`All Near Future Laboratory Thoughts About ${slug}`}
+>
+  <section>
+    <h1 class="text-center text-2xl font-bold mb-6">
+        All Near Future Laboratory Thoughts About {slug}
+    </h1>
+    <Tags tags={tags} slug={slug} />
+    <div
+      class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6 items-center auto-rows-min mt-4"
+    >
+      {
+        postsWithTag.map(async (post, i) => {
+          const { remarkPluginFrontmatter } = await post.render();
+
+          return (
+            <PostPreview
+              minutesRead={remarkPluginFrontmatter?.minutesRead}
+              post={post}
+              index={i}
+              source={post.source}
+            />
+          );
+        })
+      }
+    </div>
+  </section>
+</Layout>
