@@ -16,7 +16,7 @@ const allPosts = posts.sort((a, b) => {
   <ul style="list-style: none">
     {
       allPosts.map((post) => (
-        <BlogPost url={`/blog/${post.slug}/`} author={post.data.author} pubDate={post.data.pubDate} title={post.data.title} description={post.data.description} />
+        <BlogPost url={`/blog/${post.slug}/`} isDraft={post.data.isDraft} author={post.data.author} pubDate={post.data.pubDate} title={post.data.title} description={post.data.description} />
       ))
     }
   </ul>

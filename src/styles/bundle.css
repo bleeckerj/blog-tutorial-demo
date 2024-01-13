@@ -18,7 +18,7 @@
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #fff;
+	--background-color: #ffecf6f6;
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #d911a4;;
@@ -378,13 +378,19 @@ h2 + .header-anchor {
 	font-size: 1.5em;
 }
 
+
 ol,
-ul,
 menu {
   list-style: list-decimal;
   margin: 0;
   padding: 0;
 }
+
+ul {
+    list-style-type: disc; /* Set the marker style to disc */
+    padding-left: 1em; /* Add some left padding for the markers */
+}
+
 
 .metadata-title-header {
 	font-family: var(--font-family-monospace);
@@ -401,6 +407,20 @@ menu {
 	@apply rounded-tr-lg;
 	
 }
+
+.draft-label {
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    transform: rotate(-5deg);
+    font-size: 3em;
+    font-weight: bold;
+    color: rgb(23, 1, 1);
+    background-color: rgba(255, 255, 255, 0.0);
+    padding: 10px;
+    z-index: 10; /* Ensures it's above other content */
+}
+
 
 .human-content-container {
 	@apply bg-stone-200;
