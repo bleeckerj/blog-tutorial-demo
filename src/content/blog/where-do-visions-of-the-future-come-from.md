@@ -23,24 +23,28 @@ pubDate: 2022-11-29
 
 5. Is it the earnest Kickstarter kind of futures dream?
 
-    ```"Wouldn’t it be cool if this could just be 
-    better/happier/quicker/simpler/more-more?"```
+```"Wouldn’t it be cool if this could just be better/happier/quicker/simpler/more-more?"```
+
 
 6. Is it the Futurist/Visionary/Keynote/Madonna Headset prognosticator’s kind of future meant to ignite a conference and-or corporate offsite junket in the way a stage magician or speaker’s bureau star of stage-and-screen is meant to do?
 
-    ```"The world is changing fast..and you need me to tell you stuff with a particular confident tone in order to allay your deepest fears of failure.."```
+```"The world is changing fast..and you need me to tell you stuff with a particular confident tone in order to allay your deepest fears of failure.."```
+
 
 7. Is it the MBA type person’s kind of future?
 
-    ```"Our financial model projects that we will obtain 4.5% CAGR so long as my Excel spreadsheet holds true.."```
+```"Our financial model projects that we will obtain 4.5% CAGR so long as my Excel spreadsheet holds true.."```
+
 
 8. Is it the science-fiction kind of future?
 
-    ```"It was 2067..marking the 12th year after The Great Surge, when the network went rogue. The off-world mining colonies were in in a constant state of rebellion, forcing the regional precincts to ration everyone who couldn’t pay the bribes to 1 tin of vat harvested Algorithium a week. It was rare that these rusted, leaking tins weren’t a cycle or more beyond their expiry and so provided little or no protection against the toxic effects of the ruined atmosphere. The masses drooled and stumbled about from the noxious gases in the air, nearly zombified, staring transfixed at their media nozzles, ignorant to the exploitation of their thoughts by Augie Bot and his sock puppet bot army."```
+ ```"It was 2067..marking the 12th year after The Great Surge, when the network went rogue. The off-world mining colonies were in in a constant state of rebellion, forcing the regional precincts to ration everyone who couldn’t pay the bribes to 1 tin of vat harvested Algorithium a week. It was rare that these rusted, leaking tins weren’t a cycle or more beyond their expiry and so provided little or no protection against the toxic effects of the ruined atmosphere. The masses drooled and stumbled about from the noxious gases in the air, nearly zombified, staring transfixed at their media nozzles, ignorant to the exploitation of their thoughts by Augie Bot and his sock puppet bot army."```
+
 
 9. Or is it some scenario narrative, appropriately situated in a specific year and a specific technocultural context?
 
-    ```"The year is 2032 and the rollout of 6G sparked disinformation protests and counter-protests. Urban perimeter airways and driveways were clogged by AmazonFleet delivery drones hacked by black hat mercenaries from rogue stateless NGOs. These hacker flash mobs ground the networks of commerce to a near stand-still. No one had been able to get their baby formula nor blocks of vat grown protein delivered in days. Tensions were high. TrumpBot fueled the misinformation while negotiating with the 6G corps for a cash concession to align the GroupThink back towards the social norm analytic level of merely unsettled, rather than Cat 4 agitated."```
+```"The year is 2032 and the rollout of 6G sparked disinformation protests and counter-protests. Urban perimeter airways and driveways were clogged by AmazonFleet delivery drones hacked by black hat mercenaries from rogue stateless NGOs. These hacker flash mobs ground the networks of commerce to a near stand-still. No one had been able to get their baby formula nor blocks of vat grown protein delivered in days. Tensions were high. TrumpBot fueled the misinformation while negotiating with the 6G corps for a cash concession to align the GroupThink back towards the social norm analytic level of merely unsettled, rather than Cat 4 agitated."```
+
 
 10. Or maybe it's the Silicon Valley kind of future, where what’s better is directly tied to instrumenting every aspect of life — from accounting and art through to sleep, reading, dog walking, golf swings, vacation itineraries, door locks, driving routes, music genres, coffee bean grinding, intelligence, and on and on.
 
