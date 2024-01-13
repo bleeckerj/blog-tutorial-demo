@@ -2,7 +2,7 @@
 title: "Blue Boat"
 author: "Julian Bleecker"
 pubDate: 2022-05-02 15:00:00.000
-description: "Hoagie at the helm of Blue Boat."
+description: "The tale of 'Blue Boat,' a simple skiff that was a container of of adventures and memories, helped me think about the notion of value that has nothing to do with numbers."
 tags: []
 ---
 

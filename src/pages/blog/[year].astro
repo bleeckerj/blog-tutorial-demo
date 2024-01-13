@@ -1,6 +1,7 @@
 ---
 // src/pages/blog/years/[year].astro
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogPost from '../../components/BlogPost.astro';
 // import Greeting from '../../../components/Greeting.jsx';
 // import Archive from '../../../components/Archive.astro.jsx'
 // import { getPostsByYear } from '../../../utils/getPostsByYears.js';
@@ -16,11 +17,18 @@ type PathType = {
         posts: any[]; // Replace 'any' with the actual type of your posts if known
     };
 };
-console.log('Params:', Astro.request); // Check what params are available
+// console.log('Params:', Astro.request); // Check what params are available
 
-const { posts } = Astro.props;
-console.log(Astro.props);
+//const { posts } = Astro.props;
+//console.log(Astro.props);
 const pageTitle = " Archive";
+const year = Astro.params.year;
+const allPosts = await getCollection('blog');
+const postsForYear = allPosts.filter(post => 
+    new Date(post.data.pubDate).getFullYear().toString() === year
+).sort((a, b) => 
+    new Date(b.data.pubDate) - new Date(a.data.pubDate)
+);
 
 
 
@@ -46,40 +54,15 @@ return [...postYears.entries()].map(([year, posts]) => ({
 }));
 };
 
+
+
 ---
 <BaseLayout pageTitle={pageTitle}>
-    {
-        posts.map((post) => (
-                <time datetime={post.data.pubDate.toISOString()}>
-                    {post.data.pubDate.toLocaleDateString('en-us', {
-                        year: 'numeric',
-                        month: 'short',
-                        day: 'numeric'
-                    })}
-                </time>
-                <a href={`/blog/${post.slug}/`}>{post.data.title}</a><br/>
-        ))
-    }
+    
+        {
+          postsForYear.map((post) => (
+            <BlogPost url={`/blog/${post.slug}/`} author={post.data.author} pubDate={post.data.pubDate} title={post.data.title} description={post.data.description} />
+          ))
+        }
+      
 </BaseLayout>
-
-<!-- <main>
-    <h2>Posts in {year}</h2>
-    <section>
-        <ul>
-            {
-                posts.map((post) => (
-                    <li>
-                        <time datetime={post.data.pubDate.toISOString()}>
-                            {post.data.pubDate.toLocaleDateString('en-us', {
-                                year: 'numeric',
-                                month: 'short',
-                                day: 'numeric'
-                            })}
-                        </time>
-                        <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
-                    </li>
-                ))
-            }
-        </ul>
-    </section>
-</main> -->

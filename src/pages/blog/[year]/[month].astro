@@ -1,5 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
+import BlogPost from '../../../components/BlogPost.astro';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
 
 const year = Astro.params.year;
 const month = Astro.params.month;
@@ -30,13 +32,23 @@ export async function getStaticPaths() {
     }));
 }
 const allPosts = await getCollection('blog');
-const filteredPosts = allPosts.filter(post => {
+const posts = allPosts.filter(post => {
     const pubDate = new Date(post.data.pubDate);
     return pubDate.getFullYear().toString() === year && 
            String(pubDate.getMonth() + 1).padStart(2, '0') === month;
 });
 ---
-<html>
+<BaseLayout pageTitle={'Blog -  {year} / {month}'}>
+    <ul style="list-style: none">
+      {
+        posts.map((post) => (
+          <BlogPost url={`/blog/${post.slug}/`} author={post.data.author} pubDate={post.data.pubDate} title={post.data.title} description={post.data.description} />
+        ))
+      }
+    </ul>
+  </BaseLayout>
+  
+<!-- <html>
 <head>
     <title>Blog - {year}/{month}</title>
 </head>
@@ -53,4 +65,4 @@ const filteredPosts = allPosts.filter(post => {
         ))}
     </ul>
 </body>
-</html>
+</html> -->

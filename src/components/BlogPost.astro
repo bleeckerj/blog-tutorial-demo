@@ -1,5 +1,5 @@
 ---
-const { title, url, pubDate, summary, author, channel } = Astro.props
+const { title, url, pubDate, description, author } = Astro.props
 console.log(pubDate)
 const formattedDate = new Intl.DateTimeFormat('en-US', { 
     year: 'numeric', 
@@ -7,12 +7,18 @@ const formattedDate = new Intl.DateTimeFormat('en-US', {
     day: '2-digit' 
 }).format(pubDate);
 ---
-<div class="grid grid-cols-[minmax(200px,auto)_1fr] gap-4 mb-10">
-    <div class="date-mono w-32">{formattedDate}
-    <span class="blockquote-short">{author}
-    </span>
-</div>
-    <div class=""><a style="text-decoration: none" href={url}>{title}</a></div>
+<div class="grid grid-cols-[minmax(100px,auto)_1fr] gap-2 mb-[50px] border-[1px] bg-slate-100 border-slate-300 rounded-md min-h-[100px]">
+    <div class="bg-slate-200 date-mono w-32 pt-1 pl-2 rounded-sm">{formattedDate}
+    <!-- <span class="blockquote-short">{author}</span> -->
+    </div>
+    <div><a class="block" style="text-decoration: none" href={url}>{title}</a>
+        {description && (
+            <span class="bg-zinc-100 block rounded-md text-sm py-1 pl-1 pr-4 text-black">
+                {description}
+            </span>
+        )}
+        <!-- <span>{author}</span> -->
+    </div>
 </div>
 <!-- <div class="mb-8 grid grid-cols-[minmax(200px,auto)_1fr] gap-4">
     <div></div><div class="data-mono my-64px">{description}</div>
