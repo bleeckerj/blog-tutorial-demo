@@ -4,7 +4,7 @@ author: "Julian Bleecker"
 pubDate: 2021-10-20
 description: "This is the first post of my new Astro blog."
 
-tags: ["astro", "blogging", "learning in public"]
+tags: []
 ---
  ![MagazineFromTheFuture_RS_01_032123_02_BRIGHT__1200px.png](https://buttondown.imgix.net/images/58ebe32f-993d-4489-80e0-82f7641057b4.png?w=960&fit=max) 
 

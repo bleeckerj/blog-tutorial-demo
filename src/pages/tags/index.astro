@@ -6,7 +6,7 @@ const allTags = new Set();
 import Tags from "../../components/Tags.astro";
 const allBlogs = await getCollection("blog", (blog) => blog.data.draft !== true);
 const allDigests = await getCollection("digest")
-
+//debugger;
 // Combine tags from both collections, safely handling undefined values
 const combinedTags = [...allBlogs, ...allDigests]
   .map(entry => entry.data.tags?.filter(tag => typeof tag === 'string'))
@@ -23,7 +23,7 @@ const tagsList = Array.from(combinedTags);
 ---
 <BaseLayout
   title={`The Near Future Laboratory`}
-  description={`All Near Future Laboratory Thought Tags`}
+  description={`All Near Future Laboratory Thinking Tags`}
 >
 
     <h1>All Tags</h1>

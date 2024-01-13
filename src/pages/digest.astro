@@ -1,7 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import DigestPost from "../components/BlogPost.astro";
+import DigestPost from "../components/DigestPost.astro";
 const pageTitle = "Digest from the Near Future Laboratory Discord";
 const posts = await getCollection("digest");
 const allPosts = posts.sort((a, b) => {
@@ -14,10 +14,11 @@ const allPosts = posts.sort((a, b) => {
 
 <BaseLayout pageTitle={pageTitle}>
   <p>Digest from the Near Future Laboratory Discord.</p>
+  <div class="bg-indigo-500">digest.astro</div>
   <ul>
     {
       allPosts.map((post) => (
-      <DigestPost url={`/digest/${post.slug}/`} pubDate={post.data.pubDate} title='title' />
+      <DigestPost url={`/digest/${post.slug}/`} pubDate={post.data.pubDate} author={post.data.author} message={post.data.cleanContent} channel={post.data.channel} summary={post.data.summary} />
       ))
     }
   </ul>

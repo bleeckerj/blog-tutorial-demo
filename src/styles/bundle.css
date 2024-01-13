@@ -168,8 +168,17 @@ img {
     margin-bottom:5%;
 	font-size: 1em;
 	color: green;
-	background-color: coral;
+	background-color: var(--color-gray-20);
 }
+
+.blockquote-short {
+	margin-top:5%;
+    margin-bottom:5%;
+	font-size: 0.8em;
+	color: green;
+	background-color: var(--color-gray-20);
+}
+
 
 .date {
 	font-family: var(--font-family-monospace);
@@ -181,7 +190,7 @@ img {
 .date-mono {
 	font-family: var(--font-family-monospace);
 	font-weight: normal;
-	font-size: 0.9em;
+	font-size: 0.85em;
 }
 
 
@@ -392,6 +401,12 @@ menu {
 	@apply rounded-tl-md;
 	@apply rounded-tr-lg;
 	
+}
+
+.human-content-container {
+	@apply bg-stone-200;
+	@apply mb-4 p-4 rounded-bl-md rounded-br-lg;
+	@apply border-blue-400 border-2
 }
 
 .robot-content-container {

@@ -3,7 +3,7 @@ title: "A Strange Thing Happened"
 author: "Julian Bleecker"
 pubDate: 2022-03-03
 description: "What happens when a DAO serve free pizza."
-tags: ["DAO", "Decentralized Autonomous Organization", "pizza", "blockchain", "crypto", "cryptocurrency", "NFTs", "NFT"]
+tags: []
 ---
 
 ![](/bd-images/a-strange-thing-happened/a-strange-thing-happened_8cda7cad-4568-44c0-918a-35718a303ffe.jpg)

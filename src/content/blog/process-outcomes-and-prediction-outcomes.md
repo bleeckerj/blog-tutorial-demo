@@ -3,7 +3,7 @@
 title: "Process Outcomes And Prediction Outcomes"
 author: "Julian Bleecker"
 pubDate: 2022-07-20
-tags: [NFT, AI, GPT, design fiction]
+tags: []
 ---
 
 ![](/bd-images/process-outcomes-and-prediction-outcomes/process-outcomes-and-prediction-outcomes_8eba3e53-3cb2-4152-b2fb-5fd49fa7e86a.png) 
