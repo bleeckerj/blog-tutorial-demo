@@ -9,45 +9,8 @@ summary: "Unleash the secret weapon of AI as you delve into the captivating worl
 path: 2023/03/
 filename: "03082023-151133-algorithmic-output"
 url: "https://discord.com/channels/724979694667169862/989574152115597342/1083044343654387745"
-tags: []
+tags: ['environment', 'sustainability', 'climate change', 'renewable energy', 'conservation', 'biodiversity', 'eco-friendly', 'green technology', 'carbon footprint', 'environmental policy']
 ---
-====
-
-https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/
-ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.
-<!-- 
-
- -->
-
-AAAA A sort but interesting documentation of educational usage of AI/ChatGPT at Concordia University in Montreal  https //milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/ BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloA sort but interesting documentation of educational usage of AI/ChatGPT at Concordia University in Montreal  https //milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/</div>
-
-URL: <p>https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/</p>
-<p>ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.</p>  <!-- Example: Display each item in a paragraph -->
-<p>Want to know how to use AI in the classroom? Here are four handy guideposts that will help educators make the most out of chatGPT, including getting hands-on, exploring research-creation, and even using generative AI to design animals in Montreal after a rise in global temperatures (though the AI's results were a bit eccentric).</p>
-
-
-
-
-URL: https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/
-Description ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/
-Description ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: nicolasnova
@@ -58,18 +21,33 @@ By: nicolasnova
 🎨-algorithmic-output</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">A sort but interesting documentation of educational usage of AI/ChatGPT at Concordia University in Montreal  https //milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/">https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/</a></div>
+OG Description: ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.  <!-- Example: Display each item in a paragraph -->
+Want to know how to use AI in the classroom? Here are four handy guideposts that will help educators make the most out of chatGPT, including getting hands-on, exploring research-creation, and even using generative AI to design animals in Montreal after a rise in global temperatures (though the AI's results were a bit eccentric).
+
+
+
+<!-- 
+URL: https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/
+Description ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Unleash the secret weapon of AI as you delve into the captivating world of how ChatGPT is revolutionizing education at Concordia University in Montreal.
-</div>
-</div>
 
-
-<a href="https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/">https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -83,9 +61,9 @@ In this text, the author discusses the use of artificial intelligence (AI), spec
 
 <!-- Summary:  Four guideposts to engage with AI in education or how to use chatGPT in the classroom . ChatGPT happened, and suddenly AI made its way into many aspects of my life: It appeared in all sorts of Op-eds about the end of education as we know it . -->
 
-['environment', 'sustainability', 'climate change', 'renewable energy', 'conservation', 'biodiversity', 'eco-friendly', 'green technology', 'carbon footprint', 'environmental policy']
+<!-- ['environment', 'sustainability', 'climate change', 'renewable energy', 'conservation', 'biodiversity', 'eco-friendly', 'green technology', 'carbon footprint', 'environmental policy'] -->
 
-<div class="bg-gray-400"> {'og:locale': 'en_US', 'og:type': 'article', 'og:title': 'Four guideposts to engage with AI in education or how to use chatGPT in the classroom - Milieux', 'og:description': 'ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.', 'og:url': 'https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/', 'og:site_name': 'Milieux', 'og:image': 'https://milieux.concordia.ca/wp-content/uploads/2023/03/qk6QBlZo-1.jpeg', 'og:image:width': '1024', 'og:image:height': '1024', 'og:image:type': 'image/jpeg'} </div>
+<!-- <div class="bg-gray-400"> {'og:locale': 'en_US', 'og:type': 'article', 'og:title': 'Four guideposts to engage with AI in education or how to use chatGPT in the classroom - Milieux', 'og:description': 'ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.', 'og:url': 'https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education-or-how-to-use-chatgpt-in-the-classroom/', 'og:site_name': 'Milieux', 'og:image': 'https://milieux.concordia.ca/wp-content/uploads/2023/03/qk6QBlZo-1.jpeg', 'og:image:width': '1024', 'og:image:height': '1024', 'og:image:type': 'image/jpeg'} </div> -->
 
 Description: ChatGPT happened, and suddenly. AI made its way into many aspects of my life. As the hype and concerns keep growing, particularly concerning education as we know it, I have started to perceive how has AI, or generative AI, been used in the classroom.
 
@@ -98,3 +76,10 @@ URL: https://milieux.concordia.ca/four-guideposts-to-engage-with-ai-in-education
 Image: <img src="https://milieux.concordia.ca/wp-content/uploads/2023/03/qk6QBlZo-1.jpeg" width="1024" height="1024"/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Unleash the secret weapon of AI as you delve into the captivating world of how ChatGPT is revolutionizing education at Concordia University in Montreal.
+</div>
+</div>

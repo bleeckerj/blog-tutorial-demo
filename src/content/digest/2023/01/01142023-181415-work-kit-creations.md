@@ -11,43 +11,6 @@ filename: "01142023-181415-work-kit-creations"
 url: "https://discord.com/channels/724979694667169862/1061072916474769580/1063883764293455873"
 tags: []
 ---
-====
-
-https://youtu.be/AB9Rh6OL7EQ
-My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!
-<!-- 
-
- -->
-
-AAAA Unboxing video for the Lacunae v. 0.1, a wearable that dispenses adaptogens and oxytocin via skin to surface beads activated through increased skin capacitance when an individual is feeling stressed. https //youtu.be/AB9Rh6OL7EQ BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloUnboxing video for the Lacunae v. 0.1, a wearable that dispenses adaptogens and oxytocin via skin to surface beads activated through increased skin capacitance when an individual is feeling stressed. https //youtu.be/AB9Rh6OL7EQ</div>
-
-URL: <p>https://youtu.be/AB9Rh6OL7EQ</p>
-<p>My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!</p>  <!-- Example: Display each item in a paragraph -->
-<p>Unveiling the future of stress relief with the Lacunae v 0.1 Unboxing Video!</p>
-
-
-
-
-URL: https://youtu.be/AB9Rh6OL7EQ
-Description My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://youtu.be/AB9Rh6OL7EQ
-Description My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: Drew Wiberg
@@ -58,18 +21,33 @@ By: Drew Wiberg
 🗃-work-kit-creations</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Unboxing video for the Lacunae v. 0.1, a wearable that dispenses adaptogens and oxytocin via skin to surface beads activated through increased skin capacitance when an individual is feeling stressed. https //youtu.be/AB9Rh6OL7EQ</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://youtu.be/AB9Rh6OL7EQ">https://youtu.be/AB9Rh6OL7EQ</a></div>
+OG Description: My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!  <!-- Example: Display each item in a paragraph -->
+Unveiling the future of stress relief with the Lacunae v 0.1 Unboxing Video!
+
+
+
+<!-- 
+URL: https://youtu.be/AB9Rh6OL7EQ
+Description My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Get ready to have your stress levels obliterated with the mind-blowing Lacunae v. 0.1, a fancy wearable that pumps out adaptogens and oxytocin straight onto your skin when you're feeling overwhelmed - say goodbye to stress and hello to sheer zen!
-</div>
-</div>
 
-
-<a href="https://youtu.be/AB9Rh6OL7EQ">https://youtu.be/AB9Rh6OL7EQ</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -83,9 +61,9 @@ The text is a brief description of a YouTube video titled "Lacunae v 0.1 Unboxin
 
 <!-- Summary:  Lacunae v 0.1 Unboxing Video! SearchInfoShoppingWatch later . If playback doesn't begin shortly, try restarting your device . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:site_name': 'YouTube', 'og:url': 'https://www.youtube.com/watch?v=AB9Rh6OL7EQ', 'og:title': 'Lacunae v 0.1 Unboxing Video!', 'og:image': 'https://i.ytimg.com/vi/AB9Rh6OL7EQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGcBIACsgOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDqNC1lVxexCMC56270elXkHH5rDw', 'og:image:width': '480', 'og:image:height': '360', 'og:description': 'My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!', 'og:type': 'video.other', 'og:video:url': 'https://www.youtube.com/embed/AB9Rh6OL7EQ', 'og:video:secure_url': 'https://www.youtube.com/embed/AB9Rh6OL7EQ', 'og:video:type': 'text/html', 'og:video:width': '480', 'og:video:height': '360'} </div>
+<!-- <div class="bg-gray-400"> {'og:site_name': 'YouTube', 'og:url': 'https://www.youtube.com/watch?v=AB9Rh6OL7EQ', 'og:title': 'Lacunae v 0.1 Unboxing Video!', 'og:image': 'https://i.ytimg.com/vi/AB9Rh6OL7EQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGcBIACsgOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDqNC1lVxexCMC56270elXkHH5rDw', 'og:image:width': '480', 'og:image:height': '360', 'og:description': 'My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!', 'og:type': 'video.other', 'og:video:url': 'https://www.youtube.com/embed/AB9Rh6OL7EQ', 'og:video:secure_url': 'https://www.youtube.com/embed/AB9Rh6OL7EQ', 'og:video:type': 'text/html', 'og:video:width': '480', 'og:video:height': '360'} </div> -->
 
 Description: My unboxing video of the 2053 Lacunae Adaptive Stress Relief Companion!
 
@@ -98,3 +76,10 @@ URL: https://www.youtube.com/watch?v=AB9Rh6OL7EQ
 Image: <img src="https://i.ytimg.com/vi/AB9Rh6OL7EQ/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGcBIACsgOKAgwIABABGGUgZShlMA8=&rs=AOn4CLDqNC1lVxexCMC56270elXkHH5rDw" width="480" height="360"/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Get ready to have your stress levels obliterated with the mind-blowing Lacunae v. 0.1, a fancy wearable that pumps out adaptogens and oxytocin straight onto your skin when you're feeling overwhelmed - say goodbye to stress and hello to sheer zen!
+</div>
+</div>

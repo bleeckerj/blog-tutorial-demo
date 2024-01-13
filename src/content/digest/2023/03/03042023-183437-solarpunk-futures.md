@@ -9,247 +9,8 @@ summary: "Step into the captivating world of Solarpunk history, from its humble 
 path: 2023/03/
 filename: "03042023-183437-solarpunk-futures"
 url: "https://discord.com/channels/724979694667169862/895693903611699231/1081645893616406558"
-tags: []
+tags: ['peace', 'conflict', 'resolution', 'negotiation', 'diplomacy', 'international relations', 'mediation', 'communication', 'reconciliation', 'compromise']
 ---
-====
-
-https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.
-<!-- 
-
- -->
-
-AAAA Some Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/ BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 7 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloSome Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
-
-URL: <p>https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965</p>
-<p>The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.</p>  <!-- Example: Display each item in a paragraph -->
-<p>Solarpunk is a movement that envisions a sustainable civilization through a merging of practicality, beauty, and optimism, providing solutions and hope for a better future without fossil fuels.</p>
-
-<p>2</p>
-<div style="font-family: var(--font-family-peak);">HelloSome Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
-
-URL: <p>https://web.archive.org/web/20150702170454/http://www.sherylkaleo.com/solarpunk</p>
-<p>Please take a moment to answer the poll at the end of this page. What is solarpunk? If you visit the tumblr site solarpunks.tumblr.com you'll see bio-friendly pictures and read about the ideals of ...</p>  <!-- Example: Display each item in a paragraph -->
-<p>Solarpunk is an optimistic movement that focuses on clean energy and living in harmony with nature, and while still in its early stages, it has gained a passionate following and is now looking for ways to promote and develop the genre with the domains solarpunk.com and solarpunk.org.</p>
-
-<p>3</p>
-<div style="font-family: var(--font-family-peak);">HelloSome Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
-
-URL: <p>https://web.archive.org/web/20230000000000*/solarpunks.tumblr.com</p>
-<p></p>  <!-- Example: Display each item in a paragraph -->
-<p>Support the fight for libraries and join us in preserving the internet's past!</p>
-
-<p>4</p>
-<div style="font-family: var(--font-family-peak);">HelloSome Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
-
-URL: <p>https://web.archive.org/web/20120727070003/http://solarpunks.tumblr.com/</p>
-<p>At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...</p>  <!-- Example: Display each item in a paragraph -->
-<p>Solarpunks is a blog that challenges the way we view the future and asks thought-provoking questions about renewable energy, space habitats, intelligent democracy, and the equitable distribution of the future.</p>
-
-<p>5</p>
-<div style="font-family: var(--font-family-peak);">HelloSome Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
-
-URL: <p>https://web.archive.org/web/20150628114055/http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/</p>
-<p></p>  <!-- Example: Display each item in a paragraph -->
-<p>Solarpunk is a movement that aims to make life more wonderful for future generations by finding innovative ways to repurpose and create using existing resources, while also resisting oppressive infrastructure and embracing community.</p>
-
-<p>6</p>
-<div style="font-family: var(--font-family-peak);">HelloSome Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
-
-URL: <p>https://web.archive.org/web/20160305015103/http://solarpunks.tumblr.com/</p>
-<p>At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...</p>  <!-- Example: Display each item in a paragraph -->
-<p>Solarpunks is a Tumblr page that focuses on envisioning a future filled with hope, environmental consciousness, and achievable lifestyles, with recent posts including a call for solarpunk and eco-speculative short story submissions, the return of sailing ships as a green shipping alternative, and discussions on the idea of solarpunk fiction not having to be utopian or problem-free.</p>
-
-<p>7</p>
-<div style="font-family: var(--font-family-peak);">HelloSome Solarpunk History 
-
-Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
-https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-
-What is Solarpunk  From Sheryl Kaleo circa 2015;
-https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
-
-solarpunks.tumblr.com
-https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
-
-First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
-
-Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
-
-Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
-
-What is SolarPunk  From Solarpunk Anarchists circa 2016  
-https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
-
-Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
-
-URL: <p>https://web.archive.org/web/20170109064333/https://solarpunkanarchists.com/</p>
-<p>Imagining and Building Better Worlds</p>  <!-- Example: Display each item in a paragraph -->
-<p>Social ecology, a critical theory associated with the green movement, proposes that in order for human society and nature to coexist harmoniously, society must be transformed into an egalitarian, cooperative, and democratic structure, treating both humans and nature with respect, and thereby mending the rift between the two.</p>
-
-
-
-
-URL: https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-Description The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
-Description The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: Drew Wiberg
@@ -260,18 +21,221 @@ By: Drew Wiberg
 🔋-solarpunk-futures</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 7 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Some Solarpunk History 
+
+Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
+https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk  From Sheryl Kaleo circa 2015;
+https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
+
+Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
+
+What is SolarPunk  From Solarpunk Anarchists circa 2016  
+https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965">https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965</a></div>
+OG Description: The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.  <!-- Example: Display each item in a paragraph -->
+Solarpunk is a movement that envisions a sustainable civilization through a merging of practicality, beauty, and optimism, providing solutions and hope for a better future without fossil fuels.
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Some Solarpunk History 
+
+Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
+https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk  From Sheryl Kaleo circa 2015;
+https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
+
+Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
+
+What is SolarPunk  From Solarpunk Anarchists circa 2016  
+https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
+
+<div class="">Link 2</div> 
+<div class="">URL: <a href="https://web.archive.org/web/20150702170454/http://www.sherylkaleo.com/solarpunk">https://web.archive.org/web/20150702170454/http://www.sherylkaleo.com/solarpunk</a></div>
+OG Description: Please take a moment to answer the poll at the end of this page. What is solarpunk? If you visit the tumblr site solarpunks.tumblr.com you'll see bio-friendly pictures and read about the ideals of ...  <!-- Example: Display each item in a paragraph -->
+Solarpunk is an optimistic movement that focuses on clean energy and living in harmony with nature, and while still in its early stages, it has gained a passionate following and is now looking for ways to promote and develop the genre with the domains solarpunk.com and solarpunk.org.
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Some Solarpunk History 
+
+Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
+https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk  From Sheryl Kaleo circa 2015;
+https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
+
+Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
+
+What is SolarPunk  From Solarpunk Anarchists circa 2016  
+https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
+
+<div class="">Link 3</div> 
+<div class="">URL: <a href="https://web.archive.org/web/20230000000000*/solarpunks.tumblr.com">https://web.archive.org/web/20230000000000*/solarpunks.tumblr.com</a></div>
+OG Description:   <!-- Example: Display each item in a paragraph -->
+Support the fight for libraries and join us in preserving the internet's past!
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Some Solarpunk History 
+
+Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
+https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk  From Sheryl Kaleo circa 2015;
+https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
+
+Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
+
+What is SolarPunk  From Solarpunk Anarchists circa 2016  
+https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
+
+<div class="">Link 4</div> 
+<div class="">URL: <a href="https://web.archive.org/web/20120727070003/http://solarpunks.tumblr.com/">https://web.archive.org/web/20120727070003/http://solarpunks.tumblr.com/</a></div>
+OG Description: At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...  <!-- Example: Display each item in a paragraph -->
+Solarpunks is a blog that challenges the way we view the future and asks thought-provoking questions about renewable energy, space habitats, intelligent democracy, and the equitable distribution of the future.
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Some Solarpunk History 
+
+Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
+https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk  From Sheryl Kaleo circa 2015;
+https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
+
+Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
+
+What is SolarPunk  From Solarpunk Anarchists circa 2016  
+https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
+
+<div class="">Link 5</div> 
+<div class="">URL: <a href="https://web.archive.org/web/20150628114055/http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/">https://web.archive.org/web/20150628114055/http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/</a></div>
+OG Description:   <!-- Example: Display each item in a paragraph -->
+Solarpunk is a movement that aims to make life more wonderful for future generations by finding innovative ways to repurpose and create using existing resources, while also resisting oppressive infrastructure and embracing community.
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Some Solarpunk History 
+
+Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
+https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk  From Sheryl Kaleo circa 2015;
+https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
+
+Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
+
+What is SolarPunk  From Solarpunk Anarchists circa 2016  
+https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
+
+<div class="">Link 6</div> 
+<div class="">URL: <a href="https://web.archive.org/web/20160305015103/http://solarpunks.tumblr.com/">https://web.archive.org/web/20160305015103/http://solarpunks.tumblr.com/</a></div>
+OG Description: At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...  <!-- Example: Display each item in a paragraph -->
+Solarpunks is a Tumblr page that focuses on envisioning a future filled with hope, environmental consciousness, and achievable lifestyles, with recent posts including a call for solarpunk and eco-speculative short story submissions, the return of sailing ships as a green shipping alternative, and discussions on the idea of solarpunk fiction not having to be utopian or problem-free.
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Some Solarpunk History 
+
+Solarpunk  A Reference Guide, circa 2017 (by thee Jaymo, I believe)  
+https //web.archive.org/web/20171013231813/https //medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+
+What is Solarpunk  From Sheryl Kaleo circa 2015;
+https //web.archive.org/web/20150702170454/http //www.sherylkaleo.com/solarpunk
+
+solarpunks.tumblr.com
+https //web.archive.org/web/20230000000000*/solarpunks.tumblr.com
+
+First Capture  https //web.archive.org/web/20120727070003/http //solarpunks.tumblr.com/
+
+Project Hieroglyph  Solarpunk  Notes toward a manifesto; https //web.archive.org/web/20150628114055/http //hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/
+
+Looks like early AI images here (honestly, DALL-E hasn't progressed much past these), possibly some of the first solarpunk generative images  https //web.archive.org/web/20160305015103/http //solarpunks.tumblr.com/
+
+What is SolarPunk  From Solarpunk Anarchists circa 2016  
+https //web.archive.org/web/20160910025558/https //solarpunkanarchists.com/2016/05/27/what-is-solarpunk/
+
+Social Ecology  From Solarpunk Anarchists circa 2017  https //web.archive.org/web/20170109064333/https //solarpunkanarchists.com/</div>
+
+<div class="">Link 7</div> 
+<div class="">URL: <a href="https://web.archive.org/web/20170109064333/https://solarpunkanarchists.com/">https://web.archive.org/web/20170109064333/https://solarpunkanarchists.com/</a></div>
+OG Description: Imagining and Building Better Worlds  <!-- Example: Display each item in a paragraph -->
+Social ecology, a critical theory associated with the green movement, proposes that in order for human society and nature to coexist harmoniously, society must be transformed into an egalitarian, cooperative, and democratic structure, treating both humans and nature with respect, and thereby mending the rift between the two.
+
+
+
+<!-- 
+URL: https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965
+Description The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Step into the captivating world of Solarpunk history, from its humble beginnings in 2015 to the imaginative AI-generated images and the thought-provoking manifestos of Solarpunk Anarchists, where sustainability meets rebellion.
-</div>
-</div>
 
-
-<a href="https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965">https://web.archive.org/web/20171013231813/https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -287,9 +251,9 @@ The Solarpunks Tumblr page has compiled a reference guide with links to resource
 
 <!-- Summary:  Solarpunk is a movement in speculative fiction, art, fashion and activism that seeks to answer and embody the question “what does a sustainable civilization look like, and how can we get there?” -->
 
-['peace', 'conflict', 'resolution', 'negotiation', 'diplomacy', 'international relations', 'mediation', 'communication', 'reconciliation', 'compromise']
+<!-- ['peace', 'conflict', 'resolution', 'negotiation', 'diplomacy', 'international relations', 'mediation', 'communication', 'reconciliation', 'compromise'] -->
 
-<div class="bg-gray-400"> {'og:title': 'SOLARPUNK : A REFERENCE GUIDE – Solarpunks – Medium', 'og:url': 'https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965', 'og:image': 'https://cdn-images-1.medium.com/max/1200/0*SbZb5omUcm-H5Pum.', 'og:description': 'The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.', 'og:type': 'article', 'og:site_name': 'Medium'} </div>
+<!-- <div class="bg-gray-400"> {'og:title': 'SOLARPUNK : A REFERENCE GUIDE – Solarpunks – Medium', 'og:url': 'https://medium.com/solarpunks/solarpunk-a-reference-guide-8bcf18871965', 'og:image': 'https://cdn-images-1.medium.com/max/1200/0*SbZb5omUcm-H5Pum.', 'og:description': 'The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.', 'og:type': 'article', 'og:site_name': 'Medium'} </div> -->
 
 Description: The below was compiled by solarpunks.tumblr.com the short link for sharing is http://solarpunks.tumblr.com/Ref.
 
@@ -303,7 +267,6 @@ Image: <img src="https://cdn-images-1.medium.com/max/1200/0*SbZb5omUcm-H5Pum." w
 
 
 
-<a href="https://web.archive.org/web/20150702170454/http://www.sherylkaleo.com/solarpunk">https://web.archive.org/web/20150702170454/http://www.sherylkaleo.com/solarpunk</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -317,9 +280,9 @@ Solarpunk is a genre that focuses on clean energy, renewable resources, and livi
 
 <!-- Summary:  MormonMobster asked for feedback on “Figuring out ‘Solarpunk?'” on the website AbsoluteWrite.com (Dec 2010) A few people weighed in on the possible parameters of such a genre . Please take a moment to answer the poll at the end of this page . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:image': 'http://www.sherylkaleo.com/wp-content/uploads/2015/03/darkedinburgh_hothouse-150x150.jpg', 'og:type': 'article', 'og:title': 'Solarpunk', 'og:url': 'http://www.sherylkaleo.com/solarpunk/', 'og:description': "Please take a moment to answer the poll at the end of this page. What is solarpunk? If you visit the tumblr site solarpunks.tumblr.com you'll see bio-friendly pictures and read about the ideals of ...", 'og:site_name': 'Sheryl Kaleo...', 'og:locale': 'en_US'} </div>
+<!-- <div class="bg-gray-400"> {'og:image': 'http://www.sherylkaleo.com/wp-content/uploads/2015/03/darkedinburgh_hothouse-150x150.jpg', 'og:type': 'article', 'og:title': 'Solarpunk', 'og:url': 'http://www.sherylkaleo.com/solarpunk/', 'og:description': "Please take a moment to answer the poll at the end of this page. What is solarpunk? If you visit the tumblr site solarpunks.tumblr.com you'll see bio-friendly pictures and read about the ideals of ...", 'og:site_name': 'Sheryl Kaleo...', 'og:locale': 'en_US'} </div> -->
 
 Description: Please take a moment to answer the poll at the end of this page. What is solarpunk? If you visit the tumblr site solarpunks.tumblr.com you'll see bio-friendly pictures and read about the ideals of ...
 
@@ -333,7 +296,6 @@ Image: <img src="http://www.sherylkaleo.com/wp-content/uploads/2015/03/darkedinb
 
 
 
-<a href="https://web.archive.org/web/20230000000000*/solarpunks.tumblr.com">https://web.archive.org/web/20230000000000*/solarpunks.tumblr.com</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -347,9 +309,9 @@ The Wayback Machine, developed by the Internet Archive, is a digital archive of 
 
 <!-- Summary:  The Internet Archive logo is a line drawing of the Internet Archive headquarters building façade . The search icon is an illustration of a magnifying glass . The user icon is a person's head and chest . -->
 
-['conceptual', 'keywords', 'thematic', 'tags', 'essence', 'text', 'CSV format']
+<!-- [] -->
 
-<div class="bg-gray-400"> {} </div>
+<!-- <div class="bg-gray-400"> {} </div> -->
 
 Description: 
 
@@ -363,7 +325,6 @@ Image: <img src="" width="" height=""/>
 
 
 
-<a href="https://web.archive.org/web/20120727070003/http://solarpunks.tumblr.com/">https://web.archive.org/web/20120727070003/http://solarpunks.tumblr.com/</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -377,9 +338,9 @@ This text is a collection of posts from the Tumblr blog "Solarpunks." Solarpunk 
 
 <!-- Summary:  Researchers in the burgeoning field of climate psychology have identified another obstacle, one rooted in the very ways our brains work . The mental habits that help us navigate the local, practical demands of day-to-day life, t -->
 
-['reflection', 'self-discovery', 'forgiveness', 'growth', 'transformation', 'relationships', 'healing', 'resilience', 'acceptance', 'overcoming adversity']
+<!-- ['reflection', 'self-discovery', 'forgiveness', 'growth', 'transformation', 'relationships', 'healing', 'resilience', 'acceptance', 'overcoming adversity'] -->
 
-<div class="bg-gray-400"> {'og:title': 'SOLARPUNKS', 'og:url': 'http://solarpunks.tumblr.com/', 'og:description': 'At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...', 'og:type': 'tumblr-feed:tumblelog', 'og:image': 'http://25.media.tumblr.com/avatar_f56791fb5e0d_128.png'} </div>
+<!-- <div class="bg-gray-400"> {'og:title': 'SOLARPUNKS', 'og:url': 'http://solarpunks.tumblr.com/', 'og:description': 'At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...', 'og:type': 'tumblr-feed:tumblelog', 'og:image': 'http://25.media.tumblr.com/avatar_f56791fb5e0d_128.png'} </div> -->
 
 Description: At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...
 
@@ -393,7 +354,6 @@ Image: <img src="http://25.media.tumblr.com/avatar_f56791fb5e0d_128.png" width="
 
 
 
-<a href="https://web.archive.org/web/20150628114055/http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/">https://web.archive.org/web/20150628114055/http://hieroglyph.asu.edu/2014/09/solarpunk-notes-toward-a-manifesto/</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -407,9 +367,9 @@ The article discusses the concept of solarpunk, which is a movement that aims to
 
 <!-- Summary:  Solarpunk: Notes toward a manifesto | Project Hieroglyph . The Wayback Machine is available at http://hieroglyph.asu.edu/2014/09/Solarpunk . -->
 
-['friendship', 'love', 'adventure', 'self-discovery', 'courage', 'loyalty', 'perseverance', 'growth', 'coming of age']
+<!-- ['friendship', 'love', 'adventure', 'self-discovery', 'courage', 'loyalty', 'perseverance', 'growth', 'coming of age'] -->
 
-<div class="bg-gray-400"> {} </div>
+<!-- <div class="bg-gray-400"> {} </div> -->
 
 Description: 
 
@@ -423,7 +383,6 @@ Image: <img src="" width="" height=""/>
 
 
 
-<a href="https://web.archive.org/web/20160305015103/http://solarpunks.tumblr.com/">https://web.archive.org/web/20160305015103/http://solarpunks.tumblr.com/</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -437,9 +396,9 @@ The text is a collection of posts from the blog "Solarpunks" which focuses on th
 
 <!-- Summary:  The anthology will focus on times of environmental crisis and people inhabiting these tipping points, fighting to effect change and seek solutions, even if it’s already too late . We're looking for short stories from 500 to 7500 words . -->
 
-['philosophy', 'existentialism', 'meaning', 'existence', 'ethics', 'humanity', 'reality', 'truth', 'consciousness']
+<!-- ['philosophy', 'existentialism', 'meaning', 'existence', 'ethics', 'humanity', 'reality', 'truth', 'consciousness'] -->
 
-<div class="bg-gray-400"> {'og:title': 'SOLARPUNKS', 'og:url': 'http://solarpunks.tumblr.com/?og=1', 'og:description': 'At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...', 'og:type': 'tumblr-feed:tumblelog', 'og:image': 'http://33.media.tumblr.com/avatar_f56791fb5e0d_128.png'} </div>
+<!-- <div class="bg-gray-400"> {'og:title': 'SOLARPUNKS', 'og:url': 'http://solarpunks.tumblr.com/?og=1', 'og:description': 'At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...', 'og:type': 'tumblr-feed:tumblelog', 'og:image': 'http://33.media.tumblr.com/avatar_f56791fb5e0d_128.png'} </div> -->
 
 Description: At once a vision of the future, a thoughtful provocation, and an achievable lifestyle. In...
 
@@ -453,7 +412,6 @@ Image: <img src="http://33.media.tumblr.com/avatar_f56791fb5e0d_128.png" width="
 
 
 
-<a href="https://web.archive.org/web/20170109064333/https://solarpunkanarchists.com/">https://web.archive.org/web/20170109064333/https://solarpunkanarchists.com/</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -473,9 +431,9 @@ Overall, social ecology aims to imagine and build better worlds by envisioning a
 
 <!-- Summary:  Social ecology is a critical theory coined by Murray Bookchin in the 1960s . It is associated with the pro-technology and directly-democratic side of the green movement . It conceives of human society and nonhuman nature needing to relate to each other in non-hierarchical ways . -->
 
-['concepts,themes,ideas,essence,keywords,Tags,CSV,format,separated,commas']
+<!-- ['concepts,themes,ideas,essence,keywords,Tags,CSV,format,separated,commas'] -->
 
-<div class="bg-gray-400"> {'og:type': 'website', 'og:title': 'Solarpunk Anarchists', 'og:description': 'Imagining and Building Better Worlds', 'og:url': 'https://solarpunkanarchists.com/', 'og:site_name': 'Solarpunk Anarchists', 'og:image': 'https://secure.gravatar.com/blavatar/b66c8ba3bdaa8bb357909b2c4e87dc13?s=200&ts=1483944215', 'og:image:width': '200', 'og:image:height': '200', 'og:locale': 'en_US'} </div>
+<!-- <div class="bg-gray-400"> {'og:type': 'website', 'og:title': 'Solarpunk Anarchists', 'og:description': 'Imagining and Building Better Worlds', 'og:url': 'https://solarpunkanarchists.com/', 'og:site_name': 'Solarpunk Anarchists', 'og:image': 'https://secure.gravatar.com/blavatar/b66c8ba3bdaa8bb357909b2c4e87dc13?s=200&ts=1483944215', 'og:image:width': '200', 'og:image:height': '200', 'og:locale': 'en_US'} </div> -->
 
 Description: Imagining and Building Better Worlds
 
@@ -488,3 +446,10 @@ URL: https://solarpunkanarchists.com/
 Image: <img src="https://secure.gravatar.com/blavatar/b66c8ba3bdaa8bb357909b2c4e87dc13?s=200&ts=1483944215" width="200" height="200"/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Step into the captivating world of Solarpunk history, from its humble beginnings in 2015 to the imaginative AI-generated images and the thought-provoking manifestos of Solarpunk Anarchists, where sustainability meets rebellion.
+</div>
+</div>

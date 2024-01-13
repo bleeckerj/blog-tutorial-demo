@@ -11,43 +11,6 @@ filename: "01232023-103204-articles-and-essays"
 url: "https://discord.com/channels/724979694667169862/898263947227037707/1067028944253095967"
 tags: []
 ---
-====
-
-https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/
-The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.
-<!-- 
-
- -->
-
-AAAA https //www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/ BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">Hellohttps //www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/</div>
-
-URL: <p>https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/</p>
-<p>The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.</p>  <!-- Example: Display each item in a paragraph -->
-<p>Artificial intelligence's ability to understand and replicate human culture may be hindered by a lack of quality prose to consume, as AI is only as good a writer as the text it is trained on, and with the predicted shortage of well-constructed sentences for AI to ingest, its recent successes could soon come to an end.</p>
-
-
-
-
-URL: https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/
-Description The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/
-Description The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: nrgiga
@@ -58,18 +21,33 @@ By: nrgiga
 📃-articles-and-essays</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">https //www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/">https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/</a></div>
+OG Description: The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.  <!-- Example: Display each item in a paragraph -->
+Artificial intelligence's ability to understand and replicate human culture may be hindered by a lack of quality prose to consume, as AI is only as good a writer as the text it is trained on, and with the predicted shortage of well-constructed sentences for AI to ingest, its recent successes could soon come to an end.
+
+
+
+<!-- 
+URL: https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/
+Description The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-As AI becomes the ultimate conversation partner, capable of generated images and answering any question, we're left wondering if the likes of GPT-3 and the newly advanced DALL-E 2 will soon outshine our human pals in intellectual prowess and creativity.
-</div>
-</div>
 
-
-<a href="https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/">https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -83,9 +61,9 @@ In this article from The Atlantic, the author explores the potential limitations
 
 <!-- Summary:  What Happens When AI Has Read Everything? - The Atlantic . The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:site_name': 'The Atlantic', 'og:locale': 'en_US', 'og:title': 'What Happens When AI Has Read Everything?', 'og:description': 'The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.', 'og:url': 'https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/', 'og:type': 'article', 'og:image': 'https://cdn.theatlantic.com/thumbor/YtelEHhCyUFO0EOlrvm4EfYIo5E=/0x24:1200x649/1200x625/media/img/mt/2023/01/AI_Limits_Final_04/original.gif'} </div>
+<!-- <div class="bg-gray-400"> {'og:site_name': 'The Atlantic', 'og:locale': 'en_US', 'og:title': 'What Happens When AI Has Read Everything?', 'og:description': 'The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.', 'og:url': 'https://www.theatlantic.com/technology/archive/2023/01/artificial-intelligence-ai-chatgpt-dall-e-2-learning/672754/', 'og:type': 'article', 'og:image': 'https://cdn.theatlantic.com/thumbor/YtelEHhCyUFO0EOlrvm4EfYIo5E=/0x24:1200x649/1200x625/media/img/mt/2023/01/AI_Limits_Final_04/original.gif'} </div> -->
 
 Description: The dream of an artificial mind may never become a reality if AI runs out of quality prose to ingest—and there isn’t much left.
 
@@ -98,3 +76,10 @@ URL: https://www.theatlantic.com/technology/archive/2023/01/artificial-intellige
 Image: <img src="https://cdn.theatlantic.com/thumbor/YtelEHhCyUFO0EOlrvm4EfYIo5E=/0x24:1200x649/1200x625/media/img/mt/2023/01/AI_Limits_Final_04/original.gif" width="" height=""/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+As AI becomes the ultimate conversation partner, capable of generated images and answering any question, we're left wondering if the likes of GPT-3 and the newly advanced DALL-E 2 will soon outshine our human pals in intellectual prowess and creativity.
+</div>
+</div>

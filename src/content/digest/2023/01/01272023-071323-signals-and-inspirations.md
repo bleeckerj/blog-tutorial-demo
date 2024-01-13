@@ -11,28 +11,6 @@ filename: "01272023-071323-signals-and-inspirations"
 url: "https://discord.com/channels/724979694667169862/824808813559414794/1068428494205358080"
 tags: []
 ---
-====
-
-AAAA Speaking of which, I saw this guy the other day at the airport in Brussels, watching a TV show on this fancy laptop-support furniture BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message / Or..</div>    
-<div class="human-content-container">  
-
-Speaking of which, I saw this guy the other day at the airport in Brussels, watching a TV show on this fancy laptop-support furniture
-
-
-
-Speaking of which, I saw this guy the other day at the airport in Brussels, watching a TV show on this fancy laptop-support furniture
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-Speaking of which, I saw this guy the other day at the airport in Brussels, watching a TV show on this fancy laptop-support furniture
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: nicolasnova
@@ -43,13 +21,27 @@ By: nicolasnova
 🚦signals-and-inspirations</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message / Or..</div>    
+<div class="human-content-container">  
+
+Speaking of which, I saw this guy the other day at the airport in Brussels, watching a TV show on this fancy laptop-support furniture
+
+
+<!-- 
+Speaking of which, I saw this guy the other day at the airport in Brussels, watching a TV show on this fancy laptop-support furniture
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
+
+
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
 <div class="robot-content-container">
 The other day at the airport in Brussels, I spotted a guy living his best high-tech life, lounging luxuriously with a TV show in full swing on his swanky laptop-supporting furniture.
 </div>
 </div>
-

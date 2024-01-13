@@ -11,56 +11,6 @@ filename: "01132023-190244-jobs-grants-opportunities"
 url: "https://discord.com/channels/724979694667169862/953351601966444565/1063533576785764382"
 tags: []
 ---
-====
-
-https://usajobs.gov/job/699532500
-<p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>
-<!-- 
-
- -->
-
-AAAA New role at Smithsonian Institution, in the Office of Digital Transformation. This team is amazing, and growing. Feel free to DM me for more info... Director of Data Analytics and Insights
-Public Announcement  https //usajobs.gov/job/699532500
-Fed Only Announcement  https //usajobs.gov/job/699532800 BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 2 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloNew role at Smithsonian Institution, in the Office of Digital Transformation. This team is amazing, and growing. Feel free to DM me for more info... Director of Data Analytics and Insights
-Public Announcement  https //usajobs.gov/job/699532500
-Fed Only Announcement  https //usajobs.gov/job/699532800</div>
-
-URL: <p>https://usajobs.gov/job/699532500</p>
-<p><p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p></p>  <!-- Example: Display each item in a paragraph -->
-<p>Explore a captivating opportunity to become the Director of Data Analytics and Insights at the Smithsonian Institution, where you'll be part of a groundbreaking team in the Office of Digital Transformation, revolutionizing the way we connect knowledge and serve communities worldwide.</p>
-
-<p>2</p>
-<div style="font-family: var(--font-family-peak);">HelloNew role at Smithsonian Institution, in the Office of Digital Transformation. This team is amazing, and growing. Feel free to DM me for more info... Director of Data Analytics and Insights
-Public Announcement  https //usajobs.gov/job/699532500
-Fed Only Announcement  https //usajobs.gov/job/699532800</div>
-
-URL: <p>https://usajobs.gov/job/699532800</p>
-<p><p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT), created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together.</p></p>  <!-- Example: Display each item in a paragraph -->
-<p>The Smithsonian Institution is looking for a Director of Data Analytics and Insights to join their Office of Digital Transformation and help build a digitally empowered institution that brings knowledge and people together on a global scale, offering a journey of exploration, learning, and meaning.</p>
-
-
-
-
-URL: https://usajobs.gov/job/699532500
-Description <p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://usajobs.gov/job/699532500
-Description <p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: isabellaisabellaisabella
@@ -71,18 +21,45 @@ By: isabellaisabellaisabella
 💁🏽-jobs-grants-opportunities</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 2 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">New role at Smithsonian Institution, in the Office of Digital Transformation. This team is amazing, and growing. Feel free to DM me for more info... Director of Data Analytics and Insights
+Public Announcement  https //usajobs.gov/job/699532500
+Fed Only Announcement  https //usajobs.gov/job/699532800</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://usajobs.gov/job/699532500">https://usajobs.gov/job/699532500</a></div>
+OG Description: <p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>  <!-- Example: Display each item in a paragraph -->
+Explore a captivating opportunity to become the Director of Data Analytics and Insights at the Smithsonian Institution, where you'll be part of a groundbreaking team in the Office of Digital Transformation, revolutionizing the way we connect knowledge and serve communities worldwide.
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">New role at Smithsonian Institution, in the Office of Digital Transformation. This team is amazing, and growing. Feel free to DM me for more info... Director of Data Analytics and Insights
+Public Announcement  https //usajobs.gov/job/699532500
+Fed Only Announcement  https //usajobs.gov/job/699532800</div>
+
+<div class="">Link 2</div> 
+<div class="">URL: <a href="https://usajobs.gov/job/699532800">https://usajobs.gov/job/699532800</a></div>
+OG Description: <p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT), created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together.</p>  <!-- Example: Display each item in a paragraph -->
+The Smithsonian Institution is looking for a Director of Data Analytics and Insights to join their Office of Digital Transformation and help build a digitally empowered institution that brings knowledge and people together on a global scale, offering a journey of exploration, learning, and meaning.
+
+
+
+<!-- 
+URL: https://usajobs.gov/job/699532500
+Description <p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-The Smithsonian Institution is unleashing its digital prowess with a captivating, ever-expanding team in the Office of Digital Transformation, seeking a Director of Data Analytics and Insights, so if you're ready to dive into this exciting role, dive into the links provided for more information!
-</div>
-</div>
 
-
-<a href="https://usajobs.gov/job/699532500">https://usajobs.gov/job/699532500</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -102,9 +79,9 @@ The salary for this position ranges from $155,700 to $183,500 per year, and the 
 
 <!-- Summary:  An official website of the United States government has been created with Sketch.com . The site is called USAJOBS . The job announcement is based on a job announcement . The search results are based on search terms . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:title': 'Director of Data Analytics and Insights', 'og:url': 'https://www.usajobs.gov:443/GetJob/ViewDetails/699532500', 'og:description': '<p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>', 'og:site_name': 'USAJOBS', 'og:app_id': '204902959720', 'og:image': 'https://www.usajobs.gov/media/content/usajobs-branded-search.png'} </div>
+<!-- <div class="bg-gray-400"> {'og:title': 'Director of Data Analytics and Insights', 'og:url': 'https://www.usajobs.gov:443/GetJob/ViewDetails/699532500', 'og:description': '<p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>', 'og:site_name': 'USAJOBS', 'og:app_id': '204902959720', 'og:image': 'https://www.usajobs.gov/media/content/usajobs-branded-search.png'} </div> -->
 
 Description: <p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT) created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together. </p>
 
@@ -118,7 +95,6 @@ Image: <img src="https://www.usajobs.gov/media/content/usajobs-branded-search.pn
 
 
 
-<a href="https://usajobs.gov/job/699532800">https://usajobs.gov/job/699532800</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -138,9 +114,9 @@ This is a full-time position located in Washington, D.C., with no remote work op
 
 <!-- Summary:  An official website of the United States government has been created with Sketch.com . The site is called USAJOBS . The job announcement is based on a job announcement . The search results are based on search terms . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:title': 'Director of Data Analytics and Insights', 'og:url': 'https://www.usajobs.gov:443/GetJob/ViewDetails/699532800', 'og:description': '<p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT), created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together.</p>', 'og:site_name': 'USAJOBS', 'og:app_id': '204902959720', 'og:image': 'https://www.usajobs.gov/media/content/usajobs-branded-search.png'} </div>
+<!-- <div class="bg-gray-400"> {'og:title': 'Director of Data Analytics and Insights', 'og:url': 'https://www.usajobs.gov:443/GetJob/ViewDetails/699532800', 'og:description': '<p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT), created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together.</p>', 'og:site_name': 'USAJOBS', 'og:app_id': '204902959720', 'og:image': 'https://www.usajobs.gov/media/content/usajobs-branded-search.png'} </div> -->
 
 Description: <p>The Smithsonian Institution is the world&rsquo;s largest museum, education, and research complex, with 21 museums and the National Zoo.&nbsp; This position is located in the&nbsp;Office of Digital Transformation (ODT), created to build a digitally empowered institution that builds purposeful connections between the knowledge we share and the people we serve, inviting every household, classroom, and community around the globe on a lasting journey to explore, learn, and find meaning together.</p>
 
@@ -153,3 +129,10 @@ URL: https://www.usajobs.gov:443/GetJob/ViewDetails/699532800
 Image: <img src="https://www.usajobs.gov/media/content/usajobs-branded-search.png" width="" height=""/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+The Smithsonian Institution is unleashing its digital prowess with a captivating, ever-expanding team in the Office of Digital Transformation, seeking a Director of Data Analytics and Insights, so if you're ready to dive into this exciting role, dive into the links provided for more information!
+</div>
+</div>

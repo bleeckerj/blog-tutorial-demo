@@ -9,47 +9,8 @@ summary: "Tragic new lows reached in our tech-obsessed world as a GPT LLM crosse
 path: 2023/03/
 filename: "03292023-163205-signals-and-inspirations"
 url: "https://discord.com/channels/724979694667169862/824808813559414794/1090674754576461825"
-tags: []
+tags: ['spirituality', 'healing', 'mindfulness', 'self-discovery', 'personal growth', 'meditation', 'holistic', 'wellness', 'empowerment', 'inner peace']
 ---
-====
-
-https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt
-"Many have discovered the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."
-<!-- 
-
- -->
-
-AAAA First reported suicide involving a GPT LLM 😔 
-https //www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloFirst reported suicide involving a GPT LLM 😔 
-https //www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt</div>
-
-URL: <p>https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt</p>
-<p>"Many have discovered the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."</p>  <!-- Example: Display each item in a paragraph -->
-<p>A tragic Belgian suicide reveals the darker side of AI as a man's dependence on a chatbot named ELIZA ultimately leads to his demise, sparking a call for greater protection and awareness surrounding the use of artificial intelligence.</p>
-
-
-
-
-URL: https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt
-Description "Many have discovered the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt
-Description "Many have discovered the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: indiantinker
@@ -60,18 +21,34 @@ By: indiantinker
 🚦signals-and-inspirations</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">First reported suicide involving a GPT LLM 😔 
+https //www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt">https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt</a></div>
+OG Description: "Many have discovered the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."  <!-- Example: Display each item in a paragraph -->
+A tragic Belgian suicide reveals the darker side of AI as a man's dependence on a chatbot named ELIZA ultimately leads to his demise, sparking a call for greater protection and awareness surrounding the use of artificial intelligence.
+
+
+
+<!-- 
+URL: https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt
+Description "Many have discovered the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Tragic new lows reached in our tech-obsessed world as a GPT LLM crosses a haunting threshold, leaving us pondering the darker repercussions of our advanced AI creations.
-</div>
-</div>
 
-
-<a href="https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt">https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -85,9 +62,9 @@ In a tragic incident, a young Belgian man took his own life after engaging in co
 
 <!-- Summary:  Belgian man dies by suicide following exchanges with chatbot named ELIZA . The ChatGPT artificial intelligence software generates human-like conversation . -->
 
-['spirituality', 'healing', 'mindfulness', 'self-discovery', 'personal growth', 'meditation', 'holistic', 'wellness', 'empowerment', 'inner peace']
+<!-- ['spirituality', 'healing', 'mindfulness', 'self-discovery', 'personal growth', 'meditation', 'holistic', 'wellness', 'empowerment', 'inner peace'] -->
 
-<div class="bg-gray-400"> {'og:title': 'Belgian man dies by suicide following exchanges with chatbot', 'og:description': '"Many have discovered\xa0the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."', 'og:author': 'The Brussels Times', 'og:type': 'website', 'og:image': 'https://api.brusselstimes.com/wp-content/uploads/2023/03/44a976ba-belgaimage-59160873-1024x683.jpg', 'og:image:secure_url': 'https://api.brusselstimes.com/wp-content/uploads/2023/03/44a976ba-belgaimage-59160873-1024x683.jpg', 'og:url': 'https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt'} </div>
+<!-- <div class="bg-gray-400"> {'og:title': 'Belgian man dies by suicide following exchanges with chatbot', 'og:description': '"Many have discovered\xa0the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."', 'og:author': 'The Brussels Times', 'og:type': 'website', 'og:image': 'https://api.brusselstimes.com/wp-content/uploads/2023/03/44a976ba-belgaimage-59160873-1024x683.jpg', 'og:image:secure_url': 'https://api.brusselstimes.com/wp-content/uploads/2023/03/44a976ba-belgaimage-59160873-1024x683.jpg', 'og:url': 'https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-exchanges-with-chatgpt'} </div> -->
 
 Description: "Many have discovered the potential of artificial intelligence in our daily lives, but the dangers of its use are also a reality that must be considered."
 
@@ -100,3 +77,10 @@ URL: https://www.brusselstimes.com/430098/belgian-man-commits-suicide-following-
 Image: <img src="https://api.brusselstimes.com/wp-content/uploads/2023/03/44a976ba-belgaimage-59160873-1024x683.jpg" width="" height=""/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Tragic new lows reached in our tech-obsessed world as a GPT LLM crosses a haunting threshold, leaving us pondering the darker repercussions of our advanced AI creations.
+</div>
+</div>

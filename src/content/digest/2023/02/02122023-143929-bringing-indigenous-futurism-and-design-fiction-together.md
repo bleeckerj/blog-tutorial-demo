@@ -11,43 +11,6 @@ filename: "02122023-143929-bringing-indigenous-futurism-and-design-fiction-toget
 url: "https://discord.com/channels/724979694667169862/1074315032898322464/1074338966079295508"
 tags: []
 ---
-====
-
-https://youtu.be/ERLmlA7634I
-Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...
-<!-- 
-
- -->
-
-AAAA Great 18 min here; https //youtu.be/ERLmlA7634I BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloGreat 18 min here; https //youtu.be/ERLmlA7634I</div>
-
-URL: <p>https://youtu.be/ERLmlA7634I</p>
-<p>Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...</p>  <!-- Example: Display each item in a paragraph -->
-<p>In this episode of the Wondros Podcast, Jesse and Priscilla chat with scholar and author Grace Dillon about the captivating concept of Indigenous Futurism, where indigenous art, literature, and media blend seamlessly with science fiction and an emphasis on science.</p>
-
-
-
-
-URL: https://youtu.be/ERLmlA7634I
-Description Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://youtu.be/ERLmlA7634I
-Description Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: Drew Wiberg
@@ -58,18 +21,33 @@ By: Drew Wiberg
 Bringing Indigenous Futurism and Design Fiction Together</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Great 18 min here; https //youtu.be/ERLmlA7634I</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://youtu.be/ERLmlA7634I">https://youtu.be/ERLmlA7634I</a></div>
+OG Description: Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...  <!-- Example: Display each item in a paragraph -->
+In this episode of the Wondros Podcast, Jesse and Priscilla chat with scholar and author Grace Dillon about the captivating concept of Indigenous Futurism, where indigenous art, literature, and media blend seamlessly with science fiction and an emphasis on science.
+
+
+
+<!-- 
+URL: https://youtu.be/ERLmlA7634I
+Description Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Get ready for an epic 18-minute rollercoaster ride of knowledge and entertainment with this fantastic video!
-</div>
-</div>
 
-
-<a href="https://youtu.be/ERLmlA7634I">https://youtu.be/ERLmlA7634I</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -83,9 +61,9 @@ In this episode of the Wondros Podcast, Jesse and Priscilla engage in a conversa
 
 <!-- Summary:  Indigenous Futurism | Grace Dillon | Wondros Podcast Ep 111 - YouTube . Search with your voice, sign in, sign up for the next episode of the podcast . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:site_name': 'YouTube', 'og:url': 'https://www.youtube.com/watch?v=ERLmlA7634I', 'og:title': 'Indigenous Futurism | Grace Dillon | Wondros Podcast Ep 111', 'og:image': 'https://i.ytimg.com/vi/ERLmlA7634I/maxresdefault.jpg', 'og:image:width': '1280', 'og:image:height': '720', 'og:description': 'Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...', 'og:type': 'video.other', 'og:video:url': 'https://www.youtube.com/embed/ERLmlA7634I', 'og:video:secure_url': 'https://www.youtube.com/embed/ERLmlA7634I', 'og:video:type': 'text/html', 'og:video:width': '1280', 'og:video:height': '720', 'og:video:tag': '#wondrospodcast'} </div>
+<!-- <div class="bg-gray-400"> {'og:site_name': 'YouTube', 'og:url': 'https://www.youtube.com/watch?v=ERLmlA7634I', 'og:title': 'Indigenous Futurism | Grace Dillon | Wondros Podcast Ep 111', 'og:image': 'https://i.ytimg.com/vi/ERLmlA7634I/maxresdefault.jpg', 'og:image:width': '1280', 'og:image:height': '720', 'og:description': 'Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...', 'og:type': 'video.other', 'og:video:url': 'https://www.youtube.com/embed/ERLmlA7634I', 'og:video:secure_url': 'https://www.youtube.com/embed/ERLmlA7634I', 'og:video:type': 'text/html', 'og:video:width': '1280', 'og:video:height': '720', 'og:video:tag': '#wondrospodcast'} </div> -->
 
 Description: Jesse and Priscilla talk with scholar and author, Grace Dillon about Indigenous Futurism, a term she coined to describe indigenous art, literature, and media...
 
@@ -98,3 +76,10 @@ URL: https://www.youtube.com/watch?v=ERLmlA7634I
 Image: <img src="https://i.ytimg.com/vi/ERLmlA7634I/maxresdefault.jpg" width="1280" height="720"/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Get ready for an epic 18-minute rollercoaster ride of knowledge and entertainment with this fantastic video!
+</div>
+</div>

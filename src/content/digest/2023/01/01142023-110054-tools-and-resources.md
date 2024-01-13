@@ -11,43 +11,6 @@ filename: "01142023-110054-tools-and-resources"
 url: "https://discord.com/channels/724979694667169862/968903026981077012/1063774707473723442"
 tags: []
 ---
-====
-
-https://teenage.engineering/products/po-80
-make your own vinyl records
-<!-- 
-
- -->
-
-AAAA *excitedly claps like seven yo* https //teenage.engineering/products/po-80 BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">Hello*excitedly claps like seven yo* https //teenage.engineering/products/po-80</div>
-
-URL: <p>https://teenage.engineering/products/po-80</p>
-<p>make your own vinyl records</p>  <!-- Example: Display each item in a paragraph -->
-<p>Say goodbye to standard vinyl records and hello to the ultra-cool PO-80 record factory by teenage engineering! This compact and portable record cutter allows you to engrave and playback 5" discs with a lo-fi sound that's sure to give your favorite 7" records new life - simply plug in any audio device and cut your own record in an instant, no experience required! So why wait? Start your own vinyl revolution today and become the ultimate DJ with the PO-80 record factory.</p>
-
-
-
-
-URL: https://teenage.engineering/products/po-80
-Description make your own vinyl records
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://teenage.engineering/products/po-80
-Description make your own vinyl records
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: Drew Wiberg
@@ -58,18 +21,33 @@ By: Drew Wiberg
 🔩-tools-and-resources</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">*excitedly claps like seven yo* https //teenage.engineering/products/po-80</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://teenage.engineering/products/po-80">https://teenage.engineering/products/po-80</a></div>
+OG Description: make your own vinyl records  <!-- Example: Display each item in a paragraph -->
+Say goodbye to standard vinyl records and hello to the ultra-cool PO-80 record factory by teenage engineering! This compact and portable record cutter allows you to engrave and playback 5" discs with a lo-fi sound that's sure to give your favorite 7" records new life - simply plug in any audio device and cut your own record in an instant, no experience required! So why wait? Start your own vinyl revolution today and become the ultimate DJ with the PO-80 record factory.
+
+
+
+<!-- 
+URL: https://teenage.engineering/products/po-80
+Description make your own vinyl records
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Teenage Engineering's PO-80 is an exquisitely crafted portable synthesizer that will surely unleash your inner musical prodigy and leave you begging for an encore.
-</div>
-</div>
 
-
-<a href="https://teenage.engineering/products/po-80">https://teenage.engineering/products/po-80</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -83,9 +61,9 @@ The PO-80 record factory is a portable record cutter created in collaboration wi
 
 <!-- Summary:  The PO-80 record factory is a compact and portable record cutter . engrave and playback 5" discs  with ultra-analog lo-fi sound . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:image': 'https://teenage.engineering/_img/633184b3681b8dc0ca7b5142_1024.png', 'og:title': 'PO-80', 'og:description': 'make your own vinyl records', 'og:type': 'website', 'og:site_name': 'teenage engineering'} </div>
+<!-- <div class="bg-gray-400"> {'og:image': 'https://teenage.engineering/_img/633184b3681b8dc0ca7b5142_1024.png', 'og:title': 'PO-80', 'og:description': 'make your own vinyl records', 'og:type': 'website', 'og:site_name': 'teenage engineering'} </div> -->
 
 Description: make your own vinyl records
 
@@ -98,3 +76,10 @@ URL:
 Image: <img src="https://teenage.engineering/_img/633184b3681b8dc0ca7b5142_1024.png" width="" height=""/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Teenage Engineering's PO-80 is an exquisitely crafted portable synthesizer that will surely unleash your inner musical prodigy and leave you begging for an encore.
+</div>
+</div>

@@ -11,43 +11,6 @@ filename: "02022023-162911-work-kit-creations"
 url: "https://discord.com/channels/724979694667169862/1061072916474769580/1070742694629998703"
 tags: []
 ---
-====
-
-https://designfiction.substack.com/
-A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.
-<!-- 
-
- -->
-
-AAAA Alrighty, here's this week's Workit Wednesday. Find the full write-up at Design Fiction Daily's new home - https //designfiction.substack.com/ - i am currently transitioning off of Medium to substack. BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloAlrighty, here's this week's Workit Wednesday. Find the full write-up at Design Fiction Daily's new home - https //designfiction.substack.com/ - i am currently transitioning off of Medium to substack.</div>
-
-URL: <p>https://designfiction.substack.com/</p>
-<p>A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.</p>  <!-- Example: Display each item in a paragraph -->
-<p>Design Fiction Daily is a Substack newsletter that offers daily exercises in imagining harder about non-existent things, with articles covering topics such as AI companions, digital legacies, and banalities for professional consumers.</p>
-
-
-
-
-URL: https://designfiction.substack.com/
-Description A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://designfiction.substack.com/
-Description A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: Dré Labre
@@ -58,18 +21,33 @@ By: Dré Labre
 🗃-work-kit-creations</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">Alrighty, here's this week's Workit Wednesday. Find the full write-up at Design Fiction Daily's new home - https //designfiction.substack.com/ - i am currently transitioning off of Medium to substack.</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://designfiction.substack.com/">https://designfiction.substack.com/</a></div>
+OG Description: A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.  <!-- Example: Display each item in a paragraph -->
+Design Fiction Daily is a Substack newsletter that offers daily exercises in imagining harder about non-existent things, with articles covering topics such as AI companions, digital legacies, and banalities for professional consumers.
+
+
+
+<!-- 
+URL: https://designfiction.substack.com/
+Description A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Discover the latest captivating edition of Workit Wednesday on Design Fiction Daily's brand-new digital abode, where the dynamic move from Medium to substack is well underway!
-</div>
-</div>
 
-
-<a href="https://designfiction.substack.com/">https://designfiction.substack.com/</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -83,9 +61,9 @@ The article is a promotional piece for the website Design Fiction Daily, a platf
 
 <!-- Summary:  A (almost) daily exercise in imagining harder about things that don’t exist . Launched a year ago . The Last Word in Digital LegacyWhen Your Final Wish is a Clean Browser History . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:url': 'https://www.designfictiondaily.com/', 'og:type': 'article', 'og:title': 'Design Fiction Daily | Dré Labre | Substack', 'og:description': 'A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.', 'og:image': 'https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdesignfiction.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1695560501%26version%3D9'} </div>
+<!-- <div class="bg-gray-400"> {'og:url': 'https://www.designfictiondaily.com/', 'og:type': 'article', 'og:title': 'Design Fiction Daily | Dré Labre | Substack', 'og:description': 'A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.', 'og:image': 'https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdesignfiction.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1695560501%26version%3D9'} </div> -->
 
 Description: A (almost) daily exercise in imagining harder about things that don’t exist. Click to read Design Fiction Daily, by Dré Labre, a Substack publication with hundreds of subscribers.
 
@@ -98,3 +76,10 @@ URL: https://www.designfictiondaily.com/
 Image: <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fdesignfiction.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1695560501%26version%3D9" width="" height=""/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Discover the latest captivating edition of Workit Wednesday on Design Fiction Daily's brand-new digital abode, where the dynamic move from Medium to substack is well underway!
+</div>
+</div>

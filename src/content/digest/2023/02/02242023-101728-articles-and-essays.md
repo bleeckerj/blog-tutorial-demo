@@ -11,43 +11,6 @@ filename: "02242023-101728-articles-and-essays"
 url: "https://discord.com/channels/724979694667169862/898263947227037707/1078621680613724221"
 tags: []
 ---
-====
-
-https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2
-What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…
-<!-- 
-
- -->
-
-AAAA https //medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2 BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">Hellohttps //medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2</div>
-
-URL: <p>https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2</p>
-<p>What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…</p>  <!-- Example: Display each item in a paragraph -->
-<p>Creativity and imagination are the driving forces behind great discoveries and inventions, but they cannot be fully realized without knowledge and wisdom; therefore, the key is finding a balance between all four elements to create something valuable and solve real problems.</p>
-
-
-
-
-URL: https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2
-Description What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2
-Description What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: Drew Wiberg
@@ -58,18 +21,33 @@ By: Drew Wiberg
 📃-articles-and-essays</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">https //medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2">https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2</a></div>
+OG Description: What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…  <!-- Example: Display each item in a paragraph -->
+Creativity and imagination are the driving forces behind great discoveries and inventions, but they cannot be fully realized without knowledge and wisdom; therefore, the key is finding a balance between all four elements to create something valuable and solve real problems.
+
+
+
+<!-- 
+URL: https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2
+Description What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Dive into the ultimate battle of brains where creativity and imagination ignite a war against knowledge and wisdom, and discover why understanding this rivalry makes all the difference in your quest for brilliance.
-</div>
-</div>
 
-
-<a href="https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2">https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -87,9 +65,9 @@ The author emphasizes the need to balance the pursuit of knowledge with the cult
 
 <!-- Summary:  Poonam Choudhary: Knowledge is useful only if you can imagine what all you can do with it . Creativity and Imagination vs Knowledge and Wisdom . -->
 
-[]
+<!-- [] -->
 
-<div class="bg-gray-400"> {'og:site_name': 'Medium', 'og:type': 'article', 'og:title': 'Creativity and Imagination vs Knowledge and Wisdom', 'og:description': 'What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…', 'og:url': 'https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2', 'og:image': 'https://miro.medium.com/v2/resize:fit:700/1*ZozP1zqtpv8GODiCAkxhHw.jpeg'} </div>
+<!-- <div class="bg-gray-400"> {'og:site_name': 'Medium', 'og:type': 'article', 'og:title': 'Creativity and Imagination vs Knowledge and Wisdom', 'og:description': 'What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…', 'og:url': 'https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wisdom-2693307967d2', 'og:image': 'https://miro.medium.com/v2/resize:fit:700/1*ZozP1zqtpv8GODiCAkxhHw.jpeg'} </div> -->
 
 Description: What do you think led to the invention of electricity or an aeroplane or the internet? What made it possible for man to walk on moon? Or…
 
@@ -102,3 +80,10 @@ URL: https://medium.com/@poonamc/creativity-and-imagination-vs-knowledge-and-wis
 Image: <img src="https://miro.medium.com/v2/resize:fit:700/1*ZozP1zqtpv8GODiCAkxhHw.jpeg" width="" height=""/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Dive into the ultimate battle of brains where creativity and imagination ignite a war against knowledge and wisdom, and discover why understanding this rivalry makes all the difference in your quest for brilliance.
+</div>
+</div>

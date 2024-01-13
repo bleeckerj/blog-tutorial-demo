@@ -9,45 +9,8 @@ summary: "Donna Haraway beautifully unveils a thought-provoking tribute to Bruno
 path: 2023/03/
 filename: "03252023-130047-articles-and-essays"
 url: "https://discord.com/channels/724979694667169862/898263947227037707/1089172027618889798"
-tags: []
+tags: ['spirituality', 'self-discovery', 'personal growth', 'belief systems', 'mindfulness', 'meditation', 'inner peace', 'enlightenment']
 ---
-====
-
-https://journals.sagepub.com/doi/abs/10.1177/03063127231157395
-
-<!-- 
-
- -->
-
-AAAA This is a good tribute to Bruno Latour by Donna Haraway  https //journals.sagepub.com/doi/abs/10.1177/03063127231157395 BBBBB
-
-====
-<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
-<div class="human-content-container">  
-
-
-<p>1</p>
-<div style="font-family: var(--font-family-peak);">HelloThis is a good tribute to Bruno Latour by Donna Haraway  https //journals.sagepub.com/doi/abs/10.1177/03063127231157395</div>
-
-URL: <p>https://journals.sagepub.com/doi/abs/10.1177/03063127231157395</p>
-<p></p>  <!-- Example: Display each item in a paragraph -->
-<p>Hold on tight, folks! Before we explore the vast wonders of journals.sagepub.com, they just want to double-check that our connection is locked up tighter than a safe - and rest assured, they've got their Cloudflare security guardians ready to take on any digital threat! So, if you're itching to dive into their treasure trove of knowledge, just make sure to enable JavaScript and cookies, because this adventure is about to begin!</p>
-
-
-
-
-URL: https://journals.sagepub.com/doi/abs/10.1177/03063127231157395
-Description 
-
-</div>
-
-<div class="bg-blue-300 p-4 rounded-md mb-4">
-
-URL: https://journals.sagepub.com/doi/abs/10.1177/03063127231157395
-Description 
-
-</div>
-
 <div class="metadata-title-header pt-3 pb-3 pl-2">Author</div>    
 <div class="bg-gray-200 p-4 rounded-md mb-4">   
 By: nicolasnova
@@ -58,18 +21,33 @@ By: nicolasnova
 📃-articles-and-essays</span>
 </div>
 
+<div class="metadata-title-header pt-3 pb-3 pl-2">Message  With 1 Links / Or..</div>    
+<div class="human-content-container">  
+
+
+
+<div class="mb-4" style="font-family: var(--font-family-peak);">This is a good tribute to Bruno Latour by Donna Haraway  https //journals.sagepub.com/doi/abs/10.1177/03063127231157395</div>
+
+<div class="">Link 1</div> 
+<div class="">URL: <a href="https://journals.sagepub.com/doi/abs/10.1177/03063127231157395">https://journals.sagepub.com/doi/abs/10.1177/03063127231157395</a></div>
+OG Description:   <!-- Example: Display each item in a paragraph -->
+Hold on tight, folks! Before we explore the vast wonders of journals.sagepub.com, they just want to double-check that our connection is locked up tighter than a safe - and rest assured, they've got their Cloudflare security guardians ready to take on any digital threat! So, if you're itching to dive into their treasure trove of knowledge, just make sure to enable JavaScript and cookies, because this adventure is about to begin!
+
+
+
+<!-- 
+URL: https://journals.sagepub.com/doi/abs/10.1177/03063127231157395
+Description 
+ -->
+</div>
+
+
+
 cf: <a href="">Message from the Near Future Laboratory Discord</a>
 
 <a href="">Join the Near Future Laboratory Discord</a> - it's less than one typically spends on coffee or beer in a week. 
 
-<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
-<div class="robot-content-container">
-Donna Haraway beautifully unveils a thought-provoking tribute to Bruno Latour, embodying a tapestry of insights that will leave you dazzled and craving for more.
-</div>
-</div>
 
-
-<a href="https://journals.sagepub.com/doi/abs/10.1177/03063127231157395">https://journals.sagepub.com/doi/abs/10.1177/03063127231157395</a><br/>
 
 <div class="metadata-title-header pt-3 pb-3 pl-2">GPT Short Summary</div>
 <div class="robot-content-container">
@@ -89,9 +67,9 @@ Overall, this security review conducted by journals.sagepub.com is an important 
 
 <!-- Summary:  JPs.sagepub.com needs to review the security of your connection before proceeding .Enable JavaScript and cookies to continue . Ray ID: 8448f8d8d7ee0a7e9c . -->
 
-['spirituality', 'self-discovery', 'personal growth', 'belief systems', 'mindfulness', 'meditation', 'inner peace', 'enlightenment']
+<!-- ['spirituality', 'self-discovery', 'personal growth', 'belief systems', 'mindfulness', 'meditation', 'inner peace', 'enlightenment'] -->
 
-<div class="bg-gray-400"> {} </div>
+<!-- <div class="bg-gray-400"> {} </div> -->
 
 Description: 
 
@@ -104,3 +82,10 @@ URL:
 Image: <img src="" width="" height=""/>
 
 
+
+
+<div class="metadata-title-header pt-3 pb-3 pl-2">GPT Message Summary</div>    
+<div class="robot-content-container">
+Donna Haraway beautifully unveils a thought-provoking tribute to Bruno Latour, embodying a tapestry of insights that will leave you dazzled and craving for more.
+</div>
+</div>
