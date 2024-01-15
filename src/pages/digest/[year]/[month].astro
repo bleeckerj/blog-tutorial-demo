@@ -1,8 +1,11 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import DigestPost from "../../../components/DigestPost.astro";
 
 const year = Astro.params.year;
 const month = Astro.params.month;
+const pageTitle = "Digest " + month + "/" + year+ " from the Near Future Laboratory Discord";
 
 // Fetch your digest posts based on year and month
 // Example: const posts = await fetchPostsForMonth(year, month);
@@ -35,21 +38,13 @@ const filteredPosts = allPosts.filter(post => {
            String(pubDate.getMonth() + 1).padStart(2, '0') === month;
 });
 ---
-<html>
-<head>
-    <title>Digest - {year}/{month}</title>
-</head>
-<body>
-    {/* Render your posts here */}
-    <h1>Digests for {year}/{month}</h1>
+<BaseLayout pageTitle={pageTitle}>
+    <p>Digest from the Near Future Laboratory Discord.</p>
     <ul>
-        {filteredPosts.map(post => (
-            <li key={post.url}>{post.data}  `/digest/{post.slug}/`
-                <a href={`/digest/${post.slug}/`}>{post.data.summary}</a>
-                <br/>
-                Published on: {new Date(post.data.pubDate).toLocaleDateString()}
-            </li>
-        ))}
+      {
+        filteredPosts.map((post) => (
+        <DigestPost url={`/digest/${post.slug}/`} pubDate={post.data.pubDate} author={post.data.author} message={post.data.cleanContent} channel={post.data.channel} summary={post.data.summary} />
+        ))
+      }
     </ul>
-</body>
-</html>
+  </BaseLayout>
