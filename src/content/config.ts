@@ -30,13 +30,29 @@ const digestCollection = defineCollection({
       channel: z.string(),
       image: z.object({
         url: z.string(),
-        alt: z.string()
+        altText: z.string()
       }).optional(),
       tags: z.array(z.string()).optional()
     })
+});
+
+const projectsCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    project: z.string(),
+    collection: z.string(),
+    category: z.string(),
+    pubDate: z.date(),
+    summary: z.string().optional(),
+    image: z.object({
+      url: z.string(),
+      altText: z.string()
+    }).optional(),
+    meta: z.record(z.string()).optional(),  })
 });
 // Export a single `collections` object to register your collection(s)
 export const collections = {
   blog: postsCollection,
   digest: digestCollection,
+  projects: projectsCollection
 };

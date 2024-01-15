@@ -1,0 +1,19 @@
+---
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+import "../styles/projects.css";
+import "../styles/fonts.css"
+const { pageTitle } = Astro.props;
+---
+<html>
+    <Header />
+    <body>
+    <h1>{pageTitle}</h1>
+    <slot />
+    <Footer />
+    <script>
+      import "../scripts/menu.js";
+    </script>
+  </body>
+</html>

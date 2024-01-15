@@ -1,16 +1,60 @@
 ---
+// Import statements and any page-specific logic
+import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PostExcerpt, {
+  PropHeadings,
+  PropRenderer,
+} from '@igor.dvlpr/astro-post-excerpt'
 import Greeting from '../components/Greeting';
-const pageTitle = "We're Back..Over Here..";
+const pageTitle = "Office Notes: Near Future Laboratory";
 import Archive from '../components/Archive.astro'
 import { getPostsByYear } from '../utils/getPostsByYears.js';
 
 const postsByYear = await getPostsByYear();
+
+// Fetching all posts
+//const allPosts = await getCollection('blog');
+const publishedBlogEntries = await getCollection('blog', ({ data }) => {
+  return data.isDraft !== true;
+});
+// Sorting posts to get the latest post
+const latestPost = publishedBlogEntries.sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))[0];
+// const latestPostContent = await Astro.fetchContent(latestPost.url);
+const { Content, headings } = await latestPost.render();
+const allDigests = await getCollection('digest');
+const latestDigest = allDigests.sort((a, b) => new Date(b.data.pubDate - new Date(a.data.pubDate)))[0];
+
+// Function to extract the first 200 words
+function extractFirstWords(text, limit) {
+  return text.split(" ").slice(0, limit).join(" ") + '...';
+}
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h2>Here you can find..</h2>
-  <Greeting client:load messages={["Hej", "Hallo", "Hola", "Habari"]} />
+    <!-- Big Title of the Site -->
+    <h1 class="site-title">Your Site Title</h1>
+  
+    <!-- Latest Post Excerpt -->
+    <section>
+      <div class="index-post-title-header">{latestPost.data.title}</div>
+      <div class="index-post-content">
+      <PostExcerpt post={latestPost} words={50} addEllipsis={true} renderer={PropRenderer.Html}/>
+      <a class="block mt-5" href={`/blog/${latestPost.slug}`}>Read more</a>
+  
+    </div>
+      <!-- {extractFirstWords(latestPost.body, 50)} -->
+    </section>
+  
+    <!-- Last 10 Posts -->
+    <section style="background-color: #f0f0f0;">
+      <!-- ... -->
+    </section>
+  
+    <!-- Posts by Year -->
+    <section class="mb-[100px]">
+      <!-- ... -->
+    </section>
   <Archive postsByYear={postsByYear}/>
 
 </BaseLayout>

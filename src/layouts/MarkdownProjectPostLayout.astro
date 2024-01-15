@@ -7,7 +7,13 @@ const { frontmatter } = Astro.props;
   <!-- <p><em>{frontmatter.description}</em></p>
   <p>By {frontmatter.author}</p>
   <img src={frontmatter.image?.url} width="300" alt={frontmatter.image?.alt} /> -->
-  {frontmatter.meta.manufacturer}
+{
+  Object.entries(frontmatter.meta).map(([key, value]) => (
+    <Fragment key={key}>
+      <strong>{key}</strong>, <strong>{value}</strong>
+      </Fragment>
+      ))
+}
   <slot />
 </BaseLayout>
 
