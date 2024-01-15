@@ -16,7 +16,7 @@ const allPosts = posts.sort((a, b) => {
   <p>Digest from the Near Future Laboratory Discord.</p>
   <ul>
     {
-
+      allPosts.map((post) => (
       <DigestPost url={`/digest/${post.slug}/`} pubDate={post.data.pubDate} author={post.data.author} message={post.data.cleanContent} channel={post.data.channel} summary={post.data.summary} />
       ))
     }
