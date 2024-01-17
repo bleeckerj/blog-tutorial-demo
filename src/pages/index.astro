@@ -40,9 +40,11 @@ function extractFirstWords(text, limit) {
       <div class="text-zinc-600 font-mono text-[0.7rem] pt-2">{latestPost.data.pubDate}</div>
       </div>
       <div class="index-post-content">
+
       <PostExcerpt post={latestPost} words={10} addEllipsis={true} renderer={PropRenderer.Html}/>
-      <a class="block mt-5" href={`/blog/${latestPost.slug}`}>Read more</a>
-  
+      <span/>
+      <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
+
     </div>
       <!-- {extractFirstWords(latestPost.body, 50)} -->
     </section>
