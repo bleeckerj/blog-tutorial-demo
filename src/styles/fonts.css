@@ -92,3 +92,2556 @@
   src: url("/fonts/es-klarheit-kurrent-mono/woff2/ESKlarheitKurrentMono-Xlt.woff2")format("woff2");
 
 }
+
+@font-face {
+  font-family: 'Calibre';
+    src: url('/fonts/klim-calibre/calibre-regular.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleVariable[opsz,slnt,wdth,wght]-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleVariable[opsz,slnt,wdth,wght]-Testing.woff') format("woff");
+  font-family: 'Roslindale Variable';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-ExtraLight-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Light-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Light-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-LightItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Regular-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Italic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Medium-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-MediumItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-SemiBold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-SemiBold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-SemiBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-SemiBoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/Roslindale/RoslindaleDisplayCondensed-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayCondensed-Bold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayCondensed-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayCondensed-BoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayCondensed-Black-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayCondensed-Black-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayCondensed-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayCondensed-BlackItalic-Testing.woff') format("woff");
+  font-family: 'Roslindale';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayCondensed-Ultra-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayCondensed-Ultra-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayCondensed-UltraItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayCondensed-UltraItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-ExtraLight-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-Light-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-Light-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-LightItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-Regular-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-Italic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-Medium-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-MediumItalic-Testing.woff') format("woff");
+  font-family: 'Roslindale';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-SemiBold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-SemiBold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-SemiBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-SemiBoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-Bold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-BoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-Black-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-Black-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-BlackItalic-Testing.woff') format("woff");
+  font-family: 'Roslindale Display Narrow';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayNarrow-Ultra-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayNarrow-Ultra-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplayCondensed-UltraItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplayCondensed-UltraItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplayCondensed';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-ExtraLight-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-Light-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-Light-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-LightItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-Regular-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-Italic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-Medium-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-MediumItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-SemiBold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-SemiBold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-SemiBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-SemiBoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-Bold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-BoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-Black-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-Black-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-BlackItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-Ultra-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-Ultra-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDisplay-UltraItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDisplay-UltraItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDisplay';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-Regular-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-Italic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-Medium-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-MediumItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-SemiBold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-SemiBold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-SemiBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-SemiBoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-Bold-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleDeckNarrow-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleDeckNarrow-BoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleDeckNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-Regular-Testing.woff') format("woff");
+  font-family: 'RoslindaleText';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-Italic-Testing.woff') format("woff");
+  font-family: 'RoslindaleText';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-Medium-Testing.woff') format("woff");
+  font-family: 'RoslindaleText';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-MediumItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleText';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-SemiBold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-SemiBold-Testing.woff') format("woff");
+  font-family: 'RoslindaleText';
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-SemiBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-SemiBoldItalic-Testing.woff') format("woff");
+  font-family: 'RoslindaleText';
+  font-style: italic;
+  font-weight: 600;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-Bold-Testing.woff') format("woff");
+  font-family: 'RoslindaleText';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/roslindale/RoslindaleText-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/roslindale/RoslindaleText-BoldItalic-Testing.woff') format("woff");
+  font-family: 'Roslindale';
+  font-style: italic;
+  font-weight: 700;
+}
+
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRVariable[opsz,slnt,wdth,wght]-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRVariable[opsz,slnt,wdth,wght]-Testing.woff') format("woff");
+  font-family: 'FormaDJRVariable';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicro-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicro-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicro';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRText-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRText-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRText';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeck-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeck-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeck';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplay-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplay-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplay';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBanner-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBanner-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBanner';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroNarrow-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroNarrow-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroNarrow';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextNarrow-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextNarrow-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextNarrow';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckNarrow-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckNarrow-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckNarrow';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayNarrow-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayNarrow-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayNarrow';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerNarrow-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerNarrow-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerNarrow';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRMicroCondensed-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRMicroCondensed-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRMicroCondensed';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRTextCondensed-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRTextCondensed-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRTextCondensed';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDeckCondensed-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDeckCondensed-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDeckCondensed';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRDisplayCondensed-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRDisplayCondensed-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRDisplayCondensed';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Hairline-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Hairline-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-HairlineItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-HairlineItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: 1;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Thin-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Thin-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-ThinItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-ThinItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: 100;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraLight-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraLight-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraLightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraLightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: 275;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Light-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Light-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-LightItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-LightItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Medium-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Medium-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-MediumItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-MediumItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraBold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraBold-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraBoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-ExtraBoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Black-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Black-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-BlackItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-BlackItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: italic;
+  font-weight: 900;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRBannerCondensed-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRBannerCondensed-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRBannerCondensed';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRUI-Regular-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRUI-Regular-Testing.woff') format("woff");
+  font-family: 'FormaDJRUI';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRUI-Italic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRUI-Italic-Testing.woff') format("woff");
+  font-family: 'FormaDJRUI';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRUI-Bold-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRUI-Bold-Testing.woff') format("woff");
+  font-family: 'FormaDJRUI';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('/fonts/formadjr/FormaDJRUI-BoldItalic-Testing.woff2') format("woff2"),
+       url('/fonts/formadjr/FormaDJRUI-BoldItalic-Testing.woff') format("woff");
+  font-family: 'FormaDJRUI';
+  font-style: italic;
+  font-weight: bold;
+}
+
+
+
+
+
+/*****
+Standard vs. Numerical Values for Font Weight
+100 – Thin.
+200 – Extra Light (Ultra Light)
+300 – Light.
+400 – Normal.
+500 – Medium.
+600 – Semi Bold (Demi Bold)
+700 – Bold.
+800 – Extra Bold (Ultra Bold)
+
+*****/

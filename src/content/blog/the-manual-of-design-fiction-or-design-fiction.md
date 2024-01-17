@@ -3,6 +3,7 @@
 title: "The Manual Of Design Fiction Or Design Fiction"
 author: "Julian Bleecker"
 pubDate: 2021-07-23
+isDraft: false
 ---
 
 

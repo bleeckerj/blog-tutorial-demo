@@ -2,7 +2,9 @@
 
 title: "Design Integrity"
 author: "Julian Bleecker"
+description: What is it to have integrity? Are you well integrated?
 pubDate: 2021-05-11
+isDraft: false
 ---
 
 ![Boeing_777_ALT_2.jpg](https://buttondown-attachments.s3.amazonaws.com/images/dd731dc9-f73b-450b-8e41-40f6adbc2422.jpg) 

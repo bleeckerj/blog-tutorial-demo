@@ -3,6 +3,7 @@
 title: "The Mysterious Psychic Coin"
 author: "Julian Bleecker"
 pubDate: 2022-05-10
+isDraft: false
 ---
 
 ![yevgeniy-mironov-SD4jQGVBtu8-unsplash.png](https://buttondown-attachments.s3.amazonaws.com/images/58c1ef44-839a-428d-b8c5-c9ace36e43b2.png) 

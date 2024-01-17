@@ -3,6 +3,7 @@
 title: "The Practical Poetry Of Imagination"
 author: "Julian Bleecker"
 pubDate: 2021-08-23
+isDraft: false
 ---
 
 ![](/bd-images/the-practical-poetry-of-imagination/the-practical-poetry-of-imagination_dd9782d8-2a79-4b3d-9a94-9fd9b4c67a7b.jpg) 

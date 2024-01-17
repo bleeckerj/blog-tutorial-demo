@@ -2,7 +2,9 @@
 
 title: "Just The Stats Mam"
 author: "Julian Bleecker"
+description: I was listening to a podcast with Neal Stephenson, who I guess is best pigeon-holed (because I'm certain he's much much more) as quite a thoughtful, imaginative writer.
 pubDate: 2022-01-30
+isDraft: false
 ---
 
 ![HQ_007_O_3x2_121821_2255_900px.png](/bd-images/just-the-stats-mam/just-the-stats-mam_47f53404-8e41-4de7-8f15-159ac13a4fd1.png) 

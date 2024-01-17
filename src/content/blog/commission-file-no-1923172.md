@@ -4,6 +4,7 @@ author: "Julian Bleecker"
 pubDate: 2022-04-11
 description: "A Design Fiction in which algorithms are regulated, akin to how the government oversees other aspects of public safety, to mitigate their negative impacts while harnessing their potential for positive change."
 tags: [design fiction, algorithms]
+isDraft: false
 ---
 
 "In The Matter of Everalbum and Paravision"

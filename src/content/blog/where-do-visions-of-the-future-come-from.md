@@ -3,9 +3,13 @@
 title: "Where Do Visions Of The Future Come From"
 author: "Julian Bleecker"
 pubDate: 2022-11-29
+isDraft: false
 ---
-
-![The Matrix Restaurant Scene_6.gif](https://buttondown-attachments.s3.amazonaws.com/images/a4c4459e-744a-477c-a83e-c14a81e58ccf.gif) 
+<figure>
+    <img src="/bd-images/where-do-visions-of-the-future-come-from/where-do-visions-of-the-future-come-from_a4c4459e-744a-477c-a83e-c14a81e58ccf.gif"
+         alt="Cipher enjoying a...steak?">
+    <figcaption>Cipher enjoying a...steak?</figcaption>
+</figure>
 
 1. Where do visions of the future come from?
 

@@ -3,7 +3,7 @@ title: "A Deep Dive Into A Design Fiction Archetype"
 author: "Julian Bleecker"
 pubDate: 2021-10-20
 description: What do I mean when I say 'Design Fiction Archetype'?
-
+isDraft: false
 tags: []
 ---
 

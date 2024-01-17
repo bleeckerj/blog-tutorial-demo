@@ -4,6 +4,7 @@ author: "Julian Bleecker"
 pubDate: 2022-05-02 15:00:00.000
 description: "The tale of 'Blue Boat,' a simple skiff that was a container of of adventures and memories, helped me think about the notion of value that has nothing to do with numbers."
 tags: []
+isDraft: false
 ---
 
 ![](https://buttondown-attachments.s3.amazonaws.com/images/5dfee867-17a7-4c7d-ae37-81de6d6268d1.png) 

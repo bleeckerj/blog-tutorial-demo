@@ -3,6 +3,7 @@
 title: "The Generative Function Of Design Fiction"
 author: "Julian Bleecker"
 pubDate: 2022-10-02
+isDraft: false
 ---
 
 But before that, I want to mention that Nick presented [the closing keynote at the IKEA Digital Days](https://tinyurl.com/ikea-talk) conference last week from his studio in Oakland. He spoke about setting the right conditions for creating grounded and actionable design futures. Design Fiction, (as you know) can play a huge part in that, and Nick explains how it fits in a broader corporate approach. It's got a modest 30 minutes runtime — which is just long enough to watch whist luxuriating in your chaise, consuming a proper hand-held sandwich.

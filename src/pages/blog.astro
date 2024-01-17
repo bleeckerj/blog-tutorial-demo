@@ -2,7 +2,9 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
-const pageTitle = "Blog Posts";
+const pageTitle = "Back Office Notes & Posts";
+const headTitle = "Near Future Laboratory Back Office Notes & Posts";
+
 const posts = await getCollection("blog");
 const allPosts = posts.sort((a, b) => {
         const dateA = new Date(a.data.pubDate);
@@ -12,7 +14,7 @@ const allPosts = posts.sort((a, b) => {
 
 //console.log(allPosts)
 ---
-<BaseLayout pageTitle={pageTitle}>
+<BaseLayout headTitle={headTitle} pageTitle={pageTitle}>
   <ul style="list-style: none">
     {
       allPosts.map((post) => (

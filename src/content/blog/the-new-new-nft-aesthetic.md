@@ -1,8 +1,9 @@
 ---
 
-title: "The New New Nft Aesthetic"
+title: "The New New NFT Aesthetic"
 author: "Julian Bleecker"
 pubDate: 2022-09-20
+isDraft: false
 ---
 
 ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/bdf95170-3a1f-4ccc-863c-4402180785da.gif) 

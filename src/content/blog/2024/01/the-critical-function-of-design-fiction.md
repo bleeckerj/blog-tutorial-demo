@@ -9,7 +9,7 @@ image:
   url: "https://img.freepik.com/free-vector/hand-drawn-cat-outline-illustration_23-2149266368.jpg"
   altText: "It's a drawing of a cat."
 tags: [design, design fiction, critical design, speculative design]
-draft: true
+isDraft: true
 containImage: false
 ---
 1. What might we consider to be the 'Critical' function of Design?
@@ -63,9 +63,9 @@ containImage: false
 38. Where's the effort?
 39. I know we can do better. And that's what Near Future Laboratory is here to help with. We're open for business.
 40. Want to help me get this project to create a Magazine from an AI Future? Then get in touch.
-41. Let me help you potential sponsor of the value of such a thing: a richer engagement with this AI future than another report or workshop 'write-up'. 
-* It stands out above all the other efforts because it feels like a thing, rather than reads like a thing.
+41. Let me suggest that the most consequential value of such a thing is simply this: a richer engagement with this AI future than another report, Medium post, or workshop 'write-up'.
+* It stands out above all the other efforts because it _feels_ like a thing, rather than _reads_ like another written-up thing.
 * It would have advertisements in it that show the commercial world — and we could get actual commercial entitites to sponsor that advertisement in which their future strategy is represented _as if_ it were obtained. (( FWIW This is nearly precisely what I did with the OMATA _Annual Report from the Future_ in which I showed my own ads as they would be in some magazine in that future. ))
-* We can represent the confusing, unanswerable, intractable, unknowable topics and issues in unique formats, such as letters-to-the-editor, opinion pieces, long-form articles, tiny classified ads for possible kinds of 'jobs' or things people might be selling, services being offered.
-* And all of this feels like it has come from that world, which 'reports' on possible futures _never_ do, and which science-fiction stories cannot do because they are stories about a future, not stories that have been brought back _from_ a future. And, besides: science-fiction is it's own thing which is beautiful. But science-fiction does not make artifacts.
-43. 
+* We can feel-around the confusing, unanswerable, intractable, unknowable topics and issues in unique formats, such as letters-to-the-editor, opinion pieces, long-form articles, tiny classified ads for possible kinds of 'jobs' or things people might be selling, services being offered. We're doing the work of sensing-into and rolling around in our heads these intractables and unanswerables, which is the way to work intractables and unanswerables.
+* And all of this material feels like it has come from that world, which 'reports' on possible futures _never_ do, and which science-fiction stories cannot do because they are stories about a future, not stories that have been brought back _from_ a future. And, besides: science-fiction is it's own thing which is beautiful. But science-fiction does not make physical artifacts
+42. You ready to do this?

@@ -3,6 +3,7 @@ title: "5 Simple Complicated Things To Be Considered"
 author: "Julian Bleecker"
 pubDate: 2022-07-12T12:24:48-07:00
 description: "Five principles for creative professionals: embrace wonder, be an optimistic contrarian, welcome the unusual, pursue dreams over material gains, and maintain lifelong curiosity and learning."
+isDraft: false
 ---
 
 ![](/bd-images/5-simple-complicated-things-to-be-considered/5-simple-complicated-things-to-be-considered_9b001210-6f0d-4047-87b2-b245dc7397e7.png) 

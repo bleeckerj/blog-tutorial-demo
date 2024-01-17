@@ -2,11 +2,12 @@
 
 /* Defaults */
 :root {
-	--font-family: "Rebond Grotesque", monospace;
+	--font-family: "Roslindale Variable", monospace;
 	--font-family-monospace: "ESKlarheit Kurrent Mono", "Berkeley Mono", monospace;
 	--font-family-peak: "ES Peak";
 	--font-family-akkurat: "AkkuratMono-Regular";
-	--font-family-esklarheit: "ESKlarheit Kurrent Mono"
+	--font-family-esklarheit: "ESKlarheit Kurrent Mono";
+	--font-family-roslindale: "RoslindaleText";
 }
 
 
@@ -54,6 +55,7 @@ body {
 	padding-left: 30px;
 	margin: 0px auto auto 10px;
 	font-family: var(--font-family);
+	font-variation-settings: 'slnt' 5;
 	color: var(--text-color);
 	background-color: var(--background-color);
 }
@@ -148,9 +150,16 @@ img {
   }
 
   h1 {
+	margin: 2rem 0 -1rem;
+	font-size: 1.8rem;
+	font-family: "Rebond Grotesque";
+	font-weight: bold;
+  }
+
+  /* h1 {
 	margin-top: 0.5em;
 	margin-bottom: 0.5em;
-  }
+  } */
   
   h2 {
 	margin-top: 0.75em;
@@ -181,21 +190,24 @@ img {
 
 
 .date {
-	font-family: var(--font-family-monospace);
-	font-weight: normal;
-	font-size: 0.85em;
-	margin-top:-1.5em;
+	font-family: "Calibre";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 1em;
 }
 
 .date-mono {
-	font-family: var(--font-family-monospace);
+	font-family: "var(--font-family-monospace)";
 	font-weight: normal;
 	font-size: 0.85em;
 }
 
 .posttitle {
-	font-family: myFirstFont;
-	font-size: 1.75em;
+	font-family: "FormaDJRMicro";
+	font-style: normal;
+	font-weight: 900;
+	font-size: 3.00em;
+	line-height: 1em;
 }
 
 .indexlink {
@@ -446,16 +458,40 @@ ul {
 	@apply rounded-tr-[20px];
 }
 
+.description {
+	font-family: "Roslindale Variable"; 
+	font-variation-settings: 'wght' 600;
+	font-variation-settings: "slnt" -4;
+}
+
+figure img {
+	@apply rounded-md;
+	@apply rounded-tr-[10px];
+	@apply mb-[12px];
+	@apply shadow-xl;
+}
+
+figure figcaption {
+	@apply mt-0;
+	@apply mb-8;
+	@apply ml-3;
+	@apply text-xs;
+	@apply font-mono;
+	@apply border-b-[1px];
+	@apply border-slate-700;
+}
+
 .draft-label {
     position: absolute;
     top: 10%;
     left: 30%;
-    transform: rotate(-5deg);
+    transform: rotate(-20deg);
     font-size: 3em;
-    font-weight: bold;
-    color: rgb(23, 1, 1);
-    background-color: rgba(255, 255, 255, 0.0);
-    padding: 10px;
+	font-family: "FormaDJRMicro";
+    font-weight: 900;
+    color: rgb(51, 51, 51);
+    background-color: rgba(47, 0, 0, 0);
+    padding: 0px;
     z-index: 10; /* Ensures it's above other content */
 }
 

@@ -2,7 +2,9 @@
 
 title: "Not A Review A Proposal"
 author: "Julian Bleecker"
+description: A recommendation together with a proposal inspired by Richard Powers' book Bewilderment.
 pubDate: 2021-04-17
+isDraft: false
 ---
 
 ![FL_056B__LosAngeles_Aerostats_1954_G2_LB_AD0_900px.jpg](https://buttondown-attachments.s3.amazonaws.com/images/34135e57-9e3e-4491-89d7-03bd41f4a4b3.jpg) 

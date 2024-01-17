@@ -2,13 +2,16 @@
 title: "Why Do Future Visions All Look Like Future Visions"
 author: "Julian Bleecker"
 pubDate: 2021-06-15
+isDraft: false
 ---
 
-## One - The Future As An Email Attachment
+# One - The Future As An Email Attachment
 
-![](/bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_faa8053a-55d2-4713-b3b8-81d4c0e3604d.png) 
-
-
+<figure>
+    <img src="/bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_faa8053a-55d2-4713-b3b8-81d4c0e3604d.png"
+         alt="The future in the form of an email composer">
+    <figcaption>The future in the form of an email composer</figcaption>
+</figure>
 Have you ever gotten one of these emails? Where the future is zipped up into a PowerPoint deck and then sent around in an email with the expectation that the recipients will open and read it and then become excited about what they see? 
 
 If you’re in the corporate strategy racket you’ve probably received an expensive PowerPoint deck cobbled together by some analyst or McKinsey-like operation and trotted out as “predictions”. 
@@ -17,7 +20,11 @@ It'll quite likely be full of any number of speculative future or science fictio
 
 If you rendered these down to their essence, you’d likely have that one still from *Minority Report* (you know the one) and maybe something sinister-looking from *Black Mirror*. There's almost certainly an illustration of the Gartner Hype Cycle, and quotes from some expert who seems to know with unnerving confidence about 'the future of work after COVID', ‘the future of autonomous vehicles’ (which Uber just seems to have punted on after spending billions to get a car to drive half a block..), or even everything about ‘what’s next’..
 
- ![](/bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_998090db-c4e5-40b5-8e77-27095052df62.png) 
+<figure>
+    <img src="/bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_998090db-c4e5-40b5-8e77-27095052df62.png"
+         alt="The Classic: Minority Report As The Future Of UI...Or Not.">
+    <figcaption>The Classic: Minority Report As The Future Of UI...Or Not.</figcaption>
+</figure>
  
 Besides film and the like, you might occasionally get a literary reference - *Neuromancer*, for example, and a reminder that William Gibson invented the term ‘cyberspace’ and said something about the future being already here, just not yet evenly distributed.
 
@@ -51,12 +58,15 @@ Of course we can, and this is one of the things I want to describe in this newsl
 Next time I’ll write about why future visions all end up looking like “future visions” and how something we call the Design Fiction ‘archetype’ can help craft better, more vivid and compelling representations of the future. This will set us on the path towards understanding how Design Fiction helps represent your vision, align goals and teams, set expectations, and ultimately help craft a plan for obtaining better futures.
 
 ***
-## Two - Design Fiction in Practice
+# Two - Design Fiction in Practice
 
- ![](/bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_955466a3-7fb8-4f06-a232-ef5b67d16898.png) 
- 
+<figure>
+    <img src="/bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_955466a3-7fb8-4f06-a232-ef5b67d16898.png"
+         alt="OMATA One is a Design Fiction from an adjacent world in which digital+analog goes together.">
+    <figcaption>OMATA One is a Design Fiction from an adjacent world in which digital+analog goes together. [https://omata.com](https://omata.com)</figcaption>
+</figure> 
 
-Many of you will know that I have another company called OMATA, which makes what I originally thought of as a counterfactual product, because it assumed something that would exist under circumstances in which it makes perfectly good sense. 
+Many of you will know that I have another company called [OMATA](https://omata.com), which makes what I originally thought of as a counterfactual product, because it assumed something that would exist under circumstances in which it makes perfectly good sense. 
 
 But sense making has a way of being inflexible so when you take an existing archetype - say, a cycling computer - and take away the corners and replace the digital screen with a mechanical movement, you sorta violate common sense.
 

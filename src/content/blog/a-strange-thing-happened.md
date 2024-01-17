@@ -4,14 +4,20 @@ author: "Julian Bleecker"
 pubDate: 2022-03-03
 description: "What happens when a DAO serve free pizza."
 tags: []
+isDraft: false
 ---
-
-![](/bd-images/a-strange-thing-happened/a-strange-thing-happened_8cda7cad-4568-44c0-918a-35718a303ffe.jpg)
+<figure>
+    <img src="/bd-images/a-strange-thing-happened/a-strange-thing-happened_8cda7cad-4568-44c0-918a-35718a303ffe.jpg"
+         alt="Strange Weather">
+</figure>
 
 For the past years, the outsized narrative of DAO [Decentralized Autonomous Organization] as an alternative toventure capital dims the light of its much more profound, and much more interesting potential — a fluid, programmable, modular social network that is by design global, transparent, and collaborative. DAO has the potential to become a new frontier of belonging, to create a new species of collective characterized by the alienation of trust from the ownership and control. Calvino, who in his dreams manifest a desire to “possess” a version of NYC, can extend such private desire to a more tangible contribution. DAOs can become a meta-layer on top of the idea exchanges of the world — a second home for those eager to make strides towards their goals, and know that the way to get there is not by oneself, but in a collective.[FKPXLS The New Frontier of Belonging - Fakepixels](https://fakepixels.substack.com/p/fkpxls-the-new-frontier-of-belonging)</slot>
 
+<figure>
+ <img src="https://buttondown-attachments.s3.amazonaws.com/images/116071ad-d802-4b69-958a-c9c09da26bae.png" alt="Code for a free pizza blockchain service">
+ <figcaption>Coding for a free pizza blockchain service</figcaption>
+</figure>
 
- ![](https://buttondown-attachments.s3.amazonaws.com/images/116071ad-d802-4b69-958a-c9c09da26bae.png) 
 1. Something wild happened.
 2. Bear with me a moment.
 3. I’ve found myself involved in a DAO. You can Google it and you'll get words and the words will try to sound definitive and Wikipedia-y. And-also-or you can read my Kerouacian scribbles.

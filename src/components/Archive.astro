@@ -3,7 +3,7 @@
 const { postsByYear } = Astro.props;
 ---
 <ul>
-  {Object.keys(postsByYear).map(year => (
+  {Object.keys(postsByYear).sort((a, b) => b - a).map(year => (
     <li key={year}>
       <a href={`/blog/${year}`}>{year}</a> {/* Link to the yearly page */}
     </li>

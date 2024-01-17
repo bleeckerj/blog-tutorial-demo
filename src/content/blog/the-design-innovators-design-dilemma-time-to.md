@@ -3,6 +3,7 @@
 title: "The Design Innovators Design Dilemma Time To"
 author: "Julian Bleecker"
 pubDate: 2022-02-17
+isDraft: false
 ---
 
 ![Hare Brush_prob31-art-scale-2_00x_900px.jpg](https://buttondown.imgix.net/images/737d886c-8640-4009-9d30-0eb4c4993372.jpg?w=960&fit=max)

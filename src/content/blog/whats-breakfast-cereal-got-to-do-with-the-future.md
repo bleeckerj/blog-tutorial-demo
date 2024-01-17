@@ -2,6 +2,7 @@
 title: "What's Breakfast Cereal Got To Do With The Future?"
 author: "Julian Bleecker"
 pubDate: 2022-03-03
+isDraft: false
 ---
 
 ## One: Consider the Diegetic Prototype

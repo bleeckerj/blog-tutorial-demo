@@ -2,6 +2,7 @@
 title: "Whats Next The Discovery Mindset"
 author: "Julian Bleecker"
 pubDate: 2022-04-25
+isDraft: false
 ---
 
 ![](/bd-images/whats-next-the-discovery-mindset/whats-next-the-discovery-mindset_26182250-879e-466a-9878-be1e6b86c3c0.jpg) 

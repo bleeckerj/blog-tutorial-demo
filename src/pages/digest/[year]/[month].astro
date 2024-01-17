@@ -31,6 +31,7 @@ export async function getStaticPaths() {
         }
     }));
 }
+
 const allPosts = await getCollection('digest');
 const filteredPosts = allPosts.filter(post => {
     const pubDate = new Date(post.data.pubDate);

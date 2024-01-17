@@ -2,12 +2,13 @@
 // Import statements and any page-specific logic
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import PostExcerpt from '../components/PostExcerpt.astro'
 import PostExcerpt, {
   PropHeadings,
   PropRenderer,
 } from '@igor.dvlpr/astro-post-excerpt'
 import Greeting from '../components/Greeting';
-const pageTitle = "Office Notes: Near Future Laboratory";
+const pageTitle = "Near Future Laboratory Back Office";
 import Archive from '../components/Archive.astro'
 import { getPostsByYear } from '../utils/getPostsByYears.js';
 
@@ -32,14 +33,14 @@ function extractFirstWords(text, limit) {
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-    <!-- Big Title of the Site -->
-    <h1 class="site-title">Your Site Title</h1>
-  
     <!-- Latest Post Excerpt -->
+    <div class="posttitle pb-14" style="font-size: 2rem">Latest Post from the Back Office</div>
     <section>
-      <div class="index-post-title-header">{latestPost.data.title}</div>
+      <div class="index-post-title-header"><a href={`/blog/${latestPost.slug}`}>{latestPost.data.title}</a>
+      <div class="text-zinc-600 font-mono text-[0.7rem] pt-2">{latestPost.data.pubDate}</div>
+      </div>
       <div class="index-post-content">
-      <PostExcerpt post={latestPost} words={50} addEllipsis={true} renderer={PropRenderer.Html}/>
+      <PostExcerpt post={latestPost} words={100} addEllipsis={true} renderer={PropRenderer.Html}/>
       <a class="block mt-5" href={`/blog/${latestPost.slug}`}>Read more</a>
   
     </div>

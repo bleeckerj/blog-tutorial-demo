@@ -3,6 +3,7 @@
 title: "The Geometry Of Design Fiction"
 author: "Julian Bleecker"
 pubDate: 2021-10-15
+isDraft: false
 ---
 
 ![](https://buttondown-attachments.s3.amazonaws.com/images/68103cf6-1c50-45c6-a871-432cbc15e8da.jpg) 

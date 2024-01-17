@@ -4,6 +4,7 @@ author: "Julian Bleecker"
 pubDate: 2022-03-05
 description: "Design Fiction Archetypes are the containers into which a Design Fiction is embedded. Want to know more?"
 tags: []
+isDraft: false
 ---
 ![FL_056_DanglineFromString_02_2160x1440_0221_0635_0043__1200px.jpg](https://buttondown-attachments.s3.amazonaws.com/images/84d0df5c-3183-469b-8ce7-7eabc7b0eabe.jpg) 
 ---

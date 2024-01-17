@@ -2,6 +2,7 @@
 title: "When And Where Are The Future"
 author: "Julian Bleecker"
 pubDate: 2022-01-29
+isDraft: false
 ---
 
 ![](/bd-images/when-and-where-are-the-future/when-and-where-are-the-future_44e63c3b-20f3-4715-b151-9e88cbc5d9fa.png) 

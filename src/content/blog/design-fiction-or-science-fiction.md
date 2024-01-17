@@ -3,6 +3,7 @@ title: "Design Fiction Or Science Fiction"
 author: "Julian Bleecker"
 pubDate: 2021-06-19
 description: ""
+isDraft: false
 ---
 
 ![](/bd-images/design-fiction-or-science-fiction/design-fiction-or-science-fiction_eef4ccde-fef7-41a4-8589-84495344ee56.jpg) 

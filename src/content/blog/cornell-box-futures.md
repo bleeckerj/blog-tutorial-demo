@@ -3,6 +3,8 @@ title: "Cornell Box Futures"
 author: "Julian Bleecker"
 pubDate: 2022-06-26
 description: "The unique role of Design Fiction in creatively envisioning realistic, context-rich futures, moving beyond idealized representations to incorporate everyday, mundane elements that make future scenarios more relatable and engaging."
+isDraft: false
+tags: []
 ---
 
 ![](/bd-images/cornell-box-futures/cornell-box-futures_8db6a8ee-c297-4165-831a-04b1227a12bd.png) 

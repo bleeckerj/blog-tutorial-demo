@@ -2,6 +2,7 @@
 title: "When Caleb Gets A Call"
 author: "Julian Bleecker"
 pubDate: 2022-07-31
+isDraft: false
 ---
 
 ### A Design Fiction Breakdown

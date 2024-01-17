@@ -3,6 +3,7 @@
 title: "The Wheels On Luggage Phenomenon"
 author: "Julian Bleecker"
 pubDate: 2021-03-26
+isDraft: false
 ---
 
 ![US3653474-drawings-page-3_HORIZ_900px.png](https://buttondown-attachments.s3.amazonaws.com/images/dd755550-f1cc-4375-b485-3551da6d1dd0.png) 

@@ -3,6 +3,7 @@
 title: "Where Is Design Fiction"
 author: "Julian Bleecker"
 pubDate: 2022-05-24
+isDraft: false
 ---
 
 ![NearFutureLaboratory-DesignFiction-OnePager2_1.jpg](https://buttondown-attachments.s3.amazonaws.com/images/75d0c090-2f3b-4bc7-bdb8-09363a62ae57.jpg) 

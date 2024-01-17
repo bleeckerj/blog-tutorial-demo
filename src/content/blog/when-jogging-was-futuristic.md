@@ -3,6 +3,7 @@
 title: "When Jogging Was Futuristic"
 author: "Julian Bleecker"
 pubDate: 2022-03-28
+isDraft: false
 ---
 
 This is Issue 28 of the Design Fiction Newsletter and this is your commercial interruption. 

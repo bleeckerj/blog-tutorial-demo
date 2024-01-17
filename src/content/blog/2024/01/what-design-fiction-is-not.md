@@ -1,0 +1,87 @@
+---
+title: "This Is A Design Fiction. But This Is Not."
+pubDate: 2024-01-16T15:06:00-07:00
+description: Design Fiction is not 'storyboards'. Nor is it science-fiction. Science-fiction is science-fiction. It's also not scenarios, because scenarios are scenarios, just like a table cloth is a table cloth, not a plate or coffee mug. This fact as to what Design Fiction is is stated quite clearly in all of the primary material on Design Fiction — Design Fiction is created, fabricated, constructed, materialized and designed artifacts that represent the _implications_ of the worlds from which they have come. They are designed artifacts from a possible future. And artifacts are material cultural objects — not stories, nor scenarios. They are the imagination as expressed in an object.
+seo: "Design Fiction translates signals into tangible, meaningful artifacts. Artifacts. Not storyboards."
+author: Julian Bleecker
+tags: [design fiction, user scenarios, storyboards, clarification]
+isDraft: false
+containImage: true
+img: [
+    url: /bd-images/what-design-fiction-is-not/what-design-fiction-is-not-2024-01-16_16-00-04.png,
+    altText: Winning Formula — a newspaper we created from the future of sports
+]
+---
+<figure>
+    <img src="/bd-images/what-design-fiction-is-not/what-design-fiction-is-not-2024-01-16_16-00-04.png"
+         alt="Winning Formula — a newspaper we created from the future of sports">
+    <figcaption>Winning Formula is a Design Fiction artifact using the archetype of a typical sports supplement in a newspaper from some kinda near future. Fabien created for the Museum of Football in from the future of sports. https://winningformula.nearfuturelaboratory.com</figcaption>
+</figure>
+
+1. Okay..sigh..big pause..<br/>
+
+2. I know one cannot expect that to be understood just because you say something over and over again. But, here we go again, again.<br/>
+
+3. I also know that there is in fact very casual scholarship out there in the world. I was in academia long enough to recognize this to be a truth.
+
+4. So I'm often reluctant to manage the ways Design Fiction is deployed and employed.
+
+5. But this [one thing](https://www.linkedin.com/posts/amalizia_reflecting-on-algorithmic-bias-with-design-activity-7153127156376612865-h-di) needs a quick note.
+
+6. IEEE Computer Society — a professional society I once belonged to when I was a young practicing electrical engineer — has a paper in it that [presents a methodology that employs Design Fiction](https://www.computer.org/csdl/magazine/ex/5555/01/10388369/1TCu6fLw59K) to address "Topic X" (doesn't matter for my purposes here).
+
+7. I read the paper thoroughly enough to see that, actually, the methodology has very little Design Fiction in it at all. 
+
+8. In fact, the authors describe Design Fiction as "an interdisciplinary method that can allow participants (e.g., product managers, developers, NGOs) to generate scenarios (e.g., storyboards) to expose potential bias and reflect on mitigation strategies."
+
+9. Sorry. Not even close. That sounds like..maybe exactly what it's saying — user scenario generation. Nothing more. In fact, it sounds a bit like Design Thinking, maybe?
+
+10. I wrote the original essay on Design Fiction 15 years ago. It's widely available. I also wrote The Manual of Design Fiction, which is literally THE MANUAL OF DESIGN FICTION. 
+
+11. There are [useful definitions](https://youtu.be/t_UT78JOauM) and [descriptions](https://youtu.be/t_UT78JOauM) of [Design Fiction](https://www.google.com/search?q=a+short+essay+on+design+science+fact+and+fiction#ip=1) widely available and none of them consider that it is about scenario generation, nor a methodology to expose potential bias. 
+
+12. I've also gone to pains to represent a whole variety of Design Fiction examples to clarify what Design Fiction is — not to call people out, but because it is epistemologically distinct from other ways of sense-making, and that's important. I don't want to exclude — I want to be clear about the value of Design Fiction. And as soon as it becomes muddled by poor examples or by some other sense-making methodology being called 'Design Fiction' then everyone loses, we slip our basis for knowing the world and we are now in a conflagration of confusion. It'd be like people calling a plumber when they need their lawn tended, or if you ask your golf pro for a one iron and they hand you a pickleball racket. 
+
+13. No bueño.
+
+14. I'm loathe to be the _definition_enforcement_bureau_ here but all the keywords in that paper have very little if anything to do with the [original Design Fiction essay](https://blog.nearfuturelaboratory.com/2009/03/17/design-fiction-a-short-essay-on-design-science-fact-and-fiction/) from 2008/09, nor anything described in [The Manual of Design Fiction](https://nearfuturelaboratory.com/the-manual-of-design-fiction).
+
+15. In fact, this paper doesn't even bother to refer to those works. Which feels like just the kind of laziness that explains the current 'crisis of the academy.'
+
+16. I mean — I don't want to sound like I need my work to be cited because of some tragic flaw in my ego but, like...it is a fact that it is likely amongst the if not _the singular_ and original essays on the topic. And that after workshopping and developing a cogent point of view and hypothesis in collaboration with others over a fair bit of time. 
+
+17. That seems like a primary source kind of thing that, well — you can't really ignore.
+
+18. Okay, so — all of that is a bit of a challenge to go in to because it would be so much easier to just let it slide by.
+
+19. But I'm on a bit of a mission whose purpose is not to 'own' Design Fiction intellectually or creatively.
+
+20. Nope. The mission is to distinguish Design Fiction from all the other ways in which we do sense-making. And so when someone points at it and says Design Fiction is Scenario Generation, only we're now calling Scenario Generation Design Fiction, it feels a bit like someone calling me Chester when my name is Julian. You want to correct them and clarify that, no — Chester is that feller over there. He's been there all along. His name is Chester. Call him by his name.
+
+21. Design Fiction is the creation of material cultural artifacts that help us make sense of possibility. They are artifacts — not storyboards, nor scenarios, nor user personnas.
+
+22. As an aid or mnemonic — consider any_thing_ that an archeologist might find on an archeological dig as an 'artifact'.
+
+23. As an aid or mnemonic — consider any_thing_ that you might find if you walked around a grocery store, hospital, corner convenience store, engine manufacturing plant, florist, home appliance showroom, bedroom closet, backyard garage are artifacts.
+
+24. Design Fictions are Material Artifacts. Not a Story. (Stories are called — stories, not Design Fiction)
+
+25. Design Fictions are Things. Not an episode of a Science Fiction show. (Science Fiction shows are called — Science Fiction shows, not Design Fiction.)
+
+26. Design Fictions are materialized hold-in-your-hand objects that represent the implications of a world from which they have come.
+
+27. If you want to do scenario generation= — then by all means, please do scenario generation. But don't feel like you need to call that 'Design Fiction.' 
+
+28. Back to the archeology analog, archeologist don't dig up 'scenarios' when they are exploring a world. They dig up artifacts that are the material remains of a world and are then studied over and pondered and puzzled. They give weight to a hypothesis or pose, in their own way, an alternative hypothesis. They are not conclusions the way a scenario might be.
+
+29. If you want to try your hand at writing science-fiction stories that are maybe in the genre of 'near future science fiction' — then by all means, please have a go at writing science-fiction stories. But you're not doing Design Fiction, because you wrote a story, that got printed out on pages of paper and bound and possibly even published as a 'science-fiction story.'
+
+30. Why does this all matter?
+
+31. Well, it matters because there is something unique about the character of Design Fiction, and I think we all sense that. It offers a way to express our desires to imagine into worlds that we want to inhabit, or worlds we'd rather not like to inhabit, and it allows us to do it in a delightful and wonderfully non-academic way, which is by making tangible imaginitve things that _imply_ worlds, rather than specify them.
+
+32. Okay. Now get back to your workstation!
+
+33. p.s. [Winning Formula](https://shop.nearfuturelaboratory.com/products/winning-formula) — is a [Design Fiction Newspaper](https://winningformula.nearfuturelaboratory.com) Fabien Girardin created in collaboration with [Near Future Laboratory](https://shop.nearfuturelaboratory.com/products/winning-formula) for the National Football Museum in the UK in 2008. This is one of many exemplars of Design Fiction available to help understand what it is. In the case of Winning Formula, he contents of the newspaper were designed based on contemporary trends, user research, imagination, speculation, reflection and a rich sense of possibility. It was printed — thousands of them — and put in the hands of readers of the evening newspaper there wherever the National Football Museum is. It's an artifact that exists in the world and can slip into the hands of normal, ordinary, everyday people to puzzle over, wonder about, and allow their imagination to wander into a possible future. Design Fiction does something playful and impossible — it allows you to find something like a newspaper, but from the future. We know enough to know that this is unlikely at best — but we do it anyway because it's the most playful kind of professional futures work: showing people a world by giving them the material evidence of its existence. (NOT by telling them a story; nor by cobbling some user scenarios; nor by writing a science-fiction  novel.) Assuming that newspapers could survive over stretches of time, they are a remarkable time capsule that gives us a unique, first-hand perspective on the world, like when people find stacks of newspaper used as insulation and we can then peer into the world by admiring the classified ads for jobs that long-ago disappeared from the HR department, or see the fashion styles of the day, or pedestrian stories about lost dogs found again. You cheat the value of bringing a sense of wonder, exploration, and play to imagining the future when you attempt to take something as analytic and proscribed as 'scenario generation' and call it what it is not.
+
+34. p.p.s. [TBD Catalog](https://shop.nearfuturelaboratory.com/products/tbd-catalog-10th-anniversary-edition) is the first canonical book-length Design Fiction artifact. A catalog of products from a possible future (as seen from around 2013/2014 when I organized the [TBD Workshop in Detroit](https://tbdcatalog.com/)).

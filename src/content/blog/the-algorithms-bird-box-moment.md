@@ -2,7 +2,9 @@
 
 title: "The Algorithm's Bird Box Moment"
 author: "Julian Bleecker"
+description: In the film ‘Bird Box’, based on the book of the same name, humans are driven to such a degree of despair that they take their own lives when they see the shadow of their consciousness — the thing they most fear. They may even take a few people down with them along their path of self-destruction. The transformation to homicide-suicide is stark, to put it mildly — and one of the more frightening things I’ve seen on screen without just seeing a more typical, gooey, slimey monster show up on screen.
 pubDate: 2021-02-24
+isDraft: false
 ---
 
 ![Q attacks the capitol](/bd-images/the-algorithms-bird-box-moment/the-algorithms-bird-box-moment_49ea9603-434c-4887-b72e-4754f0868ebd.jpg) 

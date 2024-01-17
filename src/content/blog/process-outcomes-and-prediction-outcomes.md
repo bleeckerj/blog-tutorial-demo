@@ -2,8 +2,10 @@
 
 title: "Process Outcomes And Prediction Outcomes"
 author: "Julian Bleecker"
+description: The delicious gooey center of Design Fiction is what you get when you take on a mindset such that the work of doing Design Fiction is not external to the possible outcomes. In other words, you’re not collecting a bunch of inputs and cobbling them into some vague, not-fun-to-read package of some sort — a PowerPoint or summary report. One significant objective of Design Fiction is to translate insights and such into some form or archetype and to do so with an exceptionally high level of verisimilitude and acuity. 
 pubDate: 2022-07-20
 tags: []
+isDraft: false
 ---
 
 ![](/bd-images/process-outcomes-and-prediction-outcomes/process-outcomes-and-prediction-outcomes_8eba3e53-3cb2-4152-b2fb-5fd49fa7e86a.png) 

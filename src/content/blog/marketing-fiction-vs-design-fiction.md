@@ -2,7 +2,9 @@
 
 title: "Marketing Fiction Vs Design Fiction"
 author: "Julian Bleecker"
+description: Here we wonder and wander into the deeply impactful role of fiction in shaping our experiences and consciousness
 pubDate: 2021-09-06
+isDraft: false
 ---
 
 ![](/bd-images/marketing-fiction-vs-design-fiction/marketing-fiction-vs-design-fiction_b530da95-2bd3-494c-8b4c-f4ee91abe474.jpg) 

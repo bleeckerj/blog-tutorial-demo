@@ -2,6 +2,7 @@
 title: "What Is What Is Design Fiction 9031"
 author: "Julian Bleecker"
 pubDate: 2021-08-03
+isDraft: false
 ---
 
 ![2022-09-28_12-29-27.jpg](https://buttondown-attachments.s3.amazonaws.com/images/6fd7d488-9acc-403f-9e5c-6bb085b46b46.jpg) 
