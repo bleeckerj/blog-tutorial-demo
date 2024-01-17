@@ -36,7 +36,7 @@ const loading = index > 3 ? "lazy" : "eager";
    -->
 
     <div class="flex px-6 py-4 flex-grow flex-col">
-      <date class="text-sm"
+      <date class="sm:text-sm md:text-base lg:text-lg"
         >{
           new Date(post.data.pubDate).toLocaleDateString("en-BE", {
             day: "numeric",
@@ -48,7 +48,7 @@ const loading = index > 3 ? "lazy" : "eager";
       <div
         class="flex w-full flex-col gap-y-2 justify-between flex-grow">
         <div>
-          <h2 class="text-xl font-bold transition-colors">
+          <h2 class="sm:text-sm md:text-base lg:text-lg font-bold transition-colors">
             {post.data.title}
           </h2>
           <div>

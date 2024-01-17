@@ -7,23 +7,28 @@ const formattedDate = new Intl.DateTimeFormat('en-US', {
 }).format(pubDate);
 ---
 
-<div class="index-post-title-header">{title}</div>
-<div class="index-post-content">
-<div class={`relative grid grid-cols-[minmax(100px,auto)_1fr] gap-1 mb-[10px] min-h-[100px]`}>
+<div class="index-post-title-header text-sm sm:text-sm md:text-base lg:text-lg">{title}</div>
+<div class="index-post-content sm:text-sm md:text-base lg:text-lg">
+<!-- <div class={`relative grid grid-cols-[minmax(100px,auto)_1fr] gap-1 mb-[10px] min-h-[100px]`}> -->
     {isDraft && <div class="draft-label">DRAFT</div>}
-    <div class="date-mono w-32">{formattedDate}
-    </div>
     
     <div class={`${isDraft ? 'blur-[2px]' : ''}`}>
         {isDraft 
-            ? <span class="block">{title}</span>
-            : <a class="block" href={url}>{title}</a>
+            ? <span class="block text-sm sm:text-sm md:text-base lg:text-lg">{title}</span>
+            : <a class="block text-sm sm:text-sm md:text-base lg:text-lg" href={url}>{title}</a>
         }
         {description && (
-            <span class="bg-zinc-100 block rounded-md text-sm py-1 pl-1 pr-3 text-black">
+            <span class="bg-zinc-100 block rounded-md text-sm sm:text-sm md:text-base lg:text-lg py-1 pl-1 pr-3 text-black">
                 {description}
             </span>
         )}
     </div>
+    <div class="date-mono w-32">{formattedDate}
+        {isDraft 
+            ? <br/>
+            : <a class="block text-sm sm:text-sm md:text-base lg:text-lg" href={url}>Read More</a>
+
+        }
+    </div>
 </div>
-</div>
+<!-- </div> -->
