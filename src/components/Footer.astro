@@ -2,17 +2,25 @@
 import Social from "./Social.astro";
 ---
 
-<style>
-   footer {
-       display: flex;
+<!-- <style>
+   /* footer {
+       /* display: flex; */
        gap: 0.5rem;
        margin-top: 4rem;
-   }
-</style>
+   } */
+</style> -->
 
-<footer>
+<footer class="grid grid-cols-2 s:grid-cols-4 md:grid-cols-4 lg:grid-cols-4 gap-y-8 mb-10">
+    <div class="justify-center items-center">
     <Social platform="twitter" username="nearfuturelab" />
+    </div>
+    <div class="justify-center items-center">
     <Social platform="instagram" username="nearfuturelaboratory" />
+    </div>
+    <div class="justify-center items-center">
     <Social platform="instagram" username="darthjulian" />
+    </div>
+    <div class="justify-center items-center">
     <Social platform="youtube" username="@nearfuturelaboratory" />
+    </div>
 </footer>

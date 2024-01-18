@@ -65,6 +65,15 @@ body {
 	max-width: 50em;
 }
 
+@media (max-width: 768px) { /* Adjust this value based on your design needs */
+    html, body {
+        /* width: 100%; Full width on mobile devices */
+		margin: 1rem auto auto 0.5rem;
+		/* padding: 0.1rem; */
+    }
+}
+
+
 /* https://www.a11yproject.com/posts/how-to-hide-content/ */
 .visually-hidden {
 	clip: rect(0 0 0 0);
@@ -423,14 +432,13 @@ ul {
 	@apply bg-stone-400;
 	@apply rounded-tl-md;
 	@apply rounded-tr-lg;
-
 }
 
 /* a way to list posts, this is for the title */
 .index-post-title-header {
 	font-family: var(--font-family-monospace);
 	font-weight: 600;
-	font-size: 0.8rem;
+	font-size: 1rem;
 	margin-bottom: 0em;
 	padding: 0.75em;
 	/*display: inline-block; *//* or block, depending on your layout needs */
@@ -440,9 +448,15 @@ ul {
 	@apply rounded-tl-md;
 	@apply rounded-tr-lg;
 	@apply shadow-lg;
-	@apply w-4/6;
-	@apply max-w-[30rem];
+	@apply w-5/6;
+	/* @apply max-w-[30rem]; */
 	@apply min-h-[3em];
+}
+
+@media (max-width: 600px) { /* Adjust this value based on your design needs */
+    .index-post-title-header {
+		width: 100%; /* Full width on mobile devices */
+    }
 }
 
 .index-post-content {
@@ -455,7 +469,13 @@ ul {
 	/* @apply bg-cyan-200; */
 	@apply bg-stone-100;
 	@apply rounded-b-md;
-	@apply rounded-tr-[1rem];
+	/* @apply rounded-tr-[1rem]; */
+}
+
+@media (max-width: 600px) { /* Adjust this value based on your design needs */
+    .index-post-content {
+		width: 100%; /* Full width on mobile devices */
+    }
 }
 
 .description {

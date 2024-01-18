@@ -2,7 +2,7 @@
 // Import statements and any page-specific logic
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import PostExcerpt from '../components/PostExcerpt.astro'
+import PostDescriptionExcerpt from '../components/PostDescriptionExcerpt.astro'
 import PostExcerpt, {
   PropHeadings,
   PropRenderer,
@@ -37,11 +37,10 @@ function extractFirstWords(text, limit) {
     <div class="posttitle pb-14" style="font-size: 2rem">Latest Post from the Back Office</div>
     <section>
       <div class="index-post-title-header"><a href={`/blog/${latestPost.slug}`}>{latestPost.data.title}</a>
-      <div class="text-zinc-600 font-mono text-[0.7rem] pt-2">{latestPost.data.pubDate}</div>
+      <div class="text-zinc-600 font-mono text-[0.75rem] pt-1">{latestPost.data.pubDate}</div>
       </div>
       <div class="index-post-content">
-
-      <PostExcerpt post={latestPost} words={10} addEllipsis={true} renderer={PropRenderer.Html}/>
+      <PostDescriptionExcerpt post={latestPost} words={50} addEllipsis={true} renderer={PropRenderer.Html}/>
       <span/>
       <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
 
