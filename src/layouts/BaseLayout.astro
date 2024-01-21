@@ -4,10 +4,10 @@ import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 import "../styles/bundle.css";
 import "../styles/fonts.css"
-const { headTitle, pageTitle } = Astro.props;
+const { headTitle, pageTitle, frontmatter } = Astro.props;
 ---
 <html>
-    <Header pageTitle={headTitle}/>
+    <Header pageTitle={headTitle} frontmatter={frontmatter}/>
     <body>
     <div class="posttitle mt-4 mb-5">{pageTitle}</div>
     <slot />
