@@ -3,30 +3,5 @@ import ProjectsBaseLayout from "./ProjectsBaseLayout.astro";
 const { frontmatter } = Astro.props;
 ---
 
-<ProjectsBaseLayout pageTitle={frontmatter.projectName} headTitle={frontmatter.projectName} frontmatter={frontmatter}>
-  <figure>
-    <img src={frontmatter.projectImages[0].url} alt={frontmatter.projectImages[0].altText}>
-    <figcaption>{frontmatter.projectImages[0].caption}</figcaption>
-   </figure>
-   <p class="date mb-0">Contributed By: {frontmatter.author}</p>
-   <p class="date">{frontmatter.pubDate.toLocaleString('en-US', {dateStyle: 'full', timeStyle: 'long', hour12: false, timeZone: 'America/Los_Angeles' })}</p>  
-  <p class="description mt-[2em]">{frontmatter.description}</p>
 
-  <div class="flex">
-    <div class="w-1/2 mr-4">
-  <figure>
-    <img  src={frontmatter.projectImages[1].url} alt={frontmatter.projectImages[1].altText}>
-    <figcaption>{frontmatter.projectImages[1].caption}</figcaption>
-   </figure>
-   </div>
-   <div class="w-1/2">
-   <figure>
-    <img src={frontmatter.projectImages[2].url} alt={frontmatter.projectImages[2].altText}>
-    <figcaption>{frontmatter.projectImages[2].caption}</figcaption>
-   </figure>
-   </div>
-   </div>
-  <!-- <img src={frontmatter.image?.url} width="300" alt={frontmatter.image?.alt} /> -->
-  <slot />
-</ProjectsBaseLayout>
 
