@@ -7,14 +7,16 @@ const postsCollection = defineCollection({
       title: z.string(),
       pubDate: z.date(),
       description: z.string().optional(),
-      seo: z.string().optional(),
+      seo: z.string().default('Design Fiction'),
       author: z.string(),
+      authorUsername: z.string().default('@nearfuturelab'),
       image: z.object({
-        url: z.string(),
-        altText: z.string()
+        url: z.string().default('https://backoffice.nearfuturelaboratory.com/favicon.svg'),
+        altText: z.string().default('Near Future Laboratory Design Fiction Imagine Harder')
       }).optional(),
+      og_type: z.string().default('article'),
       tags: z.array(z.string()).optional(),
-      isDraft: z.boolean(),
+      isDraft: z.boolean().default(true),
       containsImage: z.boolean().optional(),
     })
 });
