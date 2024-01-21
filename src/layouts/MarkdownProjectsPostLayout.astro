@@ -2,17 +2,19 @@
 import ProjectsBaseLayout from "./ProjectsBaseLayout.astro";
 const { frontmatter } = Astro.props;
 ---
-
-
-
 <ProjectsBaseLayout pageTitle={frontmatter.projectName} headTitle={frontmatter.projectName} frontmatter={frontmatter}>
   <figure>
     <img src={frontmatter.projectImages[0].url} alt={frontmatter.projectImages[0].altText}>
     <figcaption>{frontmatter.projectImages[0].caption}</figcaption>
    </figure>
+   <p class="description mt-[1em]">{frontmatter.description}</p>
+
    <p class="date mb-0">Contributed By: {frontmatter.author}</p>
-   <p class="date">{frontmatter.pubDate.toLocaleString('en-US', {dateStyle: 'full', timeStyle: 'long', hour12: false, timeZone: 'America/Los_Angeles' })}</p>  
-  <p class="description mt-[2em]">{frontmatter.description}</p>
+   <p class="date mb-0">Published On: {frontmatter.pubDate.toLocaleString('en-US', {dateStyle: 'full', timeStyle: 'long', hour12: false, timeZone: 'America/Los_Angeles' })}</p>  
+   <p class="date mb-0">Project Summary: {frontmatter.summary}</p>
+   <p class="date mb-0">Project Type: {frontmatter.projectType}</p>
+   <p class="date mb-0">Project Duration: {frontmatter.projectDurationWeeks} Weeks</p>
+  
 
   <div class="flex">
     <div class="w-1/2 mr-4">
