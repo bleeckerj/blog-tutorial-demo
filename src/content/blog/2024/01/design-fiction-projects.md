@@ -2,7 +2,7 @@
 title: "Design Fiction Projects"
 pubDate: 2024-01-20T12:19:00-07:00
 description: What is Design Fiction? Not 'the definition' — because you might want to understand by sensing what it is through actual projects, and commentary by Julian Bleecker, Ph.D.
-seo: "Design fiction creates artifacts, not speculations."
+seo: "Design fiction projects from the Near Future Laboratory. Remember — Design Fiction creates artifacts, not speculations."
 author: Julian Bleecker
 # Representation of the 'image' object
 image:

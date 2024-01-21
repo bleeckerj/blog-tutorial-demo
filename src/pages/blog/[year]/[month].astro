@@ -37,6 +37,45 @@ const posts = allPosts.filter(post => {
     return pubDate.getFullYear().toString() === year && 
            String(pubDate.getMonth() + 1).padStart(2, '0') === month;
 });
+import { z } from 'zod';
+
+// Define the schema
+const postSchema = z.object({
+  title: z.string(),
+  pubDate: z.date(),
+  description: z.string().optional(),
+  seo: z.string().default('Design Fiction'),
+  author: z.string(),
+  authorUsername: z.string().default('@nearfuturelab'),
+  image: z.object({
+    url: z.string().default('https://backoffice.nearfuturelaboratory.com/favicon.svg'),
+    altText: z.string().default('Near Future Laboratory Design Fiction Imagine Harder')
+  }).optional(),
+  og_type: z.string().default('article'),
+  tags: z.array(z.string()).optional(),
+  isDraft: z.boolean().default(true),
+  containsImage: z.boolean().optional(),
+});
+
+// Create a complete instance
+const frontmatter = postSchema.parse({
+  title: "Back Office at the Near Future Laboratory",
+  pubDate: new Date('2024-01-01'),
+  description: "Imagination leads to beautiful, unexpected possibilities. It's Time to Imagine Harder.",
+  seo: "Design Fiction",
+  author: "Julian Bleecker",
+  authorUsername: "@darthjulian",
+  // image: {
+  //   url: "https://example.com/image.jpg",
+  //   altText: "An image depicting future technology"
+  // },
+  og_type: "site",
+  tags: ["Design Fiction", "Futures", "Design Innovation"],
+  isDraft: false,
+  containsImage: false,
+});
+
+
 ---
 <BaseLayout pageTitle={'Blog -  {year} / {month}'}>
     <ul style="list-style: none">
@@ -47,22 +86,3 @@ const posts = allPosts.filter(post => {
       }
     </ul>
   </BaseLayout>
-  
-<!-- <html>
-<head>
-    <title>Blog - {year}/{month}</title>
-</head>
-<body>
-    {/* Render your posts here */}
-    <h1>Posts for {year}/{month}</h1>
-    <ul>
-        {filteredPosts.map(post => (
-            <li key={post.url}>{post.data}  `/blog/{post.slug}/`
-                <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
-                <br/>
-                Published on: {new Date(post.data.pubDate).toLocaleDateString()}
-            </li>
-        ))}
-    </ul>
-</body>
-</html> -->

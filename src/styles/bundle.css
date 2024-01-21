@@ -210,13 +210,52 @@ img {
 	font-size: 0.85em;
 }
 
-.posttitle {
-	font-family: "FormaDJRMicro";
-	font-style: normal;
-	font-weight: 900;
-	font-size: 3.00em;
-	line-height: 1em;
+.posttitle, .postsubtitle {
+    font-family: "FormaDJRVariable";
+    font-style: normal;
+    line-height: 0.8em;
 }
+
+.posttitle {
+    font-variation-settings: 'wght' 800;
+    /* font-size: 4.00em; Default size */
+}
+
+.postsubtitle {
+    font-variation-settings: 'wght' 400, 'slnt' -5;
+    /* font-size: 3.00em; Default size */
+}
+
+@media (min-width: 769px) {
+    .posttitle {
+        font-size: 5.0em; /* Larger size */
+    }
+	.postsubtitle {
+        font-size: 3.0em; /* Larger size */
+    }
+
+}
+
+/* Medium screens */
+@media (max-width: 768px) {
+    .posttitle{
+        font-size: 3.50em; /* Smaller size for medium screens */
+    }
+	.postsubtitle{
+        font-size: 2.50em; /* Smaller size for medium screens */
+    }
+}
+
+/* Small screens */
+@media (max-width: 480px) {
+    .posttitle {
+        font-size: 3.00em; /* Even smaller size for small screens */
+    }
+	.postsubtitle {
+        font-size: 2.00em; /* Even smaller size for small screens */
+    }
+}
+
 
 .indexlink {
 	font-family: myFirstFont;
@@ -455,7 +494,7 @@ ul {
 	@apply min-h-[3em];
 }
 
-@media (max-width: 600px) { /* Adjust this value based on your design needs */
+@media (max-width: 768px) { /* Adjust this value based on your design needs */
     .index-post-title-header {
 		width: 100%; /* Full width on mobile devices */
     }
@@ -474,7 +513,7 @@ ul {
 	/* @apply rounded-tr-[1rem]; */
 }
 
-@media (max-width: 600px) { /* Adjust this value based on your design needs */
+@media (max-width: 768px) { /* Adjust this value based on your design needs */
     .index-post-content {
 		width: 100%; /* Full width on mobile devices */
     }
@@ -496,7 +535,7 @@ figure img {
     height: auto;
 }
 
-@media (max-width: 600px) { /* Adjust this value based on your design needs */
+@media (max-width: 768px) { /* Adjust this value based on your design needs */
     figure img {
         width: 100%; /* Full width on mobile devices */
     }

@@ -1,19 +1,18 @@
 ---
 import { getCollection } from 'astro:content';
-import MarkdownProjectPostLayout from '../../layouts/MarkdownProjectPostLayout.astro';
+import MarkdownProjectsPostLayout from '../../layouts/MarkdownProjectsPostLayout.astro';
 
 export async function getStaticPaths() {
-  const blogEntries = await getCollection('projects');
-  const r = blogEntries.map(entry => ({
+  const blogEntries = await getCollection('nfl_projects');
+  return blogEntries.map(entry => ({
     params: { slug: entry.slug }, props: { entry },
   }));
-  return r
 }
 const { entry } = Astro.props;
 const { Content } = await entry.render();
+console.log(entry.data)
 ---
-projects/[...slug].astro
 
-<MarkdownProjectPostLayout frontmatter={entry.data}>
+<MarkdownProjectsPostLayout frontmatter={entry.data}>
     <Content />
-</MarkdownProjectPostLayout>
+</MarkdownProjectsPostLayout>

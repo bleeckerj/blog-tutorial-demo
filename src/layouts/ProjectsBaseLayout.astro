@@ -1,0 +1,55 @@
+---
+import ProjectsHeader from "../components/ProjectsHeader.astro";
+import Footer from "../components/Footer.astro";
+import "../styles/global.css";
+import "../styles/projects_bundle.css";
+import "../styles/fonts.css"
+
+// Create a complete instance
+const { headTitle, pageTitle } = Astro.props;
+let { frontmatter } = Astro.props;
+
+// Check if frontmatter is undefined
+if (frontmatter === undefined) {
+    console.log("frontmatter is undefined");
+    console.log(Astro.url);
+    // You can also define frontmatter here if needed
+    frontmatter = {
+  title: "Back Office at the Near Future Laboratory",
+  pubDate: new Date('2024-01-01'),
+  description: "Imagination leads to beautiful, unexpected possibilities. It's Time to Imagine Harder.",
+  seo: "Design Fiction",
+  author: "Julian Bleecker",
+  authorUsername: "@darthjulian",
+  projectImages: [
+  {url: "https://example.com/image1.jpg",
+    altText: "Description for image 1"
+  },
+  {
+    url: "https://example.com/image2.jpg",
+    altText: "Description for image 2"
+  }],
+  // image: {
+  //   url: "https://example.com/image.jpg",
+  //   altText: "An image depicting future technology"
+  // },
+  og_type: "site",
+  tags: ["Design Fiction", "Futures", "Design Innovation"],
+  isDraft: false,
+  containsImage: false,
+};
+
+}
+---
+<html>
+    <ProjectsHeader pageTitle={pageTitle} frontmatter={frontmatter}/>
+    <body>
+    <div class="posttitle mt-4">{frontmatter.projectName}</div>
+    <div class="postsubtitle mt-2 mb-5">{frontmatter.subtitle}</div>
+    <slot />
+    <Footer />
+    <script>
+      import "../scripts/menu.js";
+    </script>
+  </body>
+</html>

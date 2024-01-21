@@ -52,9 +52,47 @@ const projectsCollection = defineCollection({
     }).optional(),
     meta: z.record(z.string()).optional(),  })
 });
+
+const DesignFictionArchetypes = z.enum(['NEWSPAPER', 'MAGAZINE', 'CPG', 'ADVERTISEMENT', 'MENU','PRODUCT CATALOG', 'QUICK START GUIDE', 'INSTRUCTIONS', 'UNBOXING VIDEO', 'OTHER']);
+const imageSchema = z.object({
+  url: z.string(),  //
+  caption: z.string(), // Caption
+  altText: z.string()     // Simple string for alt text
+});
+
+const nflProjectsCollection = defineCollection({
+  type: 'content',
+  schema: z.object({
+    projectName: z.string(),
+    title: z.string(), /* this is largely for open graph */
+    subtitle: z.string(), /* Can be for example, 'The Newspaper from a Future of Sports' */
+    projectType: z.string(),
+    client: z.string(),
+    clientURL: z.string().url().optional(),
+    isDesignFiction: z.boolean().default(true),
+    archetype: DesignFictionArchetypes.optional(),
+    tags: z.array(z.string()).optional(),
+    pubDate: z.date(),
+    projectYear: z.number(),
+    projectDurationWeeks: z.number(), 
+    description: z.string(),
+    summary: z.string().optional(),
+    projectImages: z.array(imageSchema), // the first of this array will be used as the 'main' cover image
+    author: z.string(),
+    authorUsername: z.string().default('@nearfuturelab'),
+    seoImage: z.object({
+      url: z.string().default('https://backoffice.nearfuturelaboratory.com/favicon.svg'),
+      altText: z.string().default('Near Future Laboratory Design Fiction Imagine Harder')
+    }).optional(),
+    og_type: z.string().default('article'),
+    isDraft: z.boolean().default(true),
+    containsImage: z.boolean().optional(),
+    meta: z.record(z.string()).optional(),  }),
+});
 // Export a single `collections` object to register your collection(s)
 export const collections = {
   blog: postsCollection,
   digest: digestCollection,
-  projects: projectsCollection
+  nfl_projects: nflProjectsCollection,
+  projects: projectsCollection,
 };

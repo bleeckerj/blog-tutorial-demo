@@ -1,0 +1,54 @@
+---
+import Hamburger from "./Hamburger.astro";
+import Navigation from "./Navigation.astro";
+import {SEO} from "astro-seo";
+
+import ThemeIcon from "./ThemeIcon.astro";
+const { pageTitle, frontmatter } = Astro.props;
+const imageUrl = frontmatter.image && frontmatter.image.url ? 
+                 Astro.site + frontmatter.image.url : 
+                 Astro.site + "/favicon.svg";
+const imageAlt = frontmatter.image && frontmatter.image.altText ? frontmatter.image.altText : "Design Fiction";
+const url = Astro.url;
+// console.log("Image URL: ", imageUrl);
+---
+<head>
+  <title>{pageTitle}</title>
+  <SEO
+      title={frontmatter.pageTitle},
+      description={frontmatter.description}
+      openGraph={{
+        basic: {
+          title:frontmatter.title,
+          type: frontmatter.og_type ? frontmatter.og_type : "article",
+          image: imageUrl,
+          url: url
+        }
+      }}
+      twitter={{
+        creator:"@nearfuturelab",
+        card: "summary_large_image",
+        image: imageUrl,
+        imageAlt: imageAlt
+      }}
+      extend={{
+        // extending the default link tags
+        link: [{ rel: "icon", href: "/favicon.ico" }],
+        // extending the default meta tags
+        meta: [
+          {
+            name: "twitter:image",
+            content: imageUrl,
+          },
+          { name: "twitter:title", content: frontmatter.title },
+          { name: "twitter:description", content: "Agent" },
+        ],
+      }}
+    />
+  <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8" >
+  <nav>
+    <Hamburger />
+    <!-- <ThemeIcon /> -->
+    <Navigation />
+  </nav>
+</head>

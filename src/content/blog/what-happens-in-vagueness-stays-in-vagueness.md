@@ -1,5 +1,4 @@
 ---
-
 title: "What Happens In Vagueness, Stays In Vagueness"
 author: "Julian Bleecker"
 description: The delicious gooey center of Design Fiction is what you get when you take on a mindset such that the work of doing Design Fiction is not external to the possible outcomes. In other words, you’re not collecting a bunch of inputs and cobbling them into some vague, not-fun-to-read package of some sort — a PowerPoint or summary report. One significant objective of Design Fiction is to translate insights and such into some form or archetype and to do so with an exceptionally high level of verisimilitude and acuity. 

@@ -4,7 +4,61 @@ import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 import "../styles/bundle.css";
 import "../styles/fonts.css"
-const { headTitle, pageTitle, frontmatter } = Astro.props;
+
+import { z } from 'zod';
+
+// Define the schema
+const postSchema = z.object({
+  title: z.string(),
+  pubDate: z.date(),
+  description: z.string().optional(),
+  seo: z.string().default('Design Fiction'),
+  author: z.string(),
+  authorUsername: z.string().default('@nearfuturelab'),
+  image: z.object({
+    url: z.string().default('https://backoffice.nearfuturelaboratory.com/favicon.svg'),
+    altText: z.string().default('Near Future Laboratory Design Fiction Imagine Harder')
+  }).optional(),
+  og_type: z.string().default('article'),
+  tags: z.array(z.string()).optional(),
+  isDraft: z.boolean().default(true),
+  containsImage: z.boolean().optional(),
+});
+
+// Create a complete instance
+const { headTitle, pageTitle } = Astro.props;
+let { frontmatter } = Astro.props;
+
+// Check if frontmatter is undefined
+if (frontmatter === undefined) {
+    console.log("frontmatter is undefined");
+    console.log(Astro.url);
+    // You can also define frontmatter here if needed
+    frontmatter = postSchema.parse({
+  title: "Back Office at the Near Future Laboratory",
+  pubDate: new Date('2024-01-01'),
+  description: "Imagination leads to beautiful, unexpected possibilities. It's Time to Imagine Harder.",
+  seo: "Design Fiction",
+  author: "Julian Bleecker",
+  authorUsername: "@darthjulian",
+  projectImages: [
+  {url: "https://example.com/image1.jpg",
+    altText: "Description for image 1"
+  },
+  {
+    url: "https://example.com/image2.jpg",
+    altText: "Description for image 2"
+  }],
+  // image: {
+  //   url: "https://example.com/image.jpg",
+  //   altText: "An image depicting future technology"
+  // },
+  og_type: "site",
+  tags: ["Design Fiction", "Futures", "Design Innovation"],
+  isDraft: false,
+  containsImage: false,
+});
+}
 ---
 <html>
     <Header pageTitle={headTitle} frontmatter={frontmatter}/>

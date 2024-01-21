@@ -1,0 +1,89 @@
+---
+import { getCollection } from 'astro:content';
+import MarkdownPostLayout from '../../layouts/MarkdownPostLayout.astro';
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+type PathType = {
+    params: {
+        project: string;
+        month: string;
+    };
+    props: {
+        posts: any[]; // Replace 'any' with the actual type of your posts if known
+    };
+};
+
+
+export async function getStaticPaths() {
+
+const posts = await getCollection('projects');
+//const postYears = new Map();
+const postProject = new Map();
+
+posts.forEach(post => {
+    //const year = post.data.pubDate.getFullYear();
+    const project = post.data.project;
+
+    // if (!postYears.get(year)) {
+    //     postYears.set(year, []);
+    // }
+    if (!postProject.get(project)) {
+        postProject.set(project, []);
+    }
+
+    //postYears.get(year).push(post);
+    postProject.get(project).push(post);
+});
+
+
+
+// return [...postYears.entries()].map(([year, posts]) => ({
+//     params: { year },
+//     props: { posts }
+// }));
+
+    return [...postProject.entries()].map(([project, posts]) => ({
+        params: { project },
+        props: { posts }
+    }));
+
+};
+
+const { project } = Astro.params;
+const { posts } = Astro.props;
+const f = "This is a "+project+" page"
+---
+<BaseLayout pageTitle={f}>
+
+<main>
+    <h2>Posts in {project}</h2>
+    projects/[project].astro (eg projects/electronic-sheep)
+    <br/>
+    <section>
+        <ul>
+            {
+                posts.map((post) => (
+                <div style="" class="bg-gray-300 p-4 m-4 rounded-md">
+                    <!--li -->
+                        <div class="m-1">
+                        <div class="bg-yellow-50 mr-0">{post.data.project}</div>
+                        <time datetime={post.data.pubDate.toISOString()}>
+                            {post.data.pubDate.toLocaleDateString('en-us', {
+                                year: 'numeric',
+                                month: 'short',
+                                day: 'numeric',
+                                hour: 'numeric',
+                                minute: 'numeric'
+                            })}
+                        </time>
+                        </div>
+                        <a href={`/digest/${post.slug}/`}>{post.data.summary}</a>
+{post.slug}
+                    <!--/li-->
+                    </div>
+                ))
+            }
+        </ul>
+    </section>
+</main>
+</BaseLayout>
