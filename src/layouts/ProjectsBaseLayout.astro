@@ -8,38 +8,6 @@ import "../styles/fonts.css"
 // Create a complete instance
 const { headTitle, pageTitle } = Astro.props;
 let { frontmatter } = Astro.props;
-
-// Check if frontmatter is undefined
-//if (frontmatter === undefined) {
-//    console.log("frontmatter is undefined");
-//     //console.log(Astro.url);
-//     // You can also define frontmatter here if needed
-//     frontmatter = {
-//   title: "Back Office at the Near Future Laboratory",
-//   pubDate: new Date('2024-01-01'),
-//   description: "Imagination leads to beautiful, unexpected possibilities. It's Time to Imagine Harder.",
-//   seo: "Design Fiction",
-//   author: "Julian Bleecker",
-//   authorUsername: "@darthjulian",
-//   projectImages: [
-//   {url: "https://example.com/image1.jpg",
-//     altText: "Description for image 1"
-//   },
-//   {
-//     url: "https://example.com/image2.jpg",
-//     altText: "Description for image 2"
-//   }],
-//   // image: {
-//   //   url: "https://example.com/image.jpg",
-//   //   altText: "An image depicting future technology"
-//   // },
-//   og_type: "site",
-//   tags: ["Design Fiction", "Futures", "Design Innovation"],
-//   isDraft: false,
-//   containsImage: false,
-//};
-
-//}
 ---
 <html>
     <ProjectsHeader pageTitle={pageTitle} frontmatter={frontmatter}/>
@@ -47,6 +15,13 @@ let { frontmatter } = Astro.props;
     <div class="posttitle mt-4">{frontmatter.projectName}</div>
     <div class="postsubtitle mt-2 mb-5">{frontmatter.subtitle}</div>
     <slot />
+
+    <div class="contact">
+      Want to learn more? Curious how we work? Feel like your organization could use a bit more Imagination to help make sense of the dynamic character of a kinetic marketplace?
+      
+      <a href="mailto:julian@nearfuturelaboratory.com">Contact us to discuss</a> how you can engage Near Future Laboratory to help you make sense of the futures your organization will face.
+      </div>
+
     <Footer />
     <script>
       import "../scripts/menu.js";

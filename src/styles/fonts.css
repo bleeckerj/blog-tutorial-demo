@@ -20,13 +20,13 @@
 
 @font-face {
 	font-family: "ES Peak";
-  font-weight: 700 899;
+  font-weight: 700;
 	src: url('/fonts/espeak/ESPeakBold.woff2') format('woff2');
 }
 
 @font-face {
 	font-family: "ES Peak";
-  font-weight: 900 1000;
+  font-weight: 900;
 	src: url('/fonts/espeak/ESPeakExtrabold.woff2') format('woff2');
 }
 

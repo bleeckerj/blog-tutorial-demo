@@ -171,28 +171,37 @@ img {
   
   h2 {
 	margin: 2rem auto 0.2rem;
-	font-size: 1.5rem;
+	font-size: 1.75rem;
 	/* font-family: 'RoslindaleDisplay', sans-serif;
     font-style: normal;
     font-weight: 600; Semi-bold */
 	font-family: "FormaDJRVariable";
     /* font-style: normal; */
 	font-variation-settings: 'wght' 700, 'slnt' -1;
+	@apply text-slate-800;
 	/* font-variation-settings: 'slnt' -5; */
     /* line-height: 0.8em; */
   }
 
   h3 {
 	margin-top: 1em;
-	font-size: 1.1rem;
+	font-size: 1.2rem;
 	font-family: "FormaDJRVariable";
 	font-variation-settings: 'wght' 700, 'slnt' -5;
+	@apply text-slate-800;
   }
+
+  @media (max-width: 768px) { /* Adjust this value based on your design needs */
+    h3 {
+		font-size: 1.4rem;
+    }
+}
   
   em {
 	font-style: normal;
 	font-family: "Roslindale Variable";
-	font-variation-settings: 'wght' 500, 'slnt' -5;
+	font-variation-settings: 'wght' 700, 'slnt' -5;
+	@apply text-slate-800;
   }
 
 .blockquote {
@@ -213,10 +222,10 @@ img {
 
 
 .date {
-	font-family: "Calibre";
-	font-style: normal;
-	font-weight: 400;
-	font-size: 1em;
+    font-family: "Calibre";
+    font-style: normal;
+    font-weight: 400;
+    font-size: calc(0.8em + 0.2vw); /* Adjust as needed */
 }
 
 .date-mono {
@@ -278,19 +287,23 @@ img {
 	font-weight: bold;
 }
 
-.ad {
-	font-family: var(--font-family-peak);
+.contact {
+	font-family: "FormaDJRVariable";
 	font-size: 1em;
+	font-variation-settings: 'wght' 400;
 	/* border-bottom: 1px dashed var(--color-gray-20); */
-	background-color: hsl(30, 100%, 88%);
+	/* background-color: hsl(30, 16%, 93%); */
+	@apply text-gray-800;
+	@apply bg-gray-200;
+	@apply shadow-md;
 	line-height:1.2em;
 	border-radius: 0.3rem;
-	padding-left: 0.625rem;
-	padding-right: 0.625rem;
-	padding-top: 0.625rem;
-	padding-bottom: 0.625rem;
-	margin-top: 1.25rem;
+	padding: 1em;
+	margin-top: 2rem;
 	margin-bottom: 1.25rem;
+	width: 85%; /* 3/4 of the viewport width */
+    margin-left: auto;
+    margin-right: auto; /* Center the block */
 }
 
 .site-title {
@@ -299,6 +312,26 @@ img {
 	font-weight: bold;
 	/* Other styling properties */
   }
+
+.letter-type {
+	font-family:'Courier New', Courier, monospace;
+	font-size: 0.8em;
+	width: 85%; /* 3/4 of the viewport width */
+    margin-left: auto;
+    margin-right: auto;
+	padding: 2em;
+	background-color: #f9f7f0;
+	@apply drop-shadow-md;
+	@apply rounded-md;
+}
+
+@media (max-width: 768px) { 
+    .letter-type {
+		font-size: 0.1rem; 
+		padding: 20em;
+		width: 100%;
+    }
+} 
 
 pre {
 	font-family: "Roslindale Variable"; 
@@ -541,6 +574,33 @@ ul {
 	font-size: 2em;
 }
 
+@media (max-width: 768px) {
+	.description {
+		font-size: 1.25em;
+	}
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 10px;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width: 600px) {
+    .grid-container {
+        grid-template-columns: 1fr; /* One column on narrow screens */
+    }
+
+    .grid-item-caption {
+        font-size: 0.8em; /* Smaller text on narrow screens */
+    }
+}
+
 figure img {
 	@apply rounded-md;
 	@apply rounded-tr-[10px];
@@ -551,21 +611,25 @@ figure img {
     height: auto;
 }
 
-@media (max-width: 768px) { /* Adjust this value based on your design needs */
+/* @media (max-width: 768px) { 
     figure img {
-        width: 100%; /* Full width on mobile devices */
+        width: 100%;
     }
-}
+} */
 
 
 figure figcaption {
 	@apply mt-0;
 	@apply mb-8;
 	@apply ml-0;
+	@apply pb-4;
 	@apply text-xs;
 	@apply font-mono;
 	@apply border-b-[1px];
 	@apply border-slate-700;
+	font-size: calc(1.0em - 0.5vw); /* Adjust as needed */
+	line-height: calc(0.8em + 0.4vw);
+
 }
 
 .draft-label {
