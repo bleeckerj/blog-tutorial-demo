@@ -2,24 +2,23 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import DigestPost from "../components/DigestPost.astro";
-const pageTitle = "PROJECTS from the Near Future Laboratory Discord";
-const posts = await getCollection("projects");
+const pageTitle = "A Few Projects from the Near Future Laboratory";
+const posts = await getCollection("nfl_projects");
 // from all the posts, find the projects as named in the frontmatter
 const allPosts = posts.sort((a, b) => {
-        const dateA = new Date(a.data.pubDate);
-        const dateB = new Date(b.data.pubDate);
+        const dateA = new Date(a.data.projectYear);
+        const dateB = new Date(b.data.projectYear);
         return dateA > dateB ? -1 : dateA < dateB ? 1 : 0; // For ascending order, use `dateA - dateB`
     });
 
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <p>PROJECTS from the Near Future Laboratory Discord.</p>
   <ul>
 
     {
       allPosts.map((post) => (
-      <h2>HELLO {post.data.project} {post.data.pubDate}</h2>
+      <h2>{post.data.projectName} {post.data.projectYear} {post.slug}</h2>
       <DigestPost url={`/projects/${post.data.project}/`} pubDate={post.data.pubDate} author={post.data.author} message={post.data.cleanContent} channel={post.data.channel} summary={post.data.summary} />
       ))
     }
