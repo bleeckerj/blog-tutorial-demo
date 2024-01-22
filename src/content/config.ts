@@ -74,7 +74,8 @@ const nflProjectsCollection = defineCollection({
     tags: z.array(z.string()).optional(),
     pubDate: z.date(),
     projectYear: z.number(),
-    projectDurationWeeks: z.number(), 
+    projectDurationWeeks: z.number(),
+    team: z.string().default('Near Future Laboratory'), 
     description: z.string(),
     summary: z.string().optional(),
     projectImages: z.array(imageSchema), // the first of this array will be used as the 'main' cover image
