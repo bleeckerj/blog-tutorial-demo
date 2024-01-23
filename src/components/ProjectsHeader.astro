@@ -13,7 +13,17 @@ const url = Astro.url;
 //console.log("Image URL: ", imageUrl);
 ---
 <head>
-  <title>{pageTitle}</title>
+   <!-- Google tag (gtag.js) -->
+<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-E5RWMELJ2B"></script>
+<script type="text/partytown">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-E5RWMELJ2B');
+</script>
+<title>{pageTitle}</title>
+
   <SEO
       title={frontmatter.pageTitle},
       description={frontmatter.description}
