@@ -38,7 +38,7 @@ const filteredPosts = allPosts.filter(post => {
     const pubDate = new Date(post.data.pubDate);
     const postProject = post.data.project
     const projectCategory = post.data.category
-    console.log(post.id + ' ' + postProject + ' ' + projectCategory + ' ' + project + ' ' + category)
+    //console.log(post.id + ' ' + postProject + ' ' + projectCategory + ' ' + project + ' ' + category)
     return (projectCategory === category && postProject === project);
     // return pubDate.getFullYear().toString() === year && 
     //        String(pubDate.getMonth() + 1).padStart(2, '0') === month;

@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 }
 const { entry } = Astro.props;
 const { Content } = await entry.render();
-console.log(entry.data)
+//console.log(entry.data)
 ---
 
 <MarkdownProjectsPostLayout frontmatter={entry.data}>
