@@ -1,0 +1,8 @@
+---
+// This script runs at build time
+const buildDate = new Date();
+const buildDateString = buildDate.toLocaleString('en-US', {dateStyle: 'medium', timeStyle: 'long', hour12: false, timeZone: 'America/Los_Angeles' });
+const year = buildDate.getFullYear()
+---
+<div class="date flex justify-center">© {year} Near Future Laboratory LLC</div>
+<p class="text-[10px] mt-2 mb-20 flex justify-center">Build Time: {buildDateString}</date>
