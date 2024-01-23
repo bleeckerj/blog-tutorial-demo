@@ -101,6 +101,24 @@
 }
 
 @font-face {
+  font-family: 'CalibreRegularItalic';
+    src: url('/fonts/klim-calibre/calibre-regular-italic.woff2') format('woff2');
+    font-style: italic;
+}
+
+@font-face {
+  font-family: 'CalibreMediumItalic';
+    src: url('/fonts/klim-calibre/calibre-medium-italic.woff2') format('woff2');
+    font-style: italic;
+}
+
+@font-face {
+  font-family: 'CalibreSemiboldItalic';
+    src: url('/fonts/klim-calibre/calibre-semibold-italic.woff2') format('woff2');
+    font-style: italic;
+}
+
+@font-face {
   src: url('/fonts/roslindale/RoslindaleVariable[opsz,slnt,wdth,wght]-Testing.woff2') format("woff2"),
        url('/fonts/roslindale/Roslindale/RoslindaleVariable[opsz,slnt,wdth,wght]-Testing.woff') format("woff");
   font-family: 'Roslindale Variable';

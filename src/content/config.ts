@@ -73,9 +73,10 @@ const nflProjectsCollection = defineCollection({
     archetype: DesignFictionArchetypes.optional(),
     tags: z.array(z.string()).optional(),
     pubDate: z.date(),
+    lastUpdate: z.date().optional(),
     projectYear: z.number(),
     projectDurationWeeks: z.number(),
-    team: z.string().default('Near Future Laboratory'), 
+    team: z.array(z.string()).default(["Near Future Laboratory", "Tuna Fish"]), 
     description: z.string(),
     summary: z.string().optional(),
     projectImages: z.array(imageSchema), // the first of this array will be used as the 'main' cover image

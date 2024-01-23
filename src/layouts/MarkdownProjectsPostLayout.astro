@@ -8,13 +8,16 @@ const { frontmatter } = Astro.props;
     <figcaption>{frontmatter.projectImages[0].caption}</figcaption>
    </figure>
    <p class="description mt-[1em]">{frontmatter.description}</p>
-   <div class="w-full md:w-1/2 rounded-sm rounded-sm bg-slate-200 pl-4 pr-4 py-3">
-   <p class="date mb-0">Contributed By: {frontmatter.author}</p>
+   <div class="w-full md:w-5/6 shadow-sm rounded-md bg-slate-100 pl-4 pr-4 py-3">
+    <p class="date mb-1">Client: {frontmatter.client}</p>
+    <p class="date mb-1">Client URL: <a href={frontmatter.clientURL}>{frontmatter.clientURL}</a></p>
    <p class="date mb-1">Project Summary: {frontmatter.summary}</p>
    <p class="date mb-0">Project Type: {frontmatter.projectType}</p>
-   <p class="date mb-0">Project Duration: {frontmatter.projectDurationWeeks} Weeks</p>
    <p class="date mb-0">Project Year: {frontmatter.projectYear}</p>
-   <p class="date mb-0">Document Published On: {frontmatter.pubDate.toLocaleString('en-US', {dateStyle: 'medium', timeStyle: 'short', hour12: false, timeZone: 'America/Los_Angeles' })}</p>  
+   <p class="date mb-0">Project Duration: {frontmatter.projectDurationWeeks} Weeks</p>
+   <p class="date mb-0">Document Published On: {frontmatter.pubDate.toLocaleString('en-US', {dateStyle: 'medium', timeStyle: 'long', hour12: false, timeZone: 'America/Los_Angeles' })}</p>  
+   <p class="date mb-0">Document Updated On: {frontmatter.lastUpdate.toLocaleString('en-US', {dateStyle: 'medium', timeStyle: 'long', hour12: false, timeZone: 'America/Los_Angeles' })}</p>  
+   <p class="date mb-0">Document Written By: {frontmatter.author}</p>
   </div>
 
   <div class="grid md:grid-cols-2 grid-cols-1 gap-4 w-full">  

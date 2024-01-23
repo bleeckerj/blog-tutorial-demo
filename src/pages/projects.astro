@@ -2,6 +2,8 @@
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
 import DigestPost from "../components/DigestPost.astro";
+import Footer from "../components/Footer.astro";
+
 const pageTitle = "A Few Projects from the Near Future Laboratory";
 const posts = await getCollection("nfl_projects");
 // from all the posts, find the projects as named in the frontmatter
@@ -10,6 +12,7 @@ const allPosts = posts.sort((a, b) => {
         const dateB = new Date(b.data.projectYear);
         return dateA > dateB ? -1 : dateA < dateB ? 1 : 0; // For ascending order, use `dateA - dateB`
     });
+const publishedPosts = allPosts.filter(post => !post.data.isDraft);
 
 ---
 
@@ -17,9 +20,10 @@ const allPosts = posts.sort((a, b) => {
   <ul>
 
     {
-      allPosts.map((post) => (
-      <h2>{post.data.projectName} {post.data.projectYear} {post.slug}</h2>
-      <DigestPost url={`/projects/${post.data.project}/`} pubDate={post.data.pubDate} author={post.data.author} message={post.data.cleanContent} channel={post.data.channel} summary={post.data.summary} />
+      publishedPosts.map((post) => (
+      <p style="margin-bottom: 10px;" class="date">{post.data.projectName} ({post.data.projectYear})</p>
+      <p style="line-height: 1rem; margin-bottom: 1rem;" class="date">{post.data.summary}</p>
+      <DigestPost url={`/projects/${post.slug}/`} pubDate={post.data.pubDate} author={post.data.client} message={post.data.description} channel={post.data.channel} summary={post.data.summary} />
       ))
     }
   </ul>
