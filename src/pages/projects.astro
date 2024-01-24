@@ -1,10 +1,61 @@
 ---
+import { z } from 'zod';
+
+// Define the schema
+const postSchema = z.object({
+  title: z.string(),
+  pubDate: z.date(),
+  description: z.string().optional(),
+  seo: z.string().default('Design Fiction'),
+  author: z.string(),
+  authorUsername: z.string().default('@nearfuturelab'),
+  image: z.object({
+    url: z.string().default('https://backoffice.nearfuturelaboratory.com/favicon.svg'),
+    altText: z.string().default('Near Future Laboratory Design Fiction Imagine Harder')
+  }).optional(),
+  og_type: z.string().default('article'),
+  tags: z.array(z.string()).optional(),
+  isDraft: z.boolean().default(true),
+  containsImage: z.boolean().optional(),
+});
+
+const frontmatter = postSchema.parse({
+  title: "Back Office at the Near Future Laboratory",
+  pubDate: new Date("2024-01-23T15:14:58-08:00"),
+  description: "Imagination leads to beautiful, unexpected possibilities. It's Time to Imagine Harder.",
+  seo: "Design Fiction",
+  author: "Julian Bleecker",
+  authorUsername: "@darthjulian",
+  projectImages: [
+  {url: "https://example.com/image1.jpg",
+    altText: "Description for image 1"
+  },
+  {
+    url: "https://example.com/image2.jpg",
+    altText: "Description for image 2"
+  }],
+  // image: {
+  //   url: "https://example.com/image.jpg",
+  //   altText: "An image depicting future technology"
+  // },
+  og_type: "site",
+  tags: ["Design Fiction", "Futures", "Design Innovation"],
+  isDraft: false,
+  containsImage: false,
+});
+
+import "../styles/global.css";
+import "../styles/bundle.css";
+import "../styles/fonts.css"
+
+
 import { getCollection } from "astro:content";
 import BaseLayout from "../layouts/BaseLayout.astro";
-import DigestPost from "../components/DigestPost.astro";
+import ProjectSummaryPost from "../components/ProjectSummaryPost.astro";
+import Header from "../components/Header.astro";
 import Footer from "../components/Footer.astro";
 
-const pageTitle = "A Few Projects from the Near Future Laboratory";
+const pageTitle = "A Few Projects";
 const posts = await getCollection("nfl_projects");
 // from all the posts, find the projects as named in the frontmatter
 const allPosts = posts.sort((a, b) => {
@@ -15,16 +66,32 @@ const allPosts = posts.sort((a, b) => {
 const publishedPosts = allPosts.filter(post => !post.data.isDraft);
 
 ---
+<html>
+    <Header pageTitle={pageTitle} frontmatter={frontmatter}/>
+    <body>
+    <div class="posttitle mt-4 mb-5">{pageTitle}</div>
+    Hello
+    {
+    publishedPosts.map((post) => (
+    <p style="margin-bottom: 10px;" class="date">{post.data.projectName} ({post.data.projectYear})</p>
+    <p style="line-height: 1rem; margin-bottom: 1rem;" class="date">{post.data.summary}</p>
+    <ProjectSummaryPost projectName={post.data.projectName} url={`/projects/${post.slug}/`} summary={post.data.summary} title={post.data.title} subtitle={post.data.subtitle} projectType={post.data.projectType} client={post.data.client} archetype={post.data.archetype} tags={post.data.tags} projectYear={post.data.projectYear} description={post.data.description} seoImage={post.data.seoImage}/>
+    ))
+    }
 
-<BaseLayout pageTitle={pageTitle}>
-  <ul>
+    <Footer />
+    <script>
+      import "../scripts/menu.js";
+    </script>
+  </body>
+</html>
 
+<!-- <BaseLayout>
     {
       publishedPosts.map((post) => (
       <p style="margin-bottom: 10px;" class="date">{post.data.projectName} ({post.data.projectYear})</p>
       <p style="line-height: 1rem; margin-bottom: 1rem;" class="date">{post.data.summary}</p>
-      <DigestPost url={`/projects/${post.slug}/`} pubDate={post.data.pubDate} author={post.data.client} message={post.data.description} channel={post.data.channel} summary={post.data.summary} />
+      <ProjectSummaryPost projectName={post.data.projectName} url={`/projects/${post.slug}/`} summary={post.data.summary} title={post.data.title} subtitle={post.data.subtitle} projectType={post.data.projectType} client={post.data.client} archetype={post.data.archetype} tags={post.data.tags} projectYear={post.data.projectYear} description={post.data.description} seoImage={post.data.seoImage}/>
       ))
     }
-  </ul>
-</BaseLayout>
+</BaseLayout> -->

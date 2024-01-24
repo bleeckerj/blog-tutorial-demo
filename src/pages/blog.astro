@@ -10,7 +10,8 @@ const allPosts = posts.sort((a, b) => {
         const dateA = new Date(a.data.pubDate);
         const dateB = new Date(b.data.pubDate);
         return dateA > dateB ? -1 : dateA < dateB ? 1 : 0; // For ascending order, use `dateA - dateB`
-    });
+    }).filter(post => !post.data.isDraft); // Filtering out posts where isDraft is true
+
 
 
 ---

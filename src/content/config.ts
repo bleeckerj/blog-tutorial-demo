@@ -53,7 +53,7 @@ const projectsCollection = defineCollection({
     meta: z.record(z.string()).optional(),  })
 });
 
-const DesignFictionArchetypes = z.enum(['NEWSPAPER', 'MAGAZINE', 'CPG', 'ADVERTISEMENT', 'MENU','PRODUCT CATALOG', 'QUICK START GUIDE', 'INSTRUCTIONS', 'UNBOXING VIDEO', 'OTHER']);
+const DesignFictionArchetypes = z.enum(['NEWSPAPER', 'MAGAZINE', 'CPG', 'ADVERTISEMENT', 'MENU','PRODUCT CATALOG', 'QUICK START GUIDE', 'INSTRUCTIONS', 'UNBOXING VIDEO', 'ANNUAL REPORT', 'OTHER']);
 const imageSchema = z.object({
   url: z.string(),  //
   caption: z.string(), // Caption
