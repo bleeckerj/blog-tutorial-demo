@@ -1,0 +1,28 @@
+---
+import EBaseLayout from "../../../layouts/email/EBaseLayout.astro";
+// Low-bandwidth content rendering logic
+// import { getPost } from '../../../utils/getPost';
+import { getCollection } from 'astro:content';
+
+// const { slug } = Astro.props.page.params;
+// const post = await getPost(slug);
+export async function getStaticPaths() {
+  const blogEntries = await getCollection('blog');
+  return blogEntries.map(entry => {
+  const lastComponent = entry.slug.split('/').pop(); // Extracts the last part of the slug
+  console.log(lastComponent)
+  return {
+    params: { slug: lastComponent },
+    props: { entry }
+  };
+});
+}
+const { entry } = Astro.props;
+const { Content } = await entry.render();
+---
+<EBaseLayout>
+    <article>
+    <div class="posttitle">HelloGoodbye</div>
+    <Content/>
+  </article>
+</EBaseLayout>

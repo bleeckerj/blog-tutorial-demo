@@ -2,14 +2,17 @@ import { defineConfig } from "astro/config";
 import preact from "@astrojs/preact";
 import react from '@astrojs/renderer-react';
 import tailwind from "@astrojs/tailwind";
-import remarkParse from 'remark-parse'
-
 import mdx from "@astrojs/mdx";
+import partytown from '@astrojs/partytown'
 
 // https://astro.build/config
 export default defineConfig({
   site: "https://backoffice.nearfuturelaboratory.com",
-  integrations: [preact(), tailwind(), mdx()],
+  integrations: [preact(), tailwind(), mdx(), partytown({
+    config: {
+      forward: ["dataLayer.push"],
+    },
+  })],
   server: {
     port: 3000
   },
