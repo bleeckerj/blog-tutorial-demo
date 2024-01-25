@@ -92,6 +92,12 @@ p {
 	line-height: 1.25;
 	margin-bottom: 1em;
 }
+em {
+	font-family: "Roslindale Variable";
+	font-style: normal;
+	font-weight: normal;
+	font-variation-settings: 'wght' 600, 'slnt' -5;
+}
 
 li {
 	line-height: 1.25;
@@ -99,7 +105,7 @@ li {
 }
 
 li:not(:last-child) { 
-	margin-bottom: 1.25rem;  
+	margin-bottom: 0.2rem;  
  }
 
 a[href] {
@@ -457,7 +463,15 @@ menu {
 ul {
     list-style-type: disc; /* Set the marker style to disc */
     padding-left: 1em; /* Add some left padding for the markers */
+	margin-bottom: 2rem;
 }
+
+ul li {
+    margin-bottom: 2px;
+	
+}
+
+
 
 
 .metadata-title-header {

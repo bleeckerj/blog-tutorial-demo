@@ -1,0 +1,16 @@
+---
+const { url, projectName, title, subtitle, projectType, client, archetype, tags, projectYear, summary, description, seoImage } = Astro.props
+//console.log(pubDate)
+// const formattedDate = new Intl.DateTimeFormat('en-US', { 
+//     year: 'numeric', 
+//     month: 'short', 
+//     day: '2-digit' 
+// }).format(pubDate);
+---
+<div class="grid grid-cols-[200px_1fr] gap-4 mb-10">
+    <!-- <div class="date-mono">{formattedDate}<p/> -->
+    </div>
+    <!-- <span style="margin-top: 30px;" class="blockquote">{channel}</span> -->
+    <div class="human-content-container"><a style="text-decoration: none" href={url}>{summary}</a><p/>
+    </div>
+</div>

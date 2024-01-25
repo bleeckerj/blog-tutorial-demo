@@ -1,0 +1,209 @@
+/* Fonts */
+
+/* Defaults */
+:root {
+	--font-family: "Roboto", Helvetica, Arial, sans-serif;
+	--font-family-monospace: monospace;
+}
+
+/* Theme colors */
+:root {
+	--color-gray-20: #e0e0e0;
+	--color-gray-50: #C0C0C0;
+	--color-gray-90: #333;
+
+	--background-color: #E0E2DB; 
+
+	--text-color: var(--color-gray-90);
+	--text-color-link: #d911a4;
+	--text-color-link-active: #555555;
+	--text-color-link-visited: #2d2d2d;
+
+	--syntax-tab-size: 2;
+}
+
+/* Global stylesheet */
+* {
+	box-sizing: border-box;
+}
+
+html,
+body {
+	padding-left: auto;
+	margin: 0px auto auto 0.8rem;
+	font-family: var(--font-family);
+	color: var(--text-color);
+	background-color: var(--background-color);
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	max-width: 50em;
+}
+p:last-child {
+	margin-bottom: 0;
+}
+p {
+	line-height: 1.25;
+	margin-bottom: 1em;
+}
+
+li {
+	line-height: 1.25;
+	margin-bottom: 2em;
+}
+
+/* li:not(:last-child) { 
+	margin-bottom: 1rem;  
+ } */
+
+a[href] {
+	color: var(--text-color-link);
+	text-decoration: underline;
+}
+
+
+/* img {
+	width: 600px;
+	height: auto;
+	margin: 2em;
+	margin-left: 2px;
+  } */
+
+h1 {
+	margin: 2rem 0 -1rem;
+	font-size: 2.0rem;
+	/* font-family: "Rebond Grotesque"; */
+	font-weight: bold;
+  }
+  
+  h2 {
+	font-size: 1.5rem;
+	margin-top: 0.75em;
+	margin-bottom: 0.75em;
+  }
+
+  h3 {
+	margin-top: 1.5em;
+	font-weight: bold;
+  }
+
+.date {
+	font-family: "monospace";
+	font-style: normal;
+	font-weight: 400;
+	font-size: 1em;
+}
+
+.date-mono {
+	font-family: "monospace";
+	font-weight: normal;
+	font-size: 0.85em;
+}
+
+.posttitle, .postsubtitle {
+    font-family: "FormaDJRDisplay";
+    font-style: normal;
+	font-style: bold;
+    line-height: 0.8em;
+}
+
+.posttitle {
+    font-family: "FormaDJRDisplay";
+    font-style: normal;
+	font-style: bold;
+    font-size: 4.00em;
+}
+
+
+
+/* Posts list */
+.postlist {
+	list-style: none;
+	padding: 0;
+	padding-left: 1.5rem;
+}
+.postlist-item {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	counter-increment: start-from -1;
+	margin-bottom: 1em;
+}
+.postlist-item:before {
+	display: inline-block;
+	pointer-events: none;
+	content: "" counter(start-from, decimal-leading-zero) ". ";
+	line-height: 100%;
+	text-align: right;
+	margin-left: -1.5rem;
+}
+.postlist-date,
+.postlist-item:before {
+	font-size: 0.8125em; /* 13px /16 */
+	color: var(--color-gray-90);
+}
+.postlist-date {
+	word-spacing: -0.5px;
+}
+.postlist-link {
+	font-size: 1.1875em; /* 19px /16 */
+	font-weight: 700;
+	flex-basis: calc(100% - 1.5rem);
+	padding-left: .25em;
+	padding-right: .5em;
+	text-underline-position: from-font;
+	text-underline-offset: 0;
+	text-decoration-thickness: 1px;
+}
+.postlist-item-active .postlist-link {
+	font-weight: bold;
+}
+
+/* Tags */
+.post-tag {
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	text-transform: capitalize;
+	font-style: italic;
+}
+.postlist-item > .post-tag {
+	align-self: center;
+}
+
+
+
+ul {
+    list-style-type: disc; /* Set the marker style to disc */
+    padding-left: 1em; /* Add some left padding for the markers */
+}
+
+
+
+/* .description {
+	font-family: "Roslindale Variable"; 
+	font-variation-settings: 'wght' 600;
+	font-variation-settings: "slnt" -4;
+} */
+
+figure img {
+	@apply rounded-md;
+	@apply rounded-tr-[10px];
+	@apply mb-[12px];
+	@apply shadow-xl;
+    max-width: 100%;  /* Ensure it doesn't overflow its container */
+    height: auto;
+}
+
+
+figure figcaption {
+	@apply mt-0;
+	@apply mb-8;
+	@apply ml-0;
+	@apply text-xs;
+	@apply font-mono;
+	@apply border-b-[1px];
+	@apply border-slate-700;
+}

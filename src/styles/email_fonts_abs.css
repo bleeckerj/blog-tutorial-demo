@@ -1,0 +1,65 @@
+
+
+/* @font-face {
+    font-family: "Rebond Grotesque";
+    font-weight: normal;
+    src: url("https://backoffice.nearfuturelaboratory.com/fonts/rebond-grotesque/ESRebondGrotesque-Regular.woff2") format("woff2"),
+  }
+   */
+  /* @font-face {
+    font-family: "Berkeley Mono";
+    font-weight: normal;
+    src: url("https://backoffice.nearfuturelaboratory.com/fonts/berkeley-mono/BerkeleyMonoVariable-Regular.woff2"),
+  } */
+
+/* @font-face {
+  font-family: "ESKlarheit Kurrent Mono";
+  font-weight: normal;
+  src: url("https://backoffice.nearfuturelaboratory.com/fonts/es-klarheit-kurrent-mono/woff2/ESKlarheitKurrentMono-Rg.woff2")format("woff2");
+
+} */
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+/* 
+@font-face {
+  src: url('https://backoffice.nearfuturelaboratory.com/fonts/roslindale/RoslindaleText-Regular-Testing.woff2') format("woff2");
+  font-family: 'RoslindaleText';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('https://backoffice.nearfuturelaboratory.com/fonts/roslindale/RoslindaleText-Italic-Testing.woff2') format("woff2");
+  font-family: 'RoslindaleText';
+  font-style: italic;
+  font-weight: normal;
+}
+
+
+@font-face {
+  src: url('https://backoffice.nearfuturelaboratory.com/fonts/formadjr/FormaDJRDisplay-Bold-Testing.woff2') format("woff2");
+  font-family: 'FormaDJRDisplay';
+  font-style: normal;
+  font-weight: bold;
+}
+ */
+
+
+
+/*****
+Standard vs. Numerical Values for Font Weight
+100 – Thin.
+200 – Extra Light (Ultra Light)
+300 – Light.
+400 – Normal.
+500 – Medium.
+600 – Semi Bold (Demi Bold)
+700 – Bold.
+800 – Extra Bold (Ultra Bold)
+
+*****/

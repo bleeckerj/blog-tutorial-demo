@@ -1,0 +1,18 @@
+---
+import SimpleHeader from "../../components/SimpleHeader.astro";
+import Footer from "../../components/Footer.astro";
+import "../../styles/global.css";
+import "../../styles/email_bundle.css";
+import "../../styles/email_fonts_abs.css"
+
+
+// Create a complete instance
+const { headTitle, pageTitle } = Astro.props;
+---
+<html>
+<SimpleHeader/>
+<body>
+    <div class="posttitle mt-4 mb-5">{pageTitle}</div>
+    <slot />
+  </body>
+</html>
