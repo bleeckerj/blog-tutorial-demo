@@ -1,3 +1,5 @@
+gtag.js
+src/pages/test.astro
 # build output
 dist/
 

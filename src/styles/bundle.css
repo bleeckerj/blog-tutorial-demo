@@ -21,7 +21,7 @@
 
 	--background-color: #E0E2DB; 
 
-	--text-color: var(--color-gray-90);
+	/* --text-color: var(--color-gray-90); */
 	--text-color-link: #d911a4;
 	--text-color-link-active: #555555;
 	--text-color-link-visited: #2d2d2d;
@@ -55,6 +55,7 @@ body {
 	padding-left: auto;
 	margin: 0px auto auto 0.8rem;
 	font-family: var(--font-family);
+	font-variation-settings: 'wght' 200, 'slnt' 0;
 	color: var(--text-color);
 	background-color: var(--background-color);
 }
@@ -99,14 +100,7 @@ em {
 	font-variation-settings: 'wght' 600, 'slnt' -5;
 }
 
-li {
-	line-height: 1.25;
-	margin-bottom: 2em;
-}
 
-li:not(:last-child) { 
-	margin-bottom: 0.2rem;  
- }
 
 a[href] {
 	color: var(--text-color-link);
@@ -271,17 +265,18 @@ img {
 
 .ad {
 	font-family: var(--font-family-peak);
+	font-weight: 300;
 	font-size: 1em;
-	/* border-bottom: 1px dashed var(--color-gray-20); */
-	background-color: hsl(30, 100%, 88%);
+	background-color: hsl(0, 0%, 95%);
 	line-height:1.2em;
 	border-radius: 0.3rem;
 	padding-left: 0.625rem;
 	padding-right: 0.625rem;
 	padding-top: 0.625rem;
 	padding-bottom: 0.625rem;
-	margin-top: 1.25rem;
-	margin-bottom: 1.25rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	margin-left: -1rem;
 }
 
 .site-title {
@@ -460,6 +455,27 @@ menu {
   padding: 0;
 }
 
+ol p {
+    margin-bottom: 0.5rem;
+}
+
+
+
+li > p:last-child {
+    margin-bottom: 1.5rem; /* Adjust as needed */
+}
+
+
+
+p:has(+ ol) {
+    /* Styles for a <p> tag that is directly followed by a <ul> */
+	/* margin-bottom: 2.5rem; */
+	/* border-bottom: 1px solid #909090;  */
+	/* Thin black bottom border */
+    /* padding-bottom: 1rem;  */
+	/* Space between content and border */
+}
+
 ul {
     list-style-type: disc; /* Set the marker style to disc */
     padding-left: 1em; /* Add some left padding for the markers */
@@ -467,10 +483,22 @@ ul {
 }
 
 ul li {
-    margin-bottom: 2px;
+    margin-bottom: 0.5rem;
 	
 }
 
+li {
+	line-height: 1.25;
+	margin-bottom: 0.5em;
+}
+
+li:not(:last-child) { 
+	margin-bottom: 0.2rem;  
+ }
+
+p:last-child {
+    margin-bottom: 1rem;
+}
 
 
 

@@ -6,45 +6,62 @@ seo: "Design fiction creates artifacts, not speculations."
 author: Julian Bleecker
 # Representation of the 'image' object
 image:
-  url: "https://img.freepik.com/free-vector/hand-drawn-cat-outline-illustration_23-2149266368.jpg"
+  url: "/images/blog/2024/01/F6NQ2TG6M-IMG_2613__1200px.JPG"
   altText: "It's a drawing of a cat."
 tags: [design, design fiction, critical design, speculative design]
 isDraft: true
-containImage: false
+containImage: true
 ---
 1. What might we consider to be the 'Critical' function of Design?
-<div></div>
+
 2. By 'Critical' I mean the Essential function; that which is Vital.
-<div></div>
+
 3. The most comforting understanding of what Design does that I hold close, that helps me get a grip on what it is that I seem to be doing when I do Design, is this:
-<div></div>
+
 4. I am translating and transforming the imagery, notions, wonderings, and feelings that seem to be swirling about in my thoughts and cohereing those into some kind of material form.
-<div></div>
+
 5. I am working to take what it is that is in my head, and bringing it into the world.
 6. Let me give you an example.
-7. OMATA
+
+7. [OMATA](https://omata.com)
+
 8. This is the company you've heard me talk about over and over again.
+
 9. Why do I keep talking about it?
+
 10. Primarily because it occupied 9 years of effort and, of all the professional experiences I've had, was that which taught me the most about what it is that I do (am capable of) and how I do it.
+
 11. Which brings us straight back to this notion of translation/transformation as the Critical Function of Design.
+
 12. I asked myself: how can you imbue the feeling I had when riding a bike into a bicycle computer, because all of the bicycle computers out there in the world — or more precisely — the archetype of what a bicycle computer is understood to be, well — _they are not very bicycle-y_.
+
 13. All of these **feel more like computer** and **less like bicycle**.
+
 14. I won't argue the point too passionately and just leave it there because we're wondering more to this point about imbuing feeling into objects.
 
-<img src="https://img.freepik.com/free-vector/hand-drawn-cat-outline-illustration_23-2149266368.jpg" class="border-8 rounded-[460px] border-black shadow-2xl" alt="Description">
-
-
-![Tux, the Linux mascot](https://img.freepik.com/free-vector/hand-drawn-cat-outline-illustration_23-2149266368.jpg)
+<figure>
+<img src="/images/blog/2024/01/F6NQ2TG6M-IMG_2613__1200px.JPG" alt="OMATA One bicycle computer on a flashing jig at the factory" />
+<figcaption>OMATA One bicycle computer on a flashing jig at the factory</figcaption>
+</figure>
 
 15. Here's a this vs. that image. You'll likely get the point. To one degree or another the entirety of my effort was to transform the feeling of movement and momentum and heritage and grandeur and mechanism into this object I called OMATA One.
+
 16. That is, I'll offer, the Critical Function of Design.
+
 17. Translating one's ideas, thoughts, wonderings, aspirations, hopes, desires — Dreams — and making them legible, tangible, representable in the world.
+
 17. Making Things Mean Something.
+
 18. Making one's ideas meaningful.
+
 19. Making one's ideas sensible — able to be sensed and felt by others.
+
 20. So that all may be the Critical Function of _Design_.
+
 21. So then what is the Critical Function of _Design Fiction_?
+
 22. We might say that it is quite similar.
+
 23. In fact, we might say that it is entirely the same with an emphasis on _possibility_: The Critical Function of Design Fiction is to transform that which _could become_ into a form that is legible, sensible, tangible.
 24. Design Fiction makes sense out of that which _could_ come into being. It materializes possibility in very particular forms and formats: the kinds of normal, ordinary, everyday mudane objects that most everyone can relate to.
 25. Design Fiction represents possibility in the form of things we might find in a world that contains that possibility.
