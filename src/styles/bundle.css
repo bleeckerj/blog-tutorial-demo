@@ -189,11 +189,14 @@ img {
 }
 
 .blockquote-short {
+	/* font-family: "Calibre";
+	font-style: normal; */
+	font-weight: 400;
+	font-size: 1em;
 	margin-top:5%;
     margin-bottom:5%;
-	font-size: 0.8em;
-	color: green;
-	background-color: var(--color-gray-20);
+	font-size: 1em;
+	/* background-color: var(--color-gray-100); */
 }
 
 
