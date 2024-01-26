@@ -3,6 +3,11 @@
   "compilerOptions": {
     "strictNullChecks": true,
     "allowJs": true,
-    "types": ["astro/client", "@astrojs/renderer-react"]
+    "types": [
+      "astro/client",
+      "@astrojs/renderer-react"
+    ],
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
   }
 }

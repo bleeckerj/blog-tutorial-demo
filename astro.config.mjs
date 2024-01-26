@@ -1,17 +1,24 @@
 import { defineConfig } from "astro/config";
-import preact from "@astrojs/preact";
-import react from '@astrojs/renderer-react';
+// import preact from "@astrojs/preact";
+// import react from '@astrojs/renderer-react';
 import tailwind from "@astrojs/tailwind";
 import mdx from "@astrojs/mdx";
-import partytown from '@astrojs/partytown'
+import partytown from '@astrojs/partytown';
+
+import react from "@astrojs/react";
+
+import netlify from '@astrojs/netlify';
+
 
 // https://astro.build/config
 export default defineConfig({
+  output: 'hybrid',
+  adapter: netlify(),
   site: "https://backoffice.nearfuturelaboratory.com",
-  integrations: [preact(), tailwind(), mdx(), partytown({
+  integrations: [react(), tailwind(), mdx(), partytown({
     config: {
-      forward: ["dataLayer.push"],
-    },
+      forward: ["dataLayer.push"]
+    }
   })],
   server: {
     port: 3000
@@ -30,7 +37,7 @@ export default defineConfig({
       // https://shikiji.netlify.app/guide/dual-themes#light-dark-dual-themes
       experimentalThemes: {
         light: 'github-light',
-        dark: 'github-dark',
+        dark: 'github-dark'
       },
       // Add custom languages
       // Note: Shiki has countless langs built-in, including .astro!
@@ -40,9 +47,9 @@ export default defineConfig({
       wrap: true,
       // Add custom transformers: https://shikiji.netlify.app/guide/transformers
       // Find common transformers: https://shikiji.netlify.app/packages/transformers
-      transformers: [],
-    },
-  },
+      transformers: []
+    }
+  }
   // markdown: {
   //   remarkPlugins: [[remarkCustomPlugin, {/* plugin options here */}]],
   // },
