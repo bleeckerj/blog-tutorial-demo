@@ -203,7 +203,7 @@
   src: url('/fonts/roslindale/RoslindaleDisplayCondensed-Bold-Testing.woff2') format("woff2"),
        url('/fonts/roslindale/RoslindaleDisplayCondensed-Bold-Testing.woff') format("woff");
   font-family: 'RoslindaleDisplayCondensed';
-  font-style: normal;
+  font-style: bold;
   font-weight: normal;
 }
 

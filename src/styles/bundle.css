@@ -151,10 +151,18 @@ table th {
 }
 
 img {
-	width: 80vw;
+	/* width: 80vw;
 	height: auto;
 	margin: 2em;
-	margin-left: 2px;
+	margin-left: 2px; */
+
+	@apply rounded-md;
+	@apply rounded-tr-[10px];
+	@apply mb-[12px];
+	@apply shadow-xl;
+	width: auto;      /* Default width, adjust as necessary */
+    max-width: 100%;  /* Ensure it doesn't overflow its container */
+    height: auto;
   }
 
   h1 {
@@ -623,3 +631,75 @@ figure figcaption {
 	@apply mb-4 p-4 rounded-bl-md rounded-br-lg;
 	@apply border-pink-400 border-2
 }
+
+
+/* Registration Form Styles */
+.registration-form {
+	font-family: 'Roslindale Variable', sans-serif;
+	font-variation-settings: 'wght' 600, 'opsz' 43,  'wdth' 100;
+	font-size: 48px;
+  }
+  
+  /* Style for labels */
+  .registration-form label {
+	display: block; /* Each label on a new line */
+	margin-bottom: 10px; /* Space below each label */
+  }
+  
+  /* Style for input fields */
+  .registration-form input[type="text"],
+  .registration-form input[type="email"],
+  .registration-form input[type="password"],
+  .registration-form textarea {
+	width: 100%; /* Full width of the container */
+	padding: 8px;
+	margin-top: 5px;
+	margin-bottom: 15px;
+	border: 1px solid black;
+	background-color: lightgray;
+	box-sizing: border-box; /* Padding and border included in width */
+  }
+  
+  /* Style for textarea */
+  .registration-form textarea {
+	height: 150px; /* Adjust height as needed */
+	resize: vertical; /* Allow vertical resizing */
+  }
+  
+  
+  /* Individual checkbox rows */
+.registration-form .checkbox-group .checkbox-row {
+	display: flex;
+	align-items: baseline; /* Center-align checkbox and label text */
+	margin-bottom: 15px; /* Space between checkbox rows */
+  }
+/* Style for checkboxes */
+.registration-form .checkbox-group .checkbox-row input[type="checkbox"] {
+	margin-right: 15px; /* Space between checkbox and label text */
+	transform: scale(2); /* Enlarge checkbox */
+  }
+  
+/* Style for labels */
+.registration-form label {
+	display: block; /* Each label on a new line */
+	margin-bottom: 10px; /* Space below each label */
+	font-size: 20px; /* Increase the font size as needed */
+  }
+
+  /* Style for submit button */
+  .registration-form button {
+	padding: 10px 15px;
+	background-color: black;
+	color: white;
+	border: none;
+	cursor: pointer;
+	transition: background-color 0.3s;
+	font-size: 18px;
+	@apply rounded-md;
+	margin-left: 0rem;
+  }
+  
+  .registration-form button:hover {
+	background-color: #333333;
+  }
+  

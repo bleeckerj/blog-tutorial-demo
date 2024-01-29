@@ -22,7 +22,7 @@ const { Content } = await entry.render();
 ---
 <EBaseLayout>
     <article>
-    <div class="posttitle">HelloGoodbye</div>
+    <div class="posttitle">{entry.data.description}</div>
     <Content/>
   </article>
 </EBaseLayout>
