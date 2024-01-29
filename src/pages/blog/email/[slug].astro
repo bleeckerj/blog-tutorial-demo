@@ -46,8 +46,8 @@ NEAR FUTURE LABORATORY
                 <div class="subtitle">{entry.data.description}</div>
                 <div>
                   <figure>
-                  <img src={entry.data.image.url} alt={entry.data.image.altText} />
-                  <figcaption>{entry.data.image.altText}</figcaption>
+                  <img src={entry.data.image?.url} alt={entry.data.image?.altText} />
+                  <figcaption>{entry.data.image?.altText}</figcaption>
                   </figure>
                 </div>
                 <div style="margin-bottom: 2rem;"></div>
@@ -84,5 +84,5 @@ NEAR FUTURE LABORATORY
         </td>
       </tr>
     </table><!--/100% background wrapper-->
-    Hey There
+      Hey There
 </EBaseLayout_02>
