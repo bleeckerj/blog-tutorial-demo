@@ -1,0 +1,13 @@
+---
+import SimpleEmailHeader from "../../components/SimpleEmailHeader.astro";
+import Footer from "../../components/Footer.astro";
+
+import "../../styles/email_responsive.css"
+import "../../styles/email_styles.css";
+
+
+// Create a complete instance
+const { headTitle, pageTitle } = Astro.props;
+---
+<SimpleEmailHeader/>
+    <slot />

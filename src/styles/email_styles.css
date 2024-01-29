@@ -1,0 +1,188 @@
+.header,
+.title,
+.subtitle,
+.footer-text {
+  font-family: 'Merriweather', 'Times New Roman', Times, serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 24px;
+}
+
+.title {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 38px;
+  font-weight: 500;
+  color: #374550;
+  margin-bottom: -5px;
+}
+
+.subtitle {
+  font-family: 'IBM Plex Serif', 'Merriweather', 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 16px;
+  color: #374550;
+  margin-bottom: 1rem;
+}
+.subtitle span {
+  font-weight: 400;
+  color: #999999;
+}
+
+.footer-text {
+  font-size: 12px;
+  line-height: 16px;
+  color: #aaaaaa;
+}
+.footer-text a {
+  color: #aaaaaa;
+}
+
+.container {
+  width: 600px;
+  max-width: 600px;
+}
+
+.container-padding {
+  padding-left: 34px;
+  padding-right: 24px;
+}
+
+.content {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #fafafa;
+}
+
+code {
+  background-color: #eee;
+  padding: 0 4px;
+  font-family: Menlo, Courier, monospace;
+  font-size: 12px;
+}
+
+
+hr {
+  border: 0;
+  border-bottom: 1px solid #cccccc;
+}
+
+.hr {
+  height: 1px;
+  border-bottom: 1px solid #cccccc;
+}
+
+
+
+.body-text {
+  font-family: 'Merriweather', 'Open Sans', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  line-height: 20px;
+  text-align: left;
+  color: #0a0a0a;
+}
+a[href] {
+  text-decoration: underline !important;
+  color: rgb(211, 0, 211);
+  font-weight: 500;
+}
+a[href^="x-apple-data-detectors:"],
+a[x-apple-data-detectors] {
+  color: var(--text-color-link) !important;
+  text-decoration: underline !important;
+  font-size: inherit !important;
+  font-family: inherit !important;
+  font-weight: inherit !important;
+  line-height: inherit !important;
+}
+
+img {
+  border-radius: 0.5rem;
+  margin-bottom: 12px;
+  /* @apply rounded-tr-[10px];
+	@apply mb-[12px];
+	@apply shadow-xl; */
+	width: auto;      /* Default width, adjust as necessary */
+    max-width: 100%;  /* Ensure it doesn't overflow its container */
+    height: auto;
+}
+
+ol,
+menu {
+  list-style: list-decimal;
+  margin: 0;
+  padding: 0;
+}
+
+ol p {
+    margin-bottom: 0.5rem;
+}
+
+
+
+li > p:last-child {
+    margin-bottom: 1.5rem; /* Adjust as needed */
+}
+
+
+
+p:has(+ ol) {
+    /* Styles for a <p> tag that is directly followed by a <ul> */
+	/* margin-bottom: 2.5rem; */
+	/* border-bottom: 1px solid #909090;  */
+	/* Thin black bottom border */
+    /* padding-bottom: 1rem;  */
+	/* Space between content and border */
+}
+
+ol ul {
+    list-style-type: disc; /* Set the marker style to disc */
+    padding-left: 1em; /* Add some left padding for the markers */
+	  margin-bottom: 2rem;
+}
+
+li {
+	line-height: 1.25;
+	margin-bottom: 0.8em;
+}
+
+li:not(:last-child) { 
+	margin-bottom: 0.2rem;  
+ }
+
+p:last-child {
+    margin-bottom: 1rem;
+}
+
+ol li:first-child {
+  margin-top: 20px; /* Adjust the value as needed */
+}
+
+p {
+  margin-bottom: 0.7rem;
+}
+
+.ad {
+  font-family: 'IBM Plex Sans', 'Open Sans', Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	font-size: 1.1em;
+	background-color: hsl(0, 1%, 84%);
+	line-height:1.2em;
+	border-radius: 0.5rem;
+	padding-left: 0.8rem;
+	padding-right: 0.8rem;
+	padding-top: 0.625rem;
+	padding-bottom: 0.625rem;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	margin-left: 0rem;
+}
+
+figcaption {
+  font-family: 'IBM Plex Sans', 'Open Sans', Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 0.8em;
+  font-style: italic;
+  margin-top: -10px;
+  margin-bottom:1rem;
+}
