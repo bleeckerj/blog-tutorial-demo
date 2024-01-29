@@ -49,8 +49,14 @@ const url = Astro.url;
             name: "twitter:image",
             content: imageUrl,
           },
+          {
+            name: "twitter:card", content: 'summary-large-image'
+          },
+          {
+            name: "twitter:site", content: "@nearfuturelab"
+          },
           { name: "twitter:title", content: frontmatter.title },
-          { name: "twitter:description", content: "Agent" },
+          { name: "twitter:description", content: frontmatter.description },
         ],
       }}
     />
