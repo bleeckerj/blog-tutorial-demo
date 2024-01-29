@@ -95,7 +95,13 @@ p {
 }
 em {
 	font-family: "Roslindale Variable";
-	font-variation-settings: 'wght' 300, 'slnt' -2;
+	font-variation-settings: 'wght' 300, 'slnt' -1;
+}
+
+strong {
+	font-family: "Roslindale Variable", sans-serif;
+	font-style: bold;
+	font-variation-settings: 'wght' 600;
 }
 
 
