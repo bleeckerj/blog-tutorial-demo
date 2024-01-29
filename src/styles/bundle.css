@@ -95,9 +95,7 @@ p {
 }
 em {
 	font-family: "Roslindale Variable";
-	font-style: normal;
-	font-weight: normal;
-	font-variation-settings: 'wght' 600, 'slnt' -5;
+	font-variation-settings: 'wght' 300, 'slnt' -2;
 }
 
 
@@ -150,7 +148,7 @@ table th {
     height: auto;
 }
 
-img {
+.blog-header-img {
 	/* width: 80vw;
 	height: auto;
 	margin: 2em;
@@ -160,8 +158,8 @@ img {
 	@apply rounded-tr-[10px];
 	@apply mb-[12px];
 	@apply shadow-xl;
-	width: auto;      /* Default width, adjust as necessary */
-    max-width: 100%;  /* Ensure it doesn't overflow its container */
+	width: auto;      
+    max-width: 100%;  
     height: auto;
   }
 
