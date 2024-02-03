@@ -1,12 +1,16 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
-<script type="module">
+<script>
     // Client-side JavaScript here
- // import wtf from "../../node_modules/gsap/index.js"
-  import { gsap } from "../../node_modules/gsap/index.js";
-  import { TextPlugin } from "../../node_modules/gsap/TextPlugin.js";
-  gsap.registerPlugin(TextPlugin);
+//import { gsap } from "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js";
+import { gsap } from 'gsap';
+import { TextPlugin } from 'gsap/TextPlugin';
+console.log(gsap);
+
+//import { TextPlugin } from "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/TextPlugin.min.js";
+console.log('Hello?');
+gsap.registerPlugin(TextPlugin);
 
 gsap.defaults({ease: "none"});
 
