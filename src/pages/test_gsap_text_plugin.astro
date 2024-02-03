@@ -3,8 +3,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 <script type="module">
     // Client-side JavaScript here
-  import { gsap } from "./node_modules/gsap/index.js";
-  import { TextPlugin } from "./node_modules/gsap/TextPlugin.js";
+ // import wtf from "../../node_modules/gsap/index.js"
+  import { gsap } from "../../node_modules/gsap/index.js";
+  import { TextPlugin } from "../../node_modules/gsap/TextPlugin.js";
   gsap.registerPlugin(TextPlugin);
 
 gsap.defaults({ease: "none"});
@@ -12,7 +13,7 @@ gsap.defaults({ease: "none"});
 const tl = gsap.timeline({yoyo:false});
 tl.to(".ig", {duration: 1, text:"unlocks"}, "+=2")
 .to(".gt", {duration: 0.75, text:"Greatness"})
- .to(".gt", {duration: 1, delay: 2, text:"Beauty"})
+.to(".gt", {duration: 1, delay: 2, text:"Beauty"})
 .to(".gt", {duration: 1.5, delay: 2, text:"The 'Not True *Yet'"})
 .to(".gt", {duration: 1.5, delay: 2, text:"Our Futures"})
 .to(".ig", { height: 0, opacity: 0, delay: 3, text: "", duration: 0.2 })
