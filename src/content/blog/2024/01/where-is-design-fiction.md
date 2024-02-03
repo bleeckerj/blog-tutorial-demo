@@ -1,8 +1,16 @@
 ---
-title: "Where Is Design Fiction"
-author: "Julian Bleecker"
-pubDate: 2022-05-24
-isDraft: false
+title: 'where is design fiction'
+pubDate: 2024-01-29T08:08:37-08:00
+description: 'where is design fiction'
+seo: 'where is design fiction'
+author: 'Julian Bleecker'
+tags: []
+isDraft: true
+containImage: true
+image: {
+url: /images/blog/2024/01/darthjulian_wide_angle_lens_Nikon_photography_a_cramped_recreat_3e5c221e-9837-48a2-ac75-3418a1d11d4a.png,
+altText: Relax
+}
 ---
 
 
