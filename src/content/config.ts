@@ -8,7 +8,7 @@ const postsCollection = defineCollection({
       pubDate: z.date(),
       description: z.string().optional(),
       seo: z.string().default('Design Fiction'),
-      author: z.string(),
+      author: z.string().optional().default('Julian Bleecker'),
       authorUsername: z.string().default('@nearfuturelab'),
       image: z.object({
         url: z.string().default('https://backoffice.nearfuturelaboratory.com/favicon.svg'),

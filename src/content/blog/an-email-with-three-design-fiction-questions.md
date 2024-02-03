@@ -1,13 +1,18 @@
 ---
-title: "An Email With Three Design Fiction Questions"
-author: "Julian Bleecker"
-pubDate: 2022-03-05
-description: "Design Fiction Archetypes are the containers into which a Design Fiction is embedded. Want to know more?"
+title: 'An Email With Three Design Fiction Questionss'
+pubDate: 2022-03-05T08:20:20-08:00
+description: 'Design Fiction Archetypes are the containers into which a Design Fiction is embedded. Want to know more?'
+seo: 'an email with three design fiction questions'
+author: 'Julian Bleecker'
 tags: []
 isDraft: false
+containImage: true
+image: {
+url: https://buttondown-attachments.s3.amazonaws.com/images/84d0df5c-3183-469b-8ce7-7eabc7b0eabe.jpg,
+altText: Relax
+}
 ---
-![FL_056_DanglineFromString_02_2160x1440_0221_0635_0043__1200px.jpg](https://buttondown-attachments.s3.amazonaws.com/images/84d0df5c-3183-469b-8ce7-7eabc7b0eabe.jpg) 
----
+
 1. I'm not crowing about this next graf. 
 
 2. I receive emails from earnest folks really wanting to understand design fiction and that's awesome and amazing. I like that people feel they can reach out this way. I want to help, truly. 

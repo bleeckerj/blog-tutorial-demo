@@ -1,16 +1,15 @@
 ---
-title: "Commission File No 1923172"
-author: "Julian Bleecker"
-pubDate: 2022-04-11
+title: 'Commission File No 1923172'
+pubDate: 2022-04-01T08:23:33-08:00
 description: "A Design Fiction in which algorithms are regulated, akin to how the government oversees other aspects of public safety, to mitigate their negative impacts while harnessing their potential for positive change."
 tags: [design fiction, algorithms]
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/commission-file-no-1923172/commission-file-no-1923172_557ef079-b3f2-4187-97b8-09e70a12c9f0.png,
+altText: In The Matter of Everalbum and Paravision
+}
 ---
-
-"In The Matter of Everalbum and Paravision"
-
- ![](/bd-images/commission-file-no-1923172/commission-file-no-1923172_557ef079-b3f2-4187-97b8-09e70a12c9f0.png) 
-
 
 ###1. The Issue
 

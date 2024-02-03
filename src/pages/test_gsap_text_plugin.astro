@@ -1,0 +1,35 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<script type="module">
+    // Client-side JavaScript here
+  import { gsap } from "./node_modules/gsap/index.js";
+  import { TextPlugin } from "./node_modules/gsap/TextPlugin.js";
+  gsap.registerPlugin(TextPlugin);
+
+gsap.defaults({ease: "none"});
+
+const tl = gsap.timeline({yoyo:false});
+tl.to(".ig", {duration: 1, text:"unlocks"}, "+=2")
+.to(".gt", {duration: 0.75, text:"Greatness"})
+ .to(".gt", {duration: 1, delay: 2, text:"Beauty"})
+.to(".gt", {duration: 1.5, delay: 2, text:"The 'Not True *Yet'"})
+.to(".gt", {duration: 1.5, delay: 2, text:"Our Futures"})
+.to(".ig", { height: 0, opacity: 0, delay: 3, text: "", duration: 0.2 })
+.to(".st", {height:0, duration:0.2}, "-=0.2").to(".st", {opacity: 0, duration: 0.5}, "-=0.5")
+.to(".gt", {duration: 3, delay: 0.2, text:"Imagination Is The Engine of Innovation."})
+// .to(".gt", {duration: 1, delay: 3, text:"It Ignites Evolutionary Change"})
+.to(".ih", {duration: 1.75, delay: 2, text:"..It's Time To<br/>"} )
+.to(".t2", {duration: 1.25, text:"Imagine Harder"})
+  </script>
+<BaseLayout title='Test GSAP' footerType="Fixed">
+    <div style="font-family: 'Helvetica'; font-weight: bold;" class="st mb-0 text-7xl text-pink-500">Imagination</div>
+    
+    <div style="font-family: 'Helvetica'; font-weight: bold;" class="mb-[-10px] text-7xl ig"></div>
+    
+    <div style="font-family: 'Helvetica'; font-weight: bold;" class="mb-0 text-7xl text-pink-500 gt"></div>
+    
+      <div style="font-family: 'Helvetica'; font-weight: bold;" class="mt-1 text-7xl ih"></div>
+    <div style="font-family: 'Helvetica'; font-weight: bold;" class="text-blue-500 text-7xl font-bold t2"></div>
+
+</BaseLayout>

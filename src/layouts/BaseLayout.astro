@@ -1,5 +1,6 @@
 ---
 import Header from "../components/Header.astro";
+import FixedFooter from "../components/FixedFooter.astro";
 import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 import "../styles/bundle.css";
@@ -26,7 +27,7 @@ const postSchema = z.object({
 });
 
 // Create a complete instance
-const { headTitle, pageTitle } = Astro.props;
+const { headTitle, pageTitle, footerType } = Astro.props;
 let { frontmatter } = Astro.props;
 
 // Check if frontmatter is undefined
@@ -64,8 +65,9 @@ if (frontmatter === undefined) {
     <Header pageTitle={headTitle} frontmatter={frontmatter}/>
     <body>
     <div class="posttitle mt-[4rem] mb-5">{pageTitle}</div>
-    <slot />
-    <Footer />
+    <slot/>
+        <!-- Dynamically render the footer based on footerType prop -->
+        {footerType === 'Fixed' ? <FixedFooter /> : <Footer />}
     <script>
       import "../scripts/menu.js";
     </script>

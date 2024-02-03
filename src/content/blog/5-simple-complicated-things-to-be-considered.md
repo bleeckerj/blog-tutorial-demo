@@ -1,12 +1,18 @@
 ---
-title: "5 Simple Complicated Things To Be Considered"
-author: "Julian Bleecker"
-pubDate: 2022-07-12T12:24:48-07:00
-description: "Five principles for creative professionals: embrace wonder, be an optimistic contrarian, welcome the unusual, pursue dreams over material gains, and maintain lifelong curiosity and learning."
-isDraft: false
+title: '5 simple complicated things to be considered'
+pubDate: 2021-01-29T08:13:35-08:00
+description: '5 simple complicated things to be considered'
+seo: '5 simple complicated things to be considered'
+author: 'Julian Bleecker'
+tags: []
+isDraft: true
+containImage: true
+image: {
+url: /images/blog/2024/01/darthjulian_wide_angle_lens_Nikon_photography_a_cramped_recreat_3e5c221e-9837-48a2-ac75-3418a1d11d4a.png,
+altText: Relax
+}
 ---
 
-![](/bd-images/5-simple-complicated-things-to-be-considered/5-simple-complicated-things-to-be-considered_9b001210-6f0d-4047-87b2-b245dc7397e7.png) 
 
 Some months back I was asked to consider a handful of ways of being that help me do what I do as a futures-facing designer, product innovator, and creative technologist. Here is what I offered in reponse.
 

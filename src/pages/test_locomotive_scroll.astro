@@ -1,0 +1,30 @@
+<!-- src/pages/index.astro -->
+---
+// Import your CSS directly in the Astro component
+// import '../styles/main.css';
+import '../styles/bundle.css';
+import '../styles/fonts.css';
+// Define any frontmatter scripts here, if necessary
+---
+<!DOCTYPE html><html><head><meta charSet="utf-8"/>
+<script>
+    import "../scripts/locomotiveScrollInt.js";
+  </script>
+</head>
+<main  style="height: 150vh; width: 100vw;">
+    <div>
+        <div style="font-family: FormaDJRVariable; font-variation-settings: 'wght' 700" data-scroll data-scroll-speed="0.5" class="text-[90px]">Near Future Laboratory</div>
+    </div>
+    <div>
+        <h2 style="font-family: Calibre; font-size: 4rem;" data-scroll data-scroll-speed="0.01">Imagination Unlocks Greatness</h2>
+        <p data-scroll data-scroll-speed="1">We help you imagine harder.</p>
+    </div>
+
+
+    <div style="font-family: FormaDJRVariable; font-variation-settings: 'wght' 700" class="container" id="stick" data-scroll-section >
+        <p data-scroll data-scroll-sticky data-scroll-target="#stick">
+          Look at me, I'm going to stick when you scroll pass me.
+        </p>
+      </div>
+
+</main>

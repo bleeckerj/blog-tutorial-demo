@@ -1,13 +1,17 @@
 ---
 title: "A Deep Dive Into A Design Fiction Archetype"
-author: "Julian Bleecker"
 pubDate: 2021-10-20
 description: What do I mean when I say 'Design Fiction Archetype'?
-isDraft: false
+seo: 'the design fiction archetype'
+author: 'Julian Bleecker'
 tags: []
+isDraft: true
+containImage: true
+image: {
+url: /bd-images/a-deep-dive-into-a-design-fiction-archetype/MagazineFromTheFuture_RS_01_032123_02_BRIGHT__1200px.png,,
+altText: Relax
+}
 ---
-
-![](/bd-images/a-deep-dive-into-a-design-fiction-archetype/MagazineFromTheFuture_RS_01_032123_02_BRIGHT__1200px.png)
 
 Let's pause for a brief announcement from our station manager, which is this: this Wed April 19th I will be hosting a [Design Fiction Debrief](https://ti.to/near-future-laboratory/design-fiction-debrief-magazine-from-the-future) — a deep-dive, teardown, after-action report, project assessment, if you will. 
 This is a seminar-like session, with an opportunity to AMA, where I will describe in detail an actual, real-world Design Fiction project. We will dive into the depths of how the Near Future Laboratory does Design Fiction. (Remember, we literally [wrote the book on Design Fiction](http://themanual.nearfuturelaboratory.com/) and it's literally called 'The Manual of Design Fiction' so..there..)

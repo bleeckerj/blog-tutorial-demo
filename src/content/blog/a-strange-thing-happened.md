@@ -1,15 +1,18 @@
 ---
-title: "A Strange Thing Happened"
-author: "Julian Bleecker"
-pubDate: 2022-03-03
-description: "What happens when a DAO serve free pizza."
+title: 'A Strange Thing Happened'
+pubDate: 2021-03-03
+description: 'a strange thing happened'
+seo: 'a strange thing happened'
+author: 'Julian Bleecker'
 tags: []
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/a-strange-thing-happened/a-strange-thing-happened_8cda7cad-4568-44c0-918a-35718a303ffe.jpg,
+altText: Strange Weather Approaching
+}
 ---
-<figure>
-    <img src="/bd-images/a-strange-thing-happened/a-strange-thing-happened_8cda7cad-4568-44c0-918a-35718a303ffe.jpg"
-         alt="Strange Weather">
-</figure>
+
 
 For the past years, the outsized narrative of DAO [Decentralized Autonomous Organization] as an alternative toventure capital dims the light of its much more profound, and much more interesting potential — a fluid, programmable, modular social network that is by design global, transparent, and collaborative. DAO has the potential to become a new frontier of belonging, to create a new species of collective characterized by the alienation of trust from the ownership and control. Calvino, who in his dreams manifest a desire to “possess” a version of NYC, can extend such private desire to a more tangible contribution. DAOs can become a meta-layer on top of the idea exchanges of the world — a second home for those eager to make strides towards their goals, and know that the way to get there is not by oneself, but in a collective.[FKPXLS The New Frontier of Belonging - Fakepixels](https://fakepixels.substack.com/p/fkpxls-the-new-frontier-of-belonging)</slot>
 

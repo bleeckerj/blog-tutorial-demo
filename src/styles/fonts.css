@@ -234,7 +234,7 @@
 @font-face {
   src: url('/fonts/roslindale/RoslindaleDisplayCondensed-Ultra-Testing.woff2') format("woff2"),
        url('/fonts/roslindale/RoslindaleDisplayCondensed-Ultra-Testing.woff') format("woff");
-  font-family: 'RoslindaleDisplayCondensed';
+  font-family: 'RoslindaleDisplayCondensed-Ultra';
   font-style: normal;
   font-weight: 900;
 }
@@ -242,7 +242,7 @@
 @font-face {
   src: url('/fonts/roslindale/RoslindaleDisplayCondensed-UltraItalic-Testing.woff2') format("woff2"),
        url('/fonts/roslindale/RoslindaleDisplayCondensed-UltraItalic-Testing.woff') format("woff");
-  font-family: 'RoslindaleDisplayCondensed';
+  font-family: 'RoslindaleDisplayCondensed-UltraItalic';
   font-style: normal;
   font-weight: 900;
 }
@@ -250,7 +250,7 @@
 @font-face {
   src: url('/fonts/roslindale/RoslindaleDisplayNarrow-ExtraLight-Testing.woff2') format("woff2"),
        url('/fonts/roslindale/RoslindaleDisplayNarrow-ExtraLight-Testing.woff') format("woff");
-  font-family: 'RoslindaleDisplayNarrow';
+  font-family: 'RoslindaleDisplayNarrow-ExtraLight';
   font-style: normal;
   font-weight: 200;
 }
@@ -645,7 +645,7 @@
        url('/fonts/formadjr/FormaDJRMicro-ExtraLight-Testing.woff') format("woff");
   font-family: 'FormaDJRMicro';
   font-style: normal;
-  font-weight: 275;
+  font-weight: 900;
 }
 
 @font-face {
@@ -691,7 +691,7 @@
 @font-face {
   src: url('/fonts/formadjr/FormaDJRMicro-Medium-Testing.woff2') format("woff2"),
        url('/fonts/formadjr/FormaDJRMicro-Medium-Testing.woff') format("woff");
-  font-family: 'FormaDJRMicro';
+  font-family: 'FormaDJRMicro-Medium';
   font-style: normal;
   font-weight: 500;
 }

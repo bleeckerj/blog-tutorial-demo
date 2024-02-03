@@ -2,10 +2,11 @@
 import Social from "./Social.astro";
 import BuildTime from "./BuildTime.astro";
 ---
-<img class="w-1/4 min-w-[190px] mt-[6rem] sm:mt-[5rem] md:mt-[3rem] ml-auto mr-auto" src="/images/site/NFL_LOGO_EV3_02_GRGR_600px.png" alt="Near Future Laboratory" />
+<div class="absolute bottom-0 left-0 w-full -mb-4">
+<img class="w-1/2 md:w-1/5 mt-20 md:mt-30 ml-auto mr-auto" src="/images/site/NFL_LOGO_EV3_02_GRGR_600px.png" alt="Near Future Laboratory" />
 
 <footer class="flex justify-center">
-    <div class="grid grid-cols-3 s:grid-cols-4 md:grid-cols-5 lg:grid-cols-5 gap-y-8 gap-x-5 mt-8 mb-10 w-full">
+    <!-- <div class="grid grid-cols-2 s:grid-cols-4 md:grid-cols-4 lg:grid-cols-4 gap-y-8 gap-x-20 mt-20 mb-10">
     <div class="justify-center items-center">
     <Social platform="twitter" username="nearfuturelab" />
     </div>
@@ -19,10 +20,11 @@ import BuildTime from "./BuildTime.astro";
     <Social platform="linkedin" username="in/julianbleecker" />
     </div>
     <div class="justify-center items-center">
-        <Social platform="youtube" username="@nearfuturelaboratory" />
+    <Social platform="youtube" username="@nearfuturelaboratory" />
     </div>
-    </div>
+    </div> -->
     
 </footer>
 
 <BuildTime/>
+</div>

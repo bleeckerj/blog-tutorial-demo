@@ -1,14 +1,17 @@
 ---
-title: "Blue Boat"
-author: "Julian Bleecker"
+title: 'Blue Boat'
 pubDate: 2022-05-02 15:00:00.000
 description: "The tale of 'Blue Boat,' a simple skiff that was a container of of adventures and memories, helped me think about the notion of value that has nothing to do with numbers."
+seo: 'blue boat'
+author: 'Julian Bleecker'
 tags: []
-isDraft: false
+isDraft: true
+containImage: true
+image: {
+url: https://buttondown-attachments.s3.amazonaws.com/images/5dfee867-17a7-4c7d-ae37-81de6d6268d1.png,
+altText: Hoagie at the helm of Blue Boat. Adrian in his beach lounger.
+}
 ---
-
-![](https://buttondown-attachments.s3.amazonaws.com/images/5dfee867-17a7-4c7d-ae37-81de6d6268d1.png) 
-`Hoagie at the helm of Blue Boat. Adrian in his beach lounger.`
 
 1. I told this story a couple weeks ago to a guy who was interested in buying a majority interest in a company I started. For some reason, likely my very theatrical imagination, I thought I should have some kinda..monologue so that when Stephen Soderberg does my biopic he has some good material to work with for this pivotal moment. 
 2. Or maybe it’s Tarantino because he does long monologue-y shots, right? Like in Reservoir Dogs?
