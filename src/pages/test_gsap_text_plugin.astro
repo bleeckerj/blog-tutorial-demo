@@ -2,39 +2,77 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 <script>
-    // Client-side JavaScript here
-//import { gsap } from "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js";
-import { gsap } from 'gsap';
-import { TextPlugin } from 'gsap/TextPlugin';
-console.log(gsap);
-
-//import { TextPlugin } from "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/TextPlugin.min.js";
-console.log('Hello?');
-gsap.registerPlugin(TextPlugin);
-
-gsap.defaults({ease: "none"});
-
-const tl = gsap.timeline({yoyo:false});
-tl.to(".ig", {duration: 1, text:"unlocks"}, "+=2")
-.to(".gt", {duration: 0.75, text:"Greatness"})
-.to(".gt", {duration: 1, delay: 2, text:"Beauty"})
-.to(".gt", {duration: 1.5, delay: 2, text:"The 'Not True *Yet'"})
-.to(".gt", {duration: 1.5, delay: 2, text:"Our Futures"})
-.to(".ig", { height: 0, opacity: 0, delay: 3, text: "", duration: 0.2 })
-.to(".st", {height:0, duration:0.2}, "-=0.2").to(".st", {opacity: 0, duration: 0.5}, "-=0.5")
-.to(".gt", {duration: 3, delay: 0.2, text:"Imagination Is The Engine of Innovation."})
-// .to(".gt", {duration: 1, delay: 3, text:"It Ignites Evolutionary Change"})
-.to(".ih", {duration: 1.75, delay: 2, text:"..It's Time To<br/>"} )
-.to(".t2", {duration: 1.25, text:"Imagine Harder"})
-  </script>
+  // Client-side JavaScript here
+  import { gsap } from 'gsap';
+  import { TextPlugin } from 'gsap/TextPlugin';
+  console.log(gsap);
+  
+  gsap.registerPlugin(TextPlugin);
+  
+  gsap.defaults({ease: "none"});
+  
+  const tl = gsap.timeline({yoyo:false});
+  tl.to(".ig", {duration: 0.5, text:"unlocks"}, "+=1")
+  .to(".gt", {duration: 0.75, delay: 1, text:"Beauty"})
+  .to(".gt", {duration: 1, delay: 1.5, text:"Possibility"})
+  .to(".gt", {duration: 1, delay: 1.5, text:"Futures"})
+  .to(".gt", {duration: 1, delay: 1, text:"The 'Not True *Yet'"})
+  .to(".gt", {duration: 0.75, delay: 1.5, text:"Greatness"})
+  .to(".ig", { height: 0, opacity: 0, delay: 3, text: "", duration: 0.2 })
+  .to(".st", {height:0, duration:0.2}, "-=0.2").to(".st", {opacity: 0, duration: 0.5}, "-=0.5")
+  .to(".gt", {duration: 3, delay: 0.2, text:"Imagination Is The Engine of Innovation."})
+  .to(".gt", {duration: 0, delay: 2, text: ""})
+  .to(".gt", {duration: 3, delay: 0.1, text:"Imagination Is Your Advantage."})
+  
+  // .to(".gt", {duration: 1, delay: 3, text:"It Ignites Evolutionary Change"})
+  .to(".ih", {duration: 1.75, delay: 2, text:"It's Time For You To<br/>"} )
+  .to(".t2", {duration: 1.25, text:"Imagine Harder."})
+</script>
+<style>
+  .container {
+    display: flex;
+    height: 100vh; /* Full viewport height */
+    width: 100%; /* Adjust as necessary */
+    /* white-space: nowrap; */
+    /* overflow-wrap: break-word; */
+    /* word-wrap: break-word;  */
+  }
+  
+  .left-column {
+    width: 50%; /* or fixed width */
+    position: fixed;
+    overflow-y: hidden; /* Prevent scrolling */
+    height: 100%;
+    background-color: rgb(248 250 252);
+    /* white-space: nowrap;
+    overflow-wrap: break-word;
+    word-wrap: break-word; */
+  }
+  
+  .right-column {
+    width: 50%; /* or remaining width */
+    margin-left: 50%; /* Adjust based on left column width */
+    overflow-y: auto;
+    height: 100%;
+  }
+  
+</style>
 <BaseLayout title='Test GSAP' footerType="Fixed">
-    <div style="font-family: 'Helvetica'; font-weight: bold;" class="st mb-0 text-7xl text-pink-500">Imagination</div>
-    
-    <div style="font-family: 'Helvetica'; font-weight: bold;" class="mb-[-10px] text-7xl ig"></div>
-    
-    <div style="font-family: 'Helvetica'; font-weight: bold;" class="mb-0 text-7xl text-pink-500 gt"></div>
-    
-      <div style="font-family: 'Helvetica'; font-weight: bold;" class="mt-1 text-7xl ih"></div>
-    <div style="font-family: 'Helvetica'; font-weight: bold;" class="text-blue-500 text-7xl font-bold t2"></div>
-
+  
+  <div class="container">
+    <div style="text-transform: uppercase" class="left-column"> <!-- Static content here -->
+      <div style="line-height: 1; font-family: 'Helvetica'; font-weight: bold; font-size: 5vw" class="w-6/12 st mb-0 text-pink-500">Imagination</div>
+      <div style="line-height: 1; width: 50%; font-family: 'Helvetica'; font-weight: bold; font-size: 4vw" class="ig"></div>
+      <div style="line-height: 1; width: 50%; font-family: 'Helvetica'; font-weight: bold; font-size: 4vw" class="mb-0  text-pink-500 gt"></div>
+      <div style="line-height: 1; width: 50%; font-family: 'Helvetica'; font-weight: bold; font-size: 4vw" class="mt-1 ih"></div>
+      <div style="line-height: 1; width: 50%; font-family: 'Helvetica'; font-weight: bold; font-size: 4vw" class="text-blue-500 font-bold t2"></div>    </div>
+    <div class="bg-slate-200 right-column">
+      <!-- <video id="backgroundVideo" width="320" height="240" loop muted>
+        <source src="/movies/__Mini Munchies | Stop Coming At Me | Jack in the Box.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+      </video> -->
+      
+    </div>
+  </div>
+  
 </BaseLayout>

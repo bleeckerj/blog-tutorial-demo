@@ -2,7 +2,7 @@
 
 /* Defaults */
 :root {
-	--font-family: "Roslindale Variable", monospace;
+	--font-family: "WarblerText", "Roslindale Variable", monospace;
 	--font-family-monospace: "ESKlarheit Kurrent Mono", "Berkeley Mono", monospace;
 	--font-family-peak: "ES Peak";
 	--font-family-akkurat: "AkkuratMono-Regular";
@@ -54,7 +54,8 @@ html,
 body {
 	padding-left: auto;
 	margin: 0px auto auto 0.8rem;
-	font-family: var(--font-family);
+	font-family: "WarblerText";/*var(--font-family);*/
+	/* font-style: normal; */
 	font-variation-settings: 'wght' 200, 'slnt' 0;
 	color: var(--text-color);
 	background-color: var(--background-color);
@@ -63,7 +64,7 @@ html {
 	overflow-y: scroll;
 }
 body {
-	max-width: 50em;
+	/*max-width: 50em;*/
 }
 
 @media (max-width: 768px) { /* Adjust this value based on your design needs */
