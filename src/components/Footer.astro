@@ -2,27 +2,37 @@
 import Social from "./Social.astro";
 import BuildTime from "./BuildTime.astro";
 ---
-<img class="w-1/4 min-w-[190px] mt-[6rem] sm:mt-[5rem] md:mt-[3rem] ml-auto mr-auto" src="/images/site/NFL_LOGO_EV3_02_GRGR_600px.png" alt="Near Future Laboratory" />
+<!-- <img class="w-1/4 min-w-[190px] mt-[6rem] sm:mt-[5rem] md:mt-[3rem] ml-auto mr-auto" src="/images/site/NFL_LOGO_EV3_02_GRGR_600px.png" alt="Near Future Laboratory" /> -->
 
-<footer class="flex justify-center">
-    <div class="grid grid-cols-3 s:grid-cols-4 md:grid-cols-5 lg:grid-cols-5 gap-y-8 gap-x-5 mt-8 mb-10 w-full">
-    <div class="justify-center items-center">
-    <Social platform="twitter" username="nearfuturelab" />
+<footer class="footer p-10 bg-stone-200 rounded-md text-base-content">
+    <aside>
+        <div class="grid grid-cols-2 gap-4">
+    <img width="90" height="90" src="/images/svgs/LaboratoryGuy.svg"/>
+    <img class="mt-1" width="90" height="90" src="/images/svgs/NFL_LOGO_Bug_Flourescent.svg"/>
     </div>
-    <div class="justify-center items-center">
-    <Social platform="instagram" username="nearfuturelaboratory" />
-    </div>
-    <div class="justify-center items-center">
-        <Social platform="instagram" username="darthjulian" />
-    </div>
-    <div class="justify-center items-center">
-    <Social platform="linkedin" username="in/julianbleecker" />
-    </div>
-    <div class="justify-center items-center">
-        <Social platform="youtube" username="@nearfuturelaboratory" />
-    </div>
-    </div>
-    
-</footer>
+      <BuildTime/>
+    </aside> 
+    <nav style="font-family: Calibre; font-size: 1.1rem;">
+      <h6 class="footer-title">Services</h6> 
+      <a class="link link-hover">Futures Work</a>
+      <a class="link link-hover">Keynotes & Presentations</a>
+      <a class="link link-hover">Collaborations</a>
+    </nav> 
+    <nav style="font-family: Calibre; font-size: 1.1rem;">
+      <h6 class="footer-title">Studio</h6> 
+      <a class="link link-hover" href="https://nearfuturelaboratory.com/">About us</a>
+      <a class="link link-hover" href="https://nearfuturelaboratory.com/">Contact</a>
+      <!-- <a class="link link-hover">Jobs</a> -->
+      <!-- <a class="link link-hover">Press kit</a> -->
+    </nav> 
+    <!-- <nav>
+      <h6 class="footer-title">Legal</h6> 
+      <a class="link link-hover">Terms of use</a>
+      <a class="link link-hover">Privacy policy</a>
+      <a class="link link-hover">Cookie policy</a>
+    </nav> -->
+  </footer>
 
-<BuildTime/>
+
+</body>
+</

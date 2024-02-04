@@ -22,9 +22,9 @@
 	--background-color: #E0E2DB; 
 
 	/* --text-color: var(--color-gray-90); */
-	--text-color-link: #d911a4;
-	--text-color-link-active: #555555;
-	--text-color-link-visited: #2d2d2d;
+	--text-color-link: #d414fb;
+	--text-color-link-active: #6969f7;
+	--text-color-link-visited: #202020;
 
 	--syntax-tab-size: 2;
 }
@@ -63,9 +63,6 @@ body {
 html {
 	overflow-y: scroll;
 }
-body {
-	/*max-width: 50em;*/
-}
 
 @media (max-width: 768px) { /* Adjust this value based on your design needs */
     html, body {
@@ -95,12 +92,11 @@ p {
 	margin-bottom: 1em;
 }
 em {
-	font-family: "Roslindale Variable";
 	font-variation-settings: 'wght' 300, 'slnt' -1;
 }
 
 strong {
-	font-family: "Roslindale Variable", sans-serif;
+	/* font-family: "Roslindale Variable", sans-serif; */
 	font-style: bold;
 	font-variation-settings: 'wght' 600;
 }
@@ -282,7 +278,7 @@ table th {
 .ad {
 	font-family: var(--font-family-peak);
 	font-weight: 300;
-	font-size: 1em;
+	font-size: 0.9em;
 	background-color: hsl(0, 0%, 95%);
 	line-height:1.2em;
 	border-radius: 0.3rem;
@@ -292,7 +288,8 @@ table th {
 	padding-bottom: 0.625rem;
 	margin-top: 2rem;
 	margin-bottom: 2rem;
-	margin-left: -1rem;
+	margin-left: 1rem;
+	margin-right: 2rem;
 }
 
 .site-title {
@@ -472,7 +469,7 @@ menu {
 }
 
 ol p {
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.2rem;
 }
 
 
@@ -606,8 +603,8 @@ figure figcaption {
 	@apply ml-0;
 	@apply text-xs;
 	@apply font-mono;
-	@apply border-b-[1px];
-	@apply border-slate-700;
+	@apply border-b-[0.5px];
+	/* @apply border-slate-600; */
 }
 
 .draft-label {
@@ -707,4 +704,3 @@ figure figcaption {
   .registration-form button:hover {
 	background-color: #333333;
   }
-  
