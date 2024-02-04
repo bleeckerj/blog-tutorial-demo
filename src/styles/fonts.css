@@ -2640,6 +2640,87 @@
   font-weight: bold;
 }
 
+@font-face {
+  src: url('/fonts/warbler/WarblerBannerV1.2-Regular.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerBannerV1.2-Regular.woff') format("woff");
+  font-family: 'WarblerBanner';
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerBannerV1.2-Italic.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerBannerV1.2-Italic.woff') format("woff");
+  font-family: 'WarblerBanner';
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerDisplayV1.2-Regular.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerDisplayV1.2-Regular.woff') format("woff");
+  font-family: 'WarblerDisplay';
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerDisplayV1.2-Italic.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerDisplayV1.2-Italic.woff') format("woff");
+  font-family: 'WarblerDisplay';
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerDeckV1.2-Regular.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerDeckV1.2-Regular.woff') format("woff");
+  font-family: 'WarblerDeck';
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerDeckV1.2-Italic.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerDeckV1.2-Italic.woff') format("woff");
+  font-family: 'WarblerDeck';
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerTextV1.2-Regular.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerTextV1.2-Regular.woff') format("woff");
+  font-family: 'WarblerText';
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerTextV1.2-Italic.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerTextV1.2-Italic.woff') format("woff");
+  font-family: 'WarblerText';
+  font-style: italic;
+  font-weight: 400;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerTextV1.2-Bold.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerTextV1.2-Bold.woff') format("woff");
+  font-family: 'WarblerText';
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  src: url('/fonts/warbler/WarblerTextV1.2-BoldItalic.woff2') format("woff2"),
+       url('/fonts/warbler/WarblerTextV1.2-BoldItalic.woff') format("woff");
+  font-family: 'WarblerText';
+  font-style: italic;
+  font-weight: 700;
+}
+
+
 
 
 
