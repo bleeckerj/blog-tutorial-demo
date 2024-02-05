@@ -76,9 +76,18 @@ const frontmatter = postSchema.parse({
     <section>
       <div class="index-post-title-header"><a href={`/blog/${latestPost.slug}`}>{latestPost.data.title}</a>
       <div class="text-zinc-600 font-mono text-[0.75rem] pt-1">{latestPost.data.pubDate}</div>
+      <div style="font-family: Warbler; font-style: italic" class="text-zinc-800 leading-none pt-1">{latestPost.data.description}
+        <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
+      </div>
+     
+
       </div>
       <div class="index-post-content">
-      <PostDescriptionExcerpt post={latestPost} words={50} addEllipsis={true} renderer={PropRenderer.Html}/>
+        <figure>
+        <img src={latestPost.data.image.url} alt={latestPost.data.image?.altText}/>
+        <figcaption>{}</figcaption>
+        </figure>
+      <!-- <PostDescriptionExcerpt post={latestPost} words={50} addEllipsis={true} renderer={PropRenderer.Html}/> -->
       <span/>
       <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
 
