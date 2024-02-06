@@ -2,7 +2,9 @@ import { useForm } from 'react-hook-form';
 import React, { useState } from 'react';
 import axios from 'axios';
 import type { APIRoute } from "astro";
-
+/* My Generic Contact Form Component  */
+/* Pings me in Discord in #notes-to-self when someone fills this in */
+/* Add an email ping too at some point, eh? */
 export const POST: APIRoute = async ({ request }) => {
   const data = await request.formData();
   console.log('Hello?')
@@ -37,9 +39,10 @@ export const POST: APIRoute = async ({ request }) => {
 
 export default function App() {
   const { register, handleSubmit, formState: { errors } } = useForm();
+  const [isModalOpen, setModalOpen] = useState(false);
+
   const onSubmit = data => {
     console.log('Hello?');
-    console.log('Hello?')
     console.log(data);
     
     console.log(JSON.stringify(data));
@@ -84,9 +87,9 @@ export default function App() {
   };
 
   return (
-    
+  
     <div className="flex flex-col items-center justify-center mx-10 my-20">
-    <form action="/api/formin" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} className=" space-y-3 md:space-y-4 max-w-5/6 min-w-[500px]" onSubmit={handleSubmit(onSubmit)}>
+    <form  action="/" method="POST" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} className=" space-y-3 md:space-y-4 max-w-5/6 min-w-[500px]" onSubmit={handleSubmit(onSubmit)}>
     
     <div className="grid grid-cols-2 gap-2 mb-[-1rem]">
   <div>

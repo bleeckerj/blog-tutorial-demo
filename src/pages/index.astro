@@ -1,13 +1,19 @@
 ---
+import Header from '../components/SimpleHeader.astro'
+import "../styles/global.css";
+import "../styles/bundle.css";
+import "../styles/fonts.css";
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.tsx';
+
 // Import statements and any page-specific logic
 import { getCollection } from 'astro:content';
-import BaseLayout from '../layouts/BaseLayout.astro';
 import PostDescriptionExcerpt from '../components/PostDescriptionExcerpt.astro'
 import PostExcerpt, {
   PropHeadings,
   PropRenderer,
 } from '@igor.dvlpr/astro-post-excerpt'
-import Greeting from '../components/Greeting';
+// import Greeting from '../components/Greeting';
 const pageTitle = "Near Future Laboratory Back Office";
 import Archive from '../components/Archive.astro'
 import { getPostsByYear } from '../utils/getPostsByYears.js';
@@ -53,59 +59,57 @@ const postSchema = z.object({
 
 // Create a complete instance
 const frontmatter = postSchema.parse({
-  title: "Back Office at the Near Future Laboratory",
-  pubDate: new Date('2024-01-01'),
-  description: "Imagination leads to beautiful, unexpected possibilities. It's Time to Imagine Harder.",
+  title: "Near Future Laboratory",
+  pubDate: new Date('2024-02-05'),
+  description: "Imagination unlocks greatness. Imagination is the engine of innovation. Imagination is your evolutionary advantage. It's Time to Imagine Harder.",
   seo: "Design Fiction",
   author: "Julian Bleecker",
   authorUsername: "@darthjulian",
-  // image: {
-  //   url: "https://example.com/image.jpg",
-  //   altText: "An image depicting future technology"
-  // },
+  image: {
+    url: "/images/svgs/LaboratoryGuy.svg",
+    altText: "Julian Bleecker and Near Future Laboratory Imagines Harder."
+  },
   og_type: "site",
-  tags: ["Design Fiction", "Futures", "Design Innovation"],
+  tags: ["Design Fiction", "Julian Bleecker", "Futures", "Futures Design", "Imagination", "Strategy", "Design Innovation"],
   isDraft: false,
   containsImage: false,
 });
 ---
-
 <BaseLayout pageTitle={pageTitle} frontmatter={frontmatter}>
-    <!-- Latest Post Excerpt -->
-    <div class="posttitle pb-14" style="font-size: 2rem">Latest Post from the Back Office</div>
-    <section>
-      <div class="index-post-title-header"><a href={`/blog/${latestPost.slug}`}>{latestPost.data.title}</a>
-      <div class="text-zinc-600 font-mono text-[0.75rem] pt-1">{latestPost.data.pubDate}</div>
-      <div style="font-family: Warbler; font-style: italic" class="text-zinc-800 leading-none pt-1">{latestPost.data.description}
-        <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
-      </div>
-     
+<!-- Latest Post Excerpt -->
+<div class="posttitle pb-14" style="font-size: 2rem">Latest Post from the Back Office</div>
+<section>
+  <div class="index-post-title-header"><a href={`/blog/${latestPost.slug}`}>{latestPost.data.title}</a>
+  <div class="text-zinc-600 font-mono text-[0.75rem] pt-1">{latestPost.data.pubDate}</div>
+  <div style="font-family: Warbler; font-style: italic" class="text-zinc-800 leading-none pt-1">{latestPost.data.description}
+    <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
+  </div>
+ 
 
-      </div>
-      <div class="index-post-content">
-        <figure>
-        <img src={latestPost.data.image.url} alt={latestPost.data.image?.altText}/>
-        <figcaption>{}</figcaption>
-        </figure>
-      <!-- <PostDescriptionExcerpt post={latestPost} words={50} addEllipsis={true} renderer={PropRenderer.Html}/> -->
-      <span/>
-      <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
+  </div>
+  <div class="index-post-content">
+    <figure>
+    <img src={latestPost.data.image.url} alt={latestPost.data.image?.altText}/>
+    <figcaption>{}</figcaption>
+    </figure>
+  <!-- <PostDescriptionExcerpt post={latestPost} words={50} addEllipsis={true} renderer={PropRenderer.Html}/> -->
+  <span/>
+  <a class="block mt-5 text-sm sm:text-sm md:text-base" href=`/blog/${latestPost.slug}`>Read more</a>
 
-    </div>
-      <!-- {extractFirstWords(latestPost.body, 50)} -->
-    </section>
-  
-    <!-- Last 10 Posts -->
-    <section style="background-color: #f0f0f0;">
-      <!-- ... -->
-    </section>
-  
-    <!-- Posts by Year -->
-    <section class="mb-[100px]">
-      <!-- ... -->
-    </section>
+</div>
+  <!-- {extractFirstWords(latestPost.body, 50)} -->
+</section>
+
+<!-- Last 10 Posts -->
+<section style="background-color: #f0f0f0;">
+  <!-- ... -->
+</section>
+
+<!-- Posts by Year -->
+<section class="mb-[100px]">
+  <!-- ... -->
+</section>
+
   <Archive postsByYear={postsByYear}/>
-
+  <ContactForm client:only='react' />
 </BaseLayout>
-
-

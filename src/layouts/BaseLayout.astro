@@ -5,6 +5,7 @@ import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 import "../styles/bundle.css";
 import "../styles/fonts.css"
+import ContactForm from '../components/ContactForm.tsx';
 
 import { z } from 'zod';
 
@@ -65,6 +66,9 @@ if (frontmatter === undefined) {
     <Header pageTitle={headTitle} frontmatter={frontmatter}/>
     <body>
     <div class="posttitle mt-[4rem] mb-5">{pageTitle}</div>
+    <!-- <div class="flex flex-col items-center justify-center px-12 py-8 mx-auto md:h-screen lg:py-0">
+What Goes Here Where? What Goes Here Where? What Goes Here Where? What Goes Here Where?
+</div> -->
     <slot/>
         <!-- Dynamically render the footer based on footerType prop -->
         {footerType === 'Fixed' ? <FixedFooter /> : <Footer />}
