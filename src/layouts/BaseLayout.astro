@@ -5,7 +5,7 @@ import Footer from "../components/Footer.astro";
 import "../styles/global.css";
 import "../styles/bundle.css";
 import "../styles/fonts.css"
-import ContactForm from '../components/ContactForm.tsx';
+import ContactFormSm from '../components/ContactFormSm.tsx';
 
 import { z } from 'zod';
 
@@ -44,17 +44,9 @@ if (frontmatter === undefined) {
   author: "Julian Bleecker",
   authorUsername: "@darthjulian",
   projectImages: [
-  {url: "https://example.com/image1.jpg",
-    altText: "Description for image 1"
-  },
-  {
-    url: "https://example.com/image2.jpg",
-    altText: "Description for image 2"
+  {url: "/images/svgs/LaboratoryGuy.svg",
+    altText: "Near Future Laboratory Imagines Harder."
   }],
-  // image: {
-  //   url: "https://example.com/image.jpg",
-  //   altText: "An image depicting future technology"
-  // },
   og_type: "site",
   tags: ["Design Fiction", "Futures", "Design Innovation"],
   isDraft: false,
@@ -65,11 +57,12 @@ if (frontmatter === undefined) {
 <html>
     <Header pageTitle={headTitle} frontmatter={frontmatter}/>
     <body>
-    <div class="posttitle mt-[4rem] mb-5">{pageTitle}</div>
+    <div class="posttitle mt-[4rem] mb-5 text-center">{pageTitle}</div>
     <!-- <div class="flex flex-col items-center justify-center px-12 py-8 mx-auto md:h-screen lg:py-0">
 What Goes Here Where? What Goes Here Where? What Goes Here Where? What Goes Here Where?
 </div> -->
     <slot/>
+    <ContactFormSm />
         <!-- Dynamically render the footer based on footerType prop -->
         {footerType === 'Fixed' ? <FixedFooter /> : <Footer />}
     <script>

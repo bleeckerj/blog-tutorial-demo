@@ -108,21 +108,34 @@ export default function App() {
   return (
   
     <div className="flex flex-col items-center justify-center mx-10 my-20">
-    <form  action="/" method="POST" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} className=" space-y-3 md:space-y-4 max-w-5/6 min-w-[500px]" onSubmit={handleSubmit(onSubmit)}>
+    <form  action="/" method="POST" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} 
+    className="space-y-3 md:space-y-4 max-w-5/6 min-w-[500px]" onSubmit={handleSubmit(onSubmit)}>
     
     <div className="grid grid-cols-2 gap-2 mb-[-1rem]">
   <div>
+
     <label htmlFor="firstName" className="block mb-1 text-lg font-medium">
       First Name
     </label>
-    <input id="firstName" className="mb-3 bg-gray-50 focus:outline-stone-500 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5" style={{fontSize : '1rem'}} type="text" placeholder="Chester" />
+    <input id="firstName" 
+    className="mb-3 bg-gray-50 focus:outline-stone-500 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5" 
+    style={{fontSize : '1rem'}} 
+    type="text" 
+    placeholder="Chester" 
+    {...register("First name", {required: true, maxLength: 40})} 
+    />
   </div>
 
   <div>
     <label htmlFor="lastName" className="block mb-1 text-lg font-medium">
       Last Name
     </label>
-    <input id="lastName" className="mb-3 bg-gray-50 focus:outline-stone-500 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5" style={{fontSize : '1rem'}} type="text" placeholder="Fields" />
+    <input id="lastName" 
+    className="mb-3 bg-gray-50 focus:outline-stone-500 text-gray-900 sm:text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5" 
+    style={{fontSize : '1rem'}} 
+    type="text" placeholder="Fields" 
+    {...register("Last name", {required: true, maxLength: 40})}
+    />
   </div>
 </div>
 
@@ -152,7 +165,10 @@ export default function App() {
       <label htmlFor="message" className="block mb-1 text-lg font-medium">
       Message
       </label>
-      <textarea id="message" className=" rounded-lg block w-full p-2.5" style={{fontSize : '1rem'}} placeholder="This is what I'm thinking about..." {...register("Message", {})} />
+      <textarea id="message" className=" rounded-lg block w-full p-2.5" 
+      style={{fontSize : '1rem'}} 
+      placeholder="This is what I'm thinking about..." 
+      {...register("Message", {})} />
       </div>  
       
       <div>
@@ -190,10 +206,12 @@ export default function App() {
       </div>
       
 
-      
-      <button className="text-white bg-stone-500 hover:bg-stone-800 focus:ring-4 focus:outline-none focus:ring-stone-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center" type="submit">
+      <div className="flex justify-center">
+      <button 
+      className="text-white bg-stone-500 hover:bg-stone-800 focus:ring-4 focus:outline-none focus:ring-stone-300 font-medium rounded-lg text-sm w-1/4 sm:w-1/4 px-5 py-2.5 text-center" type="submit">
         Submit
       </button>
+      </div>
       </form>
 
       <FormConfirmationModal 
