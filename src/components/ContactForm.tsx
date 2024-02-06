@@ -2,54 +2,59 @@ import { useForm } from 'react-hook-form';
 import React, { useState } from 'react';
 import axios from 'axios';
 import type { APIRoute } from "astro";
+import FormConfirmationModal  from '../components/FormConfirmationModal';
+
+
+
+// export const POST: APIRoute = async ({ request }) => {
+//   const data = await request.formData();
+//   console.log('Hello APIRoute')
+//   console.log(data);
+//   console.log(JSON.stringify(data));
+//   var object = {};
+//   data.forEach((value, key) => object[key] = value);
+//   var json = {"content": JSON.stringify(object)}; //JSON.stringify(object);
+//   console.log(json);
+//   const webhookURL = "https://discord.com/api/webhooks/967241010449088592/kOtdCCfpWtpkDBHwnQUzzDa6vJOhLePyDHifQzEUDSnDSgj78WmqERisGJ4Ygd16XGMp"
+//   //const webhookURL = "https://webhook.site/168b0c8a-2a74-40bd-9129-3b42c868c4a4"
+//   const options = {
+//     method: 'post',
+//     baseURL: webhookURL,
+//     headers: {
+//       'Content-Type': 'application/json',
+//     },
+//     data: json
+//   };
+//   //let response = await axios.request(options);
+//   axios.request(options)
+//   .then(function (response) {
+//     console.log(response);
+//   })
+//   .catch(function (error) {
+//     console.log(error);
+//   });
+//   return new Response( 
+//     "{'hey' : 'there'}"
+//   );
+// };
+
 /* My Generic Contact Form Component  */
 /* Pings me in Discord in #notes-to-self when someone fills this in */
 /* Add an email ping too at some point, eh? */
-export const POST: APIRoute = async ({ request }) => {
-  const data = await request.formData();
-  console.log('Hello?')
-  console.log(data);
-  console.log(JSON.stringify(data));
-  var object = {};
-  data.forEach((value, key) => object[key] = value);
-  var json = {"content": JSON.stringify(object)}; //JSON.stringify(object);
-  console.log(json);
-  const webhookURL = "https://discord.com/api/webhooks/967241010449088592/kOtdCCfpWtpkDBHwnQUzzDa6vJOhLePyDHifQzEUDSnDSgj78WmqERisGJ4Ygd16XGMp"
-  //const webhookURL = "https://webhook.site/168b0c8a-2a74-40bd-9129-3b42c868c4a4"
-  const options = {
-    method: 'post',
-    baseURL: webhookURL,
-    headers: {
-      'Content-Type': 'application/json',
-    },
-    data: json
-  };
-  //let response = await axios.request(options);
-  axios.request(options)
-  .then(function (response) {
-    console.log(response);
-  })
-  .catch(function (error) {
-    console.log(error);
-  });
-  return new Response( 
-    "{'hey' : 'there'}"
-  );
-};
-
 export default function App() {
   const { register, handleSubmit, formState: { errors } } = useForm();
   const [isModalOpen, setModalOpen] = useState(false);
+  const [isErrorOpen, setErrorOpen] = useState(false);
 
   const onSubmit = data => {
-    console.log('Hello?');
-    console.log(data);
+    // console.log('Hello App()');
+    // console.log(data);
     
-    console.log(JSON.stringify(data));
+//    console.log(JSON.stringify(data));
     var object = {};
     //data.forEach((value, key) => object[key] = value);
     var json = {"content": JSON.stringify(data)}; //JSON.stringify(object);
-    console.log(json);
+//    console.log(json);
     const webhookURL = "https://discord.com/api/webhooks/967241010449088592/kOtdCCfpWtpkDBHwnQUzzDa6vJOhLePyDHifQzEUDSnDSgj78WmqERisGJ4Ygd16XGMp"
     //const webhookURL = "https://webhook.site/168b0c8a-2a74-40bd-9129-3b42c868c4a4"
     const options = {
@@ -61,16 +66,21 @@ export default function App() {
       data: json
     };
     //let response = await axios.request(options);
-    console.log(options);
+ //   console.log(options);
     axios.request(options)
     .then(function (response) {
-      console.log(response);
-      console.log('Good Message!')
+      setModalOpen(true); // Open modal on success
+      setErrorOpen(false);
+      // console.log(response);
+      // console.log('Good Message!')
     })
     .catch(function (error) {
-      console.log(error);
-      console.log('Error!')
+      setErrorOpen(true);
+      setModalOpen(false);
+      // console.log(error);
+      // console.log('Error!')
     });
+
     return new Response( 
       "{'hey' : 'there'}"
     );
@@ -84,6 +94,15 @@ export default function App() {
     email: '',
     subject: '',
     message: ''
+  };
+
+  const closeModal = () => {
+    setModalOpen(false);
+  };
+
+  const closeErrorModal = () => {
+    setErrorOpen(false);
+    console.log('Eh?');
   };
 
   return (
@@ -176,6 +195,22 @@ export default function App() {
         Submit
       </button>
       </form>
+
+      <FormConfirmationModal 
+        isOpen={isModalOpen} 
+        onClose={closeModal} 
+        message="Thank you for making contact."
+        message_2 = "I'll be in touch soon."
+      />
+
+      <FormConfirmationModal 
+        isOpen={isErrorOpen} 
+        onClose={closeErrorModal} 
+        message="Dang. Error."
+        message_2 = "Please contact me directly: julian@nearfuturelaboratory.com"
+      />
+
+
       </div>
       );
     }
