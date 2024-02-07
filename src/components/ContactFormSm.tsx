@@ -63,7 +63,7 @@ export default function App() {
   return (
   <section className="flex flex-col items-center justify-center mx-10 my-20">
   <form  action="/" method="POST" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} 
-  className="space-y-3 md:space-y-4 max-w-5/6 min-w-[500px]" onSubmit={handleSubmit(onSubmit)}>
+  className="space-y-3 md:space-y-4 max-w-5/6 min-w-[340px]" onSubmit={handleSubmit(onSubmit)}>
 
 	{/* <form className="container w-full max-w-xl p-8 mx-auto space-y-6 rounded-md shadow bg-gray-900"> */}
 		<h2 className="w-full text-3xl font-bold">Contact us</h2>

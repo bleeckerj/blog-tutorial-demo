@@ -1,24 +1,5 @@
 
 
-/* @font-face {
-    font-family: "Rebond Grotesque";
-    font-weight: normal;
-    src: url("https://backoffice.nearfuturelaboratory.com/fonts/rebond-grotesque/ESRebondGrotesque-Regular.woff2") format("woff2"),
-  }
-   */
-  /* @font-face {
-    font-family: "Berkeley Mono";
-    font-weight: normal;
-    src: url("https://backoffice.nearfuturelaboratory.com/fonts/berkeley-mono/BerkeleyMonoVariable-Regular.woff2"),
-  } */
-
-/* @font-face {
-  font-family: "ESKlarheit Kurrent Mono";
-  font-weight: normal;
-  src: url("https://backoffice.nearfuturelaboratory.com/fonts/es-klarheit-kurrent-mono/woff2/ESKlarheitKurrentMono-Rg.woff2")format("woff2");
-
-} */
-
 @font-face {
   font-family: 'Roboto';
   src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap') format('woff2');

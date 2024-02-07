@@ -109,7 +109,7 @@ export default function App() {
   
     <div className="flex flex-col items-center justify-center mx-10 my-20">
     <form  action="/" method="POST" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} 
-    className="space-y-3 md:space-y-4 max-w-5/6 min-w-[500px]" onSubmit={handleSubmit(onSubmit)}>
+    className="space-y-3 md:space-y-4 max-w-5/6 min-w-[340px]" onSubmit={handleSubmit(onSubmit)}>
     
     <div className="grid grid-cols-2 gap-2 mb-[-1rem]">
   <div>
