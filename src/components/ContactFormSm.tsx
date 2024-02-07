@@ -61,7 +61,7 @@ export default function App() {
   };
 
   return (
-  <section className="flex flex-col items-center justify-center mx-10 my-20">
+  <section className="flex flex-col items-center justify-center my-20 max-w-2xl">
   <form  action="/" method="POST" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} 
   className="space-y-3 md:space-y-4 max-w-5/6 min-w-[340px]" onSubmit={handleSubmit(onSubmit)}>
 

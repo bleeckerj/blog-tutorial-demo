@@ -12,7 +12,8 @@ const postsCollection = defineCollection({
       authorUsername: z.string().default('@nearfuturelab'),
       image: z.object({
         url: z.string().default('https://backoffice.nearfuturelaboratory.com/favicon.svg'),
-        altText: z.string().default('Near Future Laboratory Design Fiction Imagine Harder')
+        altText: z.string().default('Imagination Unlocks Greatness'),
+        caption: z.string().default('Imagination Unlocks Greatness')
       }).optional(),
       og_type: z.string().default('article'),
       tags: z.array(z.string()).optional(),
