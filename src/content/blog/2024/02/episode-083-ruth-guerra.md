@@ -5,7 +5,7 @@ description: 'We talked with emerging practitioner, futures designer, and design
 seo: "In this episode, I chat with the fun, creative, thoughtful Ruth Guerra, a design researcher with a knack for amplifying the questions about design, creativity, research and futures through a wonderful social media presence. We dive into her journey from a theater undergrad to mastering future design, where she champions participatory design with a twist. Ruth shares her passion for storytelling, not just any storytelling, but the kind that shapes our future. She's also getting busy hosting innovative workshops to help people get a sense of how design research and design fiction legible to normal humans. So buckle up, we're exploring how design, values, and a sprinkle of theater can make the world a more engaging place. Spoiler alert: there are no spoilers in here even though we talk for a moment about 'Leave the World Behind.' This is a fun one that just might have you thinking about joining the Near Future Laboratory Discord and supporting this podcast over on ⁠patreon.com/nearfuturelaboratory⁠"
 author: 'Julian Bleecker'
 tags: [podcast, design research, audio, design fiction]
-isDraft: true
+isDraft: false
 containImage: true
 image: {
 url: /images/blog/2024/02/EPISODE_083_SQ_SQUARE_900px.png,
