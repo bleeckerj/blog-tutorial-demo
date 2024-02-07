@@ -302,18 +302,26 @@ table th {
 pre {
 	font-family: "Roslindale Variable"; 
 	font-variation-settings: 'wght' 200;
-	font-variation-settings: "slnt" -6;	
+	font-variation-settings: 'slnt' 0;	
 	font-size: 1em;
-	background-color: #878787;
+	background-color: #e8e8e8;
 	border-radius: 0.5rem;
 	padding: 2rem;
 }
 
 code {
-	font-family: "Roslindale Variable"; 
+	font-family: "sans-serif"; 
 	font-variation-settings: 'wght' 300;
 	border-radius: 1rem;
 	padding: 0rem;
+}
+
+.transcript {
+	font-family: "WarblerTex"; 
+	font-size: 0.9em;
+	background-color: #e8e8e8;
+	border-radius: 0.5rem;
+	padding: 2rem;
 }
 
 
