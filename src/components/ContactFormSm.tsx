@@ -111,6 +111,23 @@ export default function App() {
         </button>
 		</div>
 	</form>
+
+  <FormConfirmationModal 
+        isOpen={isModalOpen} 
+        onClose={closeModal} 
+        message="Thank you for making contact."
+        message_2 = "I'll be in touch soon."
+      />
+
+      <FormConfirmationModal 
+        isOpen={isErrorOpen} 
+        onClose={closeErrorModal} 
+        message="Dang. Error."
+        message_2 = "Please contact me directly: julian@nearfuturelaboratory.com"
+      />
+
+
+
 </section>
 
       );
