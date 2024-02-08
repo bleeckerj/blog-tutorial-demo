@@ -53,7 +53,7 @@
 html,
 body {
 	padding-left: auto;
-	margin: 0px auto auto 0.8rem;
+	margin: 0px 0rem 0rem 0rem;
 	font-family: "WarblerText";/*var(--font-family);*/
 	/* font-style: normal; */
 	font-variation-settings: 'wght' 200, 'slnt' 0;
@@ -61,7 +61,7 @@ body {
 	background-color: var(--background-color);
 }
 html {
-	overflow-y: scroll;
+	@apply overflow-x-hidden;
 }
 
 @media (max-width: 768px) { /* Adjust this value based on your design needs */
@@ -230,6 +230,7 @@ table th {
 
 .posttitle {
     font-variation-settings: 'wght' 800;
+	@apply max-w-2xl;
     /* font-size: 4.00em; Default size */
 }
 
@@ -477,8 +478,21 @@ menu {
 }
 
 ol p {
+	margin-left: 0.5rem;
     margin-bottom: 0.2rem;
 }
+
+ol li::marker {
+	/* color: red; Change the color of the numbers */
+	font-size: 1rem; /* Change the size of the numbers */
+	font-family: 'WarblerDisplay';
+	font-style: italic;
+  }
+  
+  /* For unordered list bullets */
+  ul li::marker {
+	color: blue; /* Change the color of the bullet points */
+  }
 
 
 
@@ -510,11 +524,12 @@ ul li {
 
 li {
 	line-height: 1.25;
-	margin-bottom: 0.5em;
+	margin-bottom: 1.5em;
+	padding-left: 0.5rem;
 }
 
 li:not(:last-child) { 
-	margin-bottom: 0.2rem;  
+	margin-bottom: 1.2rem;  
  }
 
 p:last-child {
@@ -553,6 +568,7 @@ p:last-child {
 	@apply rounded-tr-lg;
 	@apply shadow-lg;
 	@apply w-full;
+	@apply max-w-2xl;
 	/* @apply max-w-[30rem]; */
 	@apply min-h-[3em];
 }
@@ -566,6 +582,7 @@ p:last-child {
 .index-post-content {
 	@apply p-5;
 	@apply w-full;
+	@apply max-w-2xl;
 	@apply shadow-lg;
 	@apply mb-5;
 	/*display: inline-block; *//* or block, depending on your layout needs */

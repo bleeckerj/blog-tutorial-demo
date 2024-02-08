@@ -58,9 +58,6 @@ if (frontmatter === undefined) {
     <Header pageTitle={headTitle} frontmatter={frontmatter}/>
     <body class="overflow-hidden max-w-2xl">
     <div class="posttitle mt-[4rem] mb-5 text-center">{pageTitle}</div>
-    <!-- <div class="flex flex-col items-center justify-center px-12 py-8 mx-auto md:h-screen lg:py-0">
-What Goes Here Where? What Goes Here Where? What Goes Here Where? What Goes Here Where?
-</div> -->
     <slot/>
     <ContactFormSm client:only='react'/>
         <!-- Dynamically render the footer based on footerType prop -->

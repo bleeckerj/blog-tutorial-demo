@@ -1,12 +1,23 @@
 ---
-
 title: "The Wheels On Luggage Phenomenon"
-author: "Julian Bleecker"
-pubDate: 2021-03-26
+pubDate: 2021-03-26T10:46:35-08:00
+description: 'What took so long for someone to put wheels on luggage, anyway?'
+seo: 'the wheels on luggage phenomenon'
+author: 'Julian Bleecker'
+tags: [invention, innovation, patents, imagination]
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/the-wheels-on-luggage-phenomenon/the-wheels-on-luggage-phenomenon_dd755550-f1cc-4375-b485-3551da6d1dd0.png,
+altText: A patent drawing of wheels on luggage April 4 1972,
+caption: The wheel was 'invented' around 5500 years ago. Why did it take so long for someone to put it on luggage, anyway?
+}
 ---
 
-![US3653474-drawings-page-3_HORIZ_900px.png](https://buttondown-attachments.s3.amazonaws.com/images/dd755550-f1cc-4375-b485-3551da6d1dd0.png) 
+<figure>
+<img src=/bd-images/the-wheels-on-luggage-phenomenon/blog_smith-monica-2015-11-24_SuitcasePatent3653474.png alt={} />
+<figcaption>Bernard Sadow's <a href="https://patents.google.com/patent/US3653474A/en">U.S. Patent 3,653,474</a> for a rolling suitcase, 1972,</figcaption>
+</figure> 
 
 1. For the longest time ever, the wheel has been rolling ‘round.
 2. Perhaps for longer than the wheel has been around, humans have lugged around their stuff.
@@ -41,3 +52,9 @@ isDraft: false
 31. Make worlds that make sense to themselves, and forget for that play time if they make sense otherwise.
 32. Ignore your imagination and your creative soul will be put in peril.
 33. Our imagination is how we create new possible near future worlds.
+34. And sometimes we wander within the dream of possibility, which is an existentially vital and beautiful thing, even if it looks like a lawsuit waiting to happen.
+<figure>
+<img src=/bd-images/the-wheels-on-luggage-phenomenon/blog_smith-monica-2015-11-24_Man-on-luggage-with-built-in-scooter_Google-Images.jpg alt="A man on luggage with a built-in scooter / pending lawsuit." />
+<figcaption>Ingenuity need not mean you have a market winner; it can mean you think expansively and allow your creativity to dream in odd places and ways.</figcaption>
+</figure>
+
