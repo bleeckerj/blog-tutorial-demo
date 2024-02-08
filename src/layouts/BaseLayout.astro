@@ -62,7 +62,7 @@ if (frontmatter === undefined) {
 What Goes Here Where? What Goes Here Where? What Goes Here Where? What Goes Here Where?
 </div> -->
     <slot/>
-    <ContactFormSm />
+    <ContactFormSm client:only='react'/>
         <!-- Dynamically render the footer based on footerType prop -->
         {footerType === 'Fixed' ? <FixedFooter /> : <Footer />}
     <script>
