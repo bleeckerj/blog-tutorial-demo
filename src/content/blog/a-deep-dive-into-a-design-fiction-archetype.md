@@ -1,11 +1,11 @@
 ---
 title: "A Deep Dive Into A Design Fiction Archetype"
-pubDate: 2021-10-20
+pubDate: 2022-04-02
 description: What do I mean when I say 'Design Fiction Archetype'?
 seo: 'the design fiction archetype'
 author: 'Julian Bleecker'
-tags: []
-isDraft: true
+tags: ['design fiction', 'archetype']
+isDraft: false
 containImage: true
 image: {
 url: /bd-images/a-deep-dive-into-a-design-fiction-archetype/MagazineFromTheFuture_RS_01_032123_02_BRIGHT__1200px.png,,
