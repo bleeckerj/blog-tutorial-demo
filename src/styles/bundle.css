@@ -167,11 +167,12 @@ table th {
   }
 
   h1 {
-	margin-bottom: 0.5rem;
-	margin-top: 1rem;
+	margin-bottom: 0.8rem;
+	margin-top: 1.2rem;
 	font-size: 1.8rem;
 	font-family: "Rebond Grotesque";
 	font-weight: bold;
+	line-height: 1.6rem;
   }
 
   /* h1 {
@@ -483,6 +484,10 @@ ol p {
     margin-bottom: 0.2rem;
 }
 
+ol {
+	padding-left: 0.8rem; /* Adjust this value as needed to move numbers to the right */
+  }
+
 ol li::marker {
 	/* color: red; Change the color of the numbers */
 	font-size: 1rem; /* Change the size of the numbers */
@@ -526,7 +531,7 @@ ul li {
 li {
 	line-height: 1.25;
 	margin-bottom: 1.5em;
-	padding-left: 0.5rem;
+	padding-left: 0.25rem;
 }
 
 li:not(:last-child) { 
