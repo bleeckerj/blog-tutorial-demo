@@ -1,15 +1,16 @@
 ---
 title: 'Blue Boat'
-pubDate: 2022-05-02 15:00:00.000
+pubDate: 2021-07-12 14:00:00+00:00
 description: "The tale of 'Blue Boat,' a simple skiff that was a container of of adventures and memories, helped me think about the notion of value that has nothing to do with numbers."
 seo: 'blue boat'
 author: 'Julian Bleecker'
 tags: []
-isDraft: true
+isDraft: false
 containImage: true
 image: {
 url: https://buttondown-attachments.s3.amazonaws.com/images/5dfee867-17a7-4c7d-ae37-81de6d6268d1.png,
-altText: Hoagie at the helm of Blue Boat. Adrian in his beach lounger.
+altText: Two guys sitting in a small blue skiff,
+caption: Hoagie at the helm of Blue Boat. Adrian in his beach lounger
 }
 ---
 

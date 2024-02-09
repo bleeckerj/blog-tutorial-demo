@@ -14,8 +14,6 @@ caption: Imagination Unlocks Greatness
 }
 ---
 
-![2022-09-28_12-29-27.jpg](https://buttondown-attachments.s3.amazonaws.com/images/6fd7d488-9acc-403f-9e5c-6bb085b46b46.jpg) 
-
 1. I suppose it's a reasonable question.
 2. It also becomes a bit tiresome, but that's my problem.
 3. It also becomes a great way to refine what I think about when I think about Design Fiction.

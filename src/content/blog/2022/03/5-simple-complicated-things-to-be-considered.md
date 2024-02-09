@@ -1,6 +1,6 @@
 ---
 title: '5 simple complicated things to be considered'
-pubDate: 2021-01-29T08:13:35-08:00
+pubDate: 2022-03-30 17:35:50.097920+00:00
 description: '5 simple complicated things to be considered'
 seo: '5 simple complicated things to be considered'
 author: 'Julian Bleecker'

@@ -1,12 +1,18 @@
 ---
 title: "Design Fiction As The Epistemological Monkey Wrench"
-author: "Julian Bleecker"
+pubDate: 2024-02-08T23:10:46-08:00
 description: "We can use Design Fiction to monkey around with what we know and understand about the world, and why."
-pubDate: 2022-10-07
+seo: 'design fiction as the epistemological monkey'
+author: 'Julian Bleecker'
+tags: []
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/design-fiction-as-the-epistemological-monkey/design-fiction-as-the-epistemological-monkey_03cfbe62-63a7-429e-b1c4-7587cd729be3.jpg,
+altText: Take it easy,
+caption: Imagination Unlocks Greatness
+}
 ---
-
-![](/bd-images/design-fiction-as-the-epistemological-monkey/design-fiction-as-the-epistemological-monkey_03cfbe62-63a7-429e-b1c4-7587cd729be3.jpg) 
 
 1. The whole NFT thing? It’s like standing between different worlds.
 1. What do I mean by that?
@@ -41,12 +47,20 @@ isDraft: false
 16. Why am I writing this when I said I wasn’t interested in writing about NFTs and crypto and bitcoin and all that? What’s the point? 
 18. The point is to take this opportunity to say that “NFTs”, were they a Design Fiction, would be an awesome example of where precisely Design Fiction lives — at the cusp of sense and non-sense. This is precisely because Design Fictions are built specifically to productively and usefully monkey wrench with our understanding of what the world might be like _if "X"_ happened, or was going on, or became a normal, ordinary, everyday thing. What would the world look like _if "crypto"_? Or, what would the world look if Google made toilets that analyized our effluvia, because, you know — _all_ the world's data.
 29. How's that?
- ![](/bd-images/design-fiction-as-the-epistemological-monkey/design-fiction-as-the-epistemological-monkey_668ddd2d-9039-4652-8547-831c03febfcc.jpg) 
+
+<figure>
+<img src=/bd-images/design-fiction-as-the-epistemological-monkey/design-fiction-as-the-epistemological-monkey_668ddd2d-9039-4652-8547-831c03febfcc.jpg alt="" />
+</figure>
+
 30. Design Fictions are meant to guide our consciousness into a slightly changed world, spend a bit of time there, then come back and reflect, plan, take action. 
 31. Design Fictions are like Epistemological Monkey Wrenches. 
 32. Design Fictions operate like tools that monkey around with our understanding of what a near future world could be like. They imply a world in which meaning-making is slightly askew. A world in which, for the crypto example, value is attributed by ownership of an index to a thing in a globally shared ledger, rather than having the indexed thing actually in one’s possession to the exclusion of anyone else. I mean..the thing itself isn't even in the ledger. Could you imagine if ledgers actually had the thing? How would you fit a factory or house or container ship in a ledger? (Lest you feel confused, that was me being cynical probably because I don't want to admit I'm lost and confused here.)
 33. (Also, ‘Ledger’ has a nice Dickensian ring to it compared to ‘Spreadsheet’, don’t you think? More evocative of modest, humble, visor-wearing fellers in crisp white shirts with those sleeve protectors lest they get ink on their cuffs. Spreadsheet has a terrible connotation. It makes me think of Excel. That makes me want to throw up forever. Spreadsheets can be so confusing. 'Ledger.' Say it as if you were Dick Van Dyke in Mary Poppins. 'Ledger..' That works, Satoshi. Thanks. Good branding, that.)
-![](https://nearfuturelaboratory-cdn.s3.us-east-1.amazonaws.com/newsletter/Monolith_2001-1_900px.jpg)
+
+<!-- <figure>
+<img src=https://nearfuturelaboratory-cdn.s3.us-east-1.amazonaws.com/newsletter/Monolith_2001-1_900px.jpg alt="" />
+</figure> -->
+
 34. Speaking of monkey wrenches — they weren’t monkeys, but remember in _2001: A Space Odyssey_ when the Monolith first shows up? And those almost-human primate beasts are all freaked out and the one guy, let’s call him Edgar, well..Edgar, against any good hygiene protocols, he up and touches it, right? The best interpretation of the moment is that the Monolith compels the emergence of an imaginative consciousness about tool use so that Edgar now realizes that the rib bone there on the ground can be used to do stuff — like club some other primate to death and assert will, power, water rights, etc.
 35. Substitute ‘Monolith’ for ‘NFT’ when you’re taking the puppy dog for a walk or your equivalent of such an activity and ponder that to see how it plays out. I did that and this is what I came up with:
 36. This NFT moment is a bit like that one in _2001_, including the bellowing howls and wild, unbridled, frothy exuberance of something new now finally making sense. To some people, at least. I mean the tribe of primates who figured it out and get to do the clubbing, they figured something out. Maybe they were more imaginative as they consider that those once stupid bones can actually become useful clubs. The ones who didn't figure that out are getting clubbed, or gonna get clubbed. They might be on Clubhouse in that one room called **NFT Tips and Tricks!!!🥇💫🍕🧨🤖**. They're in there trying to figure out how to get rich — err..I mean _imaginative_ — with Photoshop and Blender.
@@ -76,4 +90,6 @@ isDraft: false
 61. (That’s also the subtext of [Anil Dash’s short essay on his prototype of the general principle of NFTs with Kevin McCoy](https://www.theatlantic.com/ideas/archive/2021/04/nfts-werent-supposed-end-like/618488/), I would say. Although it sounds like his opinion is within the controversy rather than an observer of the controversy. Which makes a difference, I think. I heard that hackathon project they did is gonna go for long dollars on some NFT art market. Loooonnng dollars. Kevin McCoy deserves it. He's been at it as a digital artist for ages, bless him.)
 62. I just remembered that the first and only NFT-y art thing in the WiFi.ArtCache had a monkey in it. My friend Marina made it. I goaded her into doing the project, but the monkey was all her idea.
 
- ![](/bd-images/design-fiction-as-the-epistemological-monkey/design-fiction-as-the-epistemological-monkey_faa8d780-03d3-44ad-9abd-f0fe56b479f2.png)
+<figure>
+<img src=/bd-images/design-fiction-as-the-epistemological-monkey/design-fiction-as-the-epistemological-monkey_faa8d780-03d3-44ad-9abd-f0fe56b479f2.png alt="A page from a workshop with a drawing of an epistemological diagram" />
+</figure>

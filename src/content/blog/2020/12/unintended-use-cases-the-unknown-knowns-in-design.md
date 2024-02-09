@@ -1,11 +1,18 @@
 ---
 title: "Unintended Use Cases The Unknown Knowns In Design"
-author: "Julian Bleecker"
-pubDate: 2021-10-26
+description: 'The unknown knowns in design'
+seo: 'unintended use cases the unknown knowns in design'
+pubDate: 2020-12-24 20:25:00+00:00
+author: 'Julian Bleecker'
+tags: []
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_577dd3a4-81b2-4a2d-8a6e-ce0c9a2ffcf2.jpg,
+altText: Take it easy,
+caption: Imagination Unlocks Greatness
+}
 ---
-
-![](/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_577dd3a4-81b2-4a2d-8a6e-ce0c9a2ffcf2.jpg) 
  
 ### One - The Nikon F vs The Telephone
 
@@ -70,20 +77,27 @@ Design Fiction can play a role in these situations if it can become part of what
 What that moment in Minority Report did for us was provide an easy point of entry to consider something everyone at the (hypothetical) _Pine & Oats Cereal Box Design Team Project Kick Off Retreat_ knew could happen, but had no real process-oriented way of introducing.
 
 
- ![](/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_22acde7a-524f-4937-8a77-8e22fe601495.png) 
+<figure>
+<img src=/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_22acde7a-524f-4937-8a77-8e22fe601495.png alt="" />
+</figure>
+
  
 ### Three - You Left Memaw Where??
  
 When I was a kid my parents gave us a choice for magazine subscriptions once a year. I'd flip-flop between Mad Magazine and Byte Magazine, but mostly Mad because I could read Byte at the local public library. Maybe this is why I happen to enjoy clever satire in my design-engineering work, I don't know. It's the only thing I can figure. In any case, I find satire useful in these tricky, intractable design-engineering contexts. 
 
- ![](/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_483971e0-a1d3-4a97-ae41-c09167e8b6dd.jpg) 
 
+<figure>
+<img src=/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_483971e0-a1d3-4a97-ae41-c09167e8b6dd.jpg alt="" />
+</figure>
 
 Why is that? Because I've found that humor lubricates the conversations around awkward or otherwise challenging topics. If you can get oh-so-serious folks with their perfectly [knolled](https://en.wikipedia.org/wiki/Tom_Sachs#Knolling) design documents that suggest they have everything figured out to crack a smile or even chuckle, then you've softened the ground a bit for a good discussion of where their brilliant idea falls comically short. To this end, I often look for opportunities to describe these disavowed circumstances with a bit of good old-fashioned humor in order to lead the conversations that will hopefully yield better, richer insights and farm-fresh perspectives that I think one should expect from honest, hard-working design-technologists.
 
- ![](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/13373855-af07-452b-805b-fc48a76a326f.JPG) 
+<figure>
+<img src=/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_13373855-af07-452b-805b-fc48a76a326f.JPG alt="" />
+</figure>
 
-I told you that story so I can tell you this story: several years ago Nick, Nicolas and I led a [workshop focused on the topic of self-driving cars](http://qsg.nearfuturelaboratory.com/). To get into the topic we decided to use the Design Fiction archetype of a Quick-Start Guide. You know those things. They're the guide that briefly explains to a new owner how to use, or configure, or screw together whatever product or service they've just burdened themselves with.
+I told you that story so I can tell you this story: several years ago Nicolas and I led a [workshop focused on the topic of self-driving cars](http://qsg.nearfuturelaboratory.com/). To get into the topic we decided to use the Design Fiction archetype of a Quick-Start Guide. You know those things. They're the guide that briefly explains to a new owner how to use, or configure, or screw together whatever product or service they've just burdened themselves with.
 
 The overall purpose of the workshop was less about creating a QSG than it was to introduce how Design Fiction can expand our imagination on a particular topic to contribute to the benefits of other design protocols and processes.
 
@@ -93,7 +107,9 @@ To prepare ourselves we looked at a whole bunch of existing Quick Start Guides t
 
 During the workshop I was assigned to put together the FAQ section. My approach was to think of the odd situations that might occur with self-driving cars, which is, if you think about it for about a nanosecond, not that difficult at all what with my extensive and exhaustive background in Mad Magazine style satire.
 
-![](/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_8519f475-4de9-4642-ac0a-22449e2565e8.jpg) 
+<figure>
+<img src=/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_8519f475-4de9-4642-ac0a-22449e2565e8.jpg alt="" />
+</figure>
 
 As the workshop proceeded a kind of 'Taxi Mode' that we branded variously 'Uber EverDrive®', 'Intuit NeighborShares®, Amazon ¡TaxiTaxi!®, Amazon PrimeValet®, and CarShare®. 
 
@@ -115,7 +131,9 @@ But how do you represent this? What's the point of entry for this that makes thi
 
 I settled on an entry in the FAQ
 
- ![](/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_579a5b22-4b25-4e92-8f98-cd1e0f428076.png) 
+<figure>
+<img src=/bd-images/unintended-use-cases-the-unknown-knowns-in-design/unintended-use-cases-the-unknown-knowns-in-design_579a5b22-4b25-4e92-8f98-cd1e0f428076.png alt="" />
+</figure> 
 
 So, what I'm saying is that unknown knowns are a category of outcomes that are often not diligently accounted for in the work of design. Accounting for them may seem useless at first consideration. Beyond the ostensible utility of doing the design work. 
 
@@ -127,4 +145,4 @@ Next week we'll work on long division. Bring a sharpened No. 2 pencil.
 
 ---
 
-A brief end note which is to say that I host weekly Office Hours where we talk about these kinds of topics. They happen every Friday at 9am PST / 4pm GMT. Great fun group and the topics never fail to amuse and engage us all. If you're interested in the short and sweet reminders I send out, please sign up to the list: [http://nearfuturelaboratory.com/office-hours](http://nearfuturelaboratory.com/office-hours)
+A brief end note which is to say that I host weekly Office Hours where we talk about these kinds of topics. They happen every Friday at 9am PST / 4pm GMT. Great fun group and the topics never fail to amuse and engage us all. If you're interested in the short and sweet reminders I send out, please become a Patron over at [https://patreon.com/nearfuturelaboratory](https://patreon.com/nearfuturelaboratory).

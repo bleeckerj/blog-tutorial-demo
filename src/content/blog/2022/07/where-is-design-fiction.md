@@ -1,21 +1,17 @@
 ---
-title: 'where is design fiction'
-pubDate: 2024-01-29T08:08:37-08:00
-description: 'where is design fiction'
+title: 'Where is Design Fiction?'
+pubDate: 2022-07-04 14:15:11.669997+00:00
+description: "I describe the essence of design fiction through an exploration of material culture as a lens for envisioning future possibilities. This short essay delves into how everyday objects, from breakfast cereal to speculative artifacts, serve as powerful tools for understanding potential future scenarios without resorting to grandiose predictions. Learn how design fiction creates a bridge between tangible objects and speculative futures, inviting deeper reflection on the implications of emerging technologies and societal trends. Much of this forms the basis for my book It's time to Imagine Harder"
 seo: 'where is design fiction'
 author: 'Julian Bleecker'
-tags: []
+tags: ["Design Fiction", "Material Culture", "Speculative Artifacts", "Future Scenarios", "Emerging Technologies", "Societal Trends", "Speculative Design", "Future Possibilities", "Material Speculation"]
 isDraft: true
 containImage: true
 image: {
-url: /images/blog/2024/01/darthjulian_wide_angle_lens_Nikon_photography_a_cramped_recreat_3e5c221e-9837-48a2-ac75-3418a1d11d4a.png,
-altText: Relax
+url: /bd-images/where-is-design-fiction/where-is-design-fiction_72fce55d-666b-4e57-8b0c-45fcb5ba5956.jpeg,
+altText: A diagram showing where Design Fiction sits in between imagination and structure,
+caption: Where is Design Fiction?
 }
----
-
-
-![NearFutureLaboratory-DesignFiction-OnePager2_1.jpg](https://buttondown-attachments.s3.amazonaws.com/images/75d0c090-2f3b-4bc7-bdb8-09363a62ae57.jpg) 
-
 ---
 1. Most times when we hear about something that has no solid meaning, that has no firm arrangements of connected neurons within our brains, or particularly something we have never ‘seen’ or ‘heard’ or have experienced first hand, we ask, ‘what is that?’ or ‘define that for me?’
 

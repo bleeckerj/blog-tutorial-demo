@@ -1,6 +1,6 @@
 ---
 title: 'An Email With Three Design Fiction Questionss'
-pubDate: 2022-03-05T08:20:20-08:00
+pubDate: 2022-07-06 14:45:40.916252+00:00
 description: 'Design Fiction Archetypes are the containers into which a Design Fiction is embedded. Want to know more?'
 seo: 'an email with three design fiction questions'
 author: 'Julian Bleecker'

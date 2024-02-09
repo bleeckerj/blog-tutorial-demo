@@ -1,17 +1,20 @@
 ---
 title: "Why Do Future Visions All Look Like Future Visions"
-author: "Julian Bleecker"
-pubDate: 2021-06-15
+pubDate: 2020-12-09 18:00:00+00:00
+description: 'why do future visions all look like future visions'
+seo: 'why do future visions all look like future visions'
+author: 'Julian Bleecker'
+tags: []
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_faa8053a-55d2-4713-b3b8-81d4c0e3604d.png,
+altText: The future in the form of an email composer,
+caption: Imagination Unlocks Greatness
+}
 ---
-
 # One - The Future As An Email Attachment
 
-<figure>
-    <img src="/bd-images/why-do-future-visions-all-look-like-future-visions/why-do-future-visions-all-look-like-future-visions_faa8053a-55d2-4713-b3b8-81d4c0e3604d.png"
-         alt="The future in the form of an email composer">
-    <figcaption>The future in the form of an email composer</figcaption>
-</figure>
 Have you ever gotten one of these emails? Where the future is zipped up into a PowerPoint deck and then sent around in an email with the expectation that the recipients will open and read it and then become excited about what they see? 
 
 If you’re in the corporate strategy racket you’ve probably received an expensive PowerPoint deck cobbled together by some analyst or McKinsey-like operation and trotted out as “predictions”. 

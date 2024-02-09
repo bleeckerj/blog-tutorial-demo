@@ -1,13 +1,19 @@
 ---
 title: "What's Breakfast Cereal Got To Do With The Future?"
-author: "Julian Bleecker"
-pubDate: 2022-03-03
+pubDate: 2020-12-09 18:00:00+00:00
+description: "This is an essay describing the concept of diegetic prototypes and design fiction through the lens of the Stephen Spielberg film based on the P.K. Dick story 'Minority Report.' I discuss how seemingly mundane objects in science fiction, like a cereal box, can offer insights into future technologies, cultures, legal systems, societal norms and individual behaviors. This highlights the subtle yet powerful role of design fiction in speculative futures and how it can be invaluable for strategic assessments and sense-making on possible futures and scenarios."
+seo: 'whats breakfast cereal got to do with the future'
+author: 'Julian Bleecker'
+tags: []
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/whats-breakfast-cereal-got-to-do-with-the-future/whats-breakfast-cereal-got-to-do-with-the-future_6db24fdc-c84f-48d4-a9dd-06c5fc602130.png,
+altText: Take it easy,
+caption: What's for breakfast in your future?
+}
 ---
-
 ## One: Consider the Diegetic Prototype
-
- ![](/bd-images/whats-breakfast-cereal-got-to-do-with-the-future/whats-breakfast-cereal-got-to-do-with-the-future_6db24fdc-c84f-48d4-a9dd-06c5fc602130.png) 
 
 What was that box of breakfast cereal doing in Minority Report, anyway? A sci-fi film set in the future? And breakfast cereal?
 

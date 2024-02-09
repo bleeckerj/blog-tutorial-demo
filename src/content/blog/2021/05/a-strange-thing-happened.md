@@ -1,6 +1,6 @@
 ---
 title: 'A Strange Thing Happened'
-pubDate: 2021-03-03
+pubDate: 2021-05-14 15:31:17.591000+00:00
 description: 'a strange thing happened'
 seo: 'a strange thing happened'
 author: 'Julian Bleecker'
@@ -9,7 +9,8 @@ isDraft: false
 containImage: true
 image: {
 url: /bd-images/a-strange-thing-happened/a-strange-thing-happened_8cda7cad-4568-44c0-918a-35718a303ffe.jpg,
-altText: Strange Weather Approaching
+altText: A photo of an ocean storm,
+caption: Strange Weather Approaching
 }
 ---
 
