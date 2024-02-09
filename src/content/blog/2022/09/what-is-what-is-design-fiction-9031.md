@@ -1,8 +1,17 @@
 ---
-title: "What Is What Is Design Fiction 9031"
-author: "Julian Bleecker"
-pubDate: 2021-08-03
+title: 'What Is Design Fiction'
+pubDate: 2022-09-28 20:09:58.821419+00:00
+description: 'What is Design Fiction?'
+seo: "Uncover the essence of Design Fiction and its profound impact on imagining future possibilities through objects. Dive into a thought-provoking discussion on how design fiction transcends traditional prose, offering a fresh perspective on envisioning the future. Discover our new book, 'The Manual of Design Fiction,' for a comprehensive guide on redefining creativity and innovation in design. Explore the historical roots of design fiction and join us in reimagining the future through tangible artifacts."
+author: 'Julian Bleecker'
+tags: ["Design Fiction", "Future Imagining", "Designed Objects", "Innovation", "Creative Design", "Manual of Design Fiction", "Design History", "Tangible Artifacts", "Future Possibilities", "Book Release"]
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/what-is-what-is-design-fiction-9031/what-is-what-is-design-fiction-9031_73acdf04-7ee6-4351-b451-b724451076d7.jpg,
+altText: Take it easy,
+caption: Imagination Unlocks Greatness
+}
 ---
 
 ![2022-09-28_12-29-27.jpg](https://buttondown-attachments.s3.amazonaws.com/images/6fd7d488-9acc-403f-9e5c-6bb085b46b46.jpg) 
@@ -28,6 +37,4 @@ isDraft: false
 19. And I think that is significant enough to distinguish 'design fiction' from 'prose'. (And it's 'fiction' because these are things distinct from more quotidian notions of designed objects, which are often either art or the expression in material form of commercial purposes. They are plainly objects that imply the worlds from which they came.)
 20. That's what prose does as well of course, and prose has been a significant and invaluable way of expressing intent, reflecting on what has been, what is happening, what could happen, what we imagine, etc.
 21. Material artifacts can do likewise, in addition to prose. Not instead of. In addition to. They can even go along with the $250,000 report McKinsey prepared for you and shoved into a 3 ring binder or PowerPoint Deck. (Personally, I'd take the design fiction artifact, but that's me.)
-22. Still curious about design fiction? Definitely get the book, but also check out this video Nick and I made. Couldn't be simpler! '[What Is Design Fiction](https://youtu.be/t_UT78JOauM)'
-
- ![TheManual_Realbook_002_091822_1632.jpg](https://buttondown-attachments.s3.amazonaws.com/images/73acdf04-7ee6-4351-b451-b724451076d7.jpg)
+22. Still curious about design fiction? Definitely [get the book The Manual of Design Fiction](https://nearfuturelaboratory.com/the-manual-of-design-fiction), but also check out this video Nick and I made. Couldn't be simpler! '[What Is Design Fiction](https://youtu.be/t_UT78JOauM)'

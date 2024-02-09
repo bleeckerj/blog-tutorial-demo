@@ -1,11 +1,18 @@
 ---
-title: "Whats Next The Discovery Mindset"
-author: "Julian Bleecker"
-pubDate: 2022-04-25
+title: "Whats Next: The Discovery Mindset"
+pubDate: 2021-04-01 19:04:45.828590+00:00
+description: 'A story that delves into the power of imagination and the unintended discoveries that shape our world.'
+seo: "Explore the unexpected origins of the telescope in a whimsical tale set in 17th-century Holland. Discover how the playful curiosity of children in a craftsman's workshop led to a groundbreaking invention, blending historical fiction with the spirit of innovation. This story delves into the power of imagination and the unintended discoveries that shape our world."
+author: 'Julian Bleecker'
+tags: [Innovation, Imagination, Design Ficiton, Ingenuity]
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/whats-next-the-discovery-mindset/whats-next-the-discovery-mindset_26182250-879e-466a-9878-be1e6b86c3c0.jpg,
+altText: Relax,
+caption: Imagination Unlocks Greatness
+}
 ---
-
-![](/bd-images/whats-next-the-discovery-mindset/whats-next-the-discovery-mindset_26182250-879e-466a-9878-be1e6b86c3c0.jpg) 
 
 **1**. Somewhere in Holland in the mid-17th century, a time machine was invented. Or it may have been a teleportation device. This is how it happened.
 

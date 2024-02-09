@@ -167,7 +167,8 @@ table th {
   }
 
   h1 {
-	margin: 2rem 0 -1rem;
+	margin-bottom: 0.5rem;
+	margin-top: 1rem;
 	font-size: 1.8rem;
 	font-family: "Rebond Grotesque";
 	font-weight: bold;
@@ -491,7 +492,7 @@ ol li::marker {
   
   /* For unordered list bullets */
   ul li::marker {
-	color: blue; /* Change the color of the bullet points */
+	color: black; /* Change the color of the bullet points */
   }
 
 

@@ -2,7 +2,7 @@
 
 title: "The Design Innovators Design Dilemma Time To"
 author: "Julian Bleecker"
-pubDate: 2022-02-17
+pubDate: 2023-04-12 16:00:00+00:00
 isDraft: false
 ---
 
