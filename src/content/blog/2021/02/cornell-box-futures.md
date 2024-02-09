@@ -1,6 +1,6 @@
 ---
 title: "Cornell Box Futures"
-pubDate: 2024-02-08T22:57:19-08:00
+pubDate: 2021-02-19 15:00:00+00:00
 description: "The unique role of Design Fiction in creatively envisioning realistic, context-rich futures, moving beyond idealized representations to incorporate everyday, mundane elements that make future scenarios more relatable and engaging. We call that the 'future normal', 'normal, ordinary, everyday', 'future mundane', 'everyday familiar'. They are important concepts to help ground the speculative work of futures design. They are part of the DNA of Design Fiction"
 seo: 'future mundane, design fiction, everyday familiar, futures design, strategic design'
 author: 'Julian Bleecker'

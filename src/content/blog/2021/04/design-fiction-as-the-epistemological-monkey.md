@@ -1,6 +1,6 @@
 ---
 title: "Design Fiction As The Epistemological Monkey Wrench"
-pubDate: 2024-02-08T23:10:46-08:00
+pubDate: 2021-04-08 15:37:46.008046+00:00
 description: "We can use Design Fiction to monkey around with what we know and understand about the world, and why."
 seo: 'design fiction as the epistemological monkey'
 author: 'Julian Bleecker'
