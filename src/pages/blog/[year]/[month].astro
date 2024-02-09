@@ -34,9 +34,12 @@ export async function getStaticPaths() {
 const allPosts = await getCollection('blog');
 const posts = allPosts.filter(post => {
     const pubDate = new Date(post.data.pubDate);
+    // Ensure the post is not a draft by checking isDraft is not true
     return pubDate.getFullYear().toString() === year && 
-           String(pubDate.getMonth() + 1).padStart(2, '0') === month;
+           String(pubDate.getMonth() + 1).padStart(2, '0') === month &&
+           !post.data.isDraft; // Exclude posts where isDraft is true
 });
+
 import { z } from 'zod';
 
 // Define the schema
@@ -75,9 +78,10 @@ const frontmatter = postSchema.parse({
   containsImage: false,
 });
 
+const text = year + ' ' + month
 
 ---
-<BaseLayout pageTitle={'Blog -  {year} / {month}'}>
+<BaseLayout pageTitle={`${year} / ${month}`}>
     <ul style="list-style: none">
       {
         posts.map((post) => (
