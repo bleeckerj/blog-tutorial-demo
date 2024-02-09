@@ -56,7 +56,6 @@ export default function App() {
     var json = {"content": JSON.stringify(data)}; //JSON.stringify(object);
 //    console.log(json);
     const webhookURL = "https://discord.com/api/webhooks/967241010449088592/kOtdCCfpWtpkDBHwnQUzzDa6vJOhLePyDHifQzEUDSnDSgj78WmqERisGJ4Ygd16XGMp"
-    //const webhookURL = "https://webhook.site/168b0c8a-2a74-40bd-9129-3b42c868c4a4"
     const options = {
       method: 'post',
       baseURL: webhookURL,
@@ -65,8 +64,6 @@ export default function App() {
       },
       data: json
     };
-    //let response = await axios.request(options);
- //   console.log(options);
     axios.request(options)
     .then(function (response) {
       setModalOpen(true); // Open modal on success
@@ -107,7 +104,7 @@ export default function App() {
 
   return (
   
-    <div className="flex flex-col items-center justify-center mx-10 my-20">
+    <div className="flex flex-col items-center justify-center my-20 max-w-2xl">
     <form  action="/" method="POST" style={{fontSize : '1rem', fontFamily: 'FormaDJRDeck'}} 
     className="space-y-3 md:space-y-4 max-w-5/6 min-w-[340px]" onSubmit={handleSubmit(onSubmit)}>
     

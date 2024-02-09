@@ -28,7 +28,7 @@ const postSchema = z.object({
 });
 
 // Create a complete instance
-const { headTitle, pageTitle, footerType } = Astro.props;
+const { headTitle, pageTitle, footerType, noForm } = Astro.props;
 let { frontmatter } = Astro.props;
 
 // Check if frontmatter is undefined
@@ -59,7 +59,7 @@ if (frontmatter === undefined) {
     <body class="overflow-hidden max-w-2xl">
     <div class="posttitle mt-[4rem] mb-5 text-center">{pageTitle}</div>
     <slot/>
-    <ContactFormSm client:only='react'/>
+    {!noForm && <ContactFormSm client:only='react'/>}
         <!-- Dynamically render the footer based on footerType prop -->
         {footerType === 'Fixed' ? <FixedFooter /> : <Footer />}
     <script>
