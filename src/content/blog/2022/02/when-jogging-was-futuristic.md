@@ -1,9 +1,17 @@
 ---
-
 title: "When Jogging Was Futuristic"
-author: "Julian Bleecker"
-pubDate: 2022-03-28
+pubDate: 2022-02-06 17:41:06.211244+00:00
+description: "This newsletter issue explores the concept of jogging as a futuristic activity through the lens of design fiction, highlighting the power of material artifacts to envision futures and provoke thought on change and innovation."
+seo: "Issue 28 of the Design Fiction Newsletter features an invitation to support and engage with the Near Future Laboratory Podcast, a discussion on the role of Design Fiction in organizations with insights from IKEA's Katie McCrory, and an introduction to Season Two of General Seminar focusing on emerging ideas. Additionally, the issue explores the concept of jogging as a futuristic activity through the lens of design fiction, highlighting the power of material artifacts to envision futures and provoke thought on change and innovation."
+author: 'Julian Bleecker'
+tags: ["Design Fiction Newsletter", "Near Future Laboratory", "Podcast Support", "IKEA Design Fiction", "General Seminar", "NFTs", "Physical Fitness Future", "Jogging Innovation", "Material Artifacts", "Emerging Ideas"]
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/when-jogging-was-futuristic/JOGGING_IMG_9005_1__1200px.jpg,
+altText: Cover of the book 'Jogging' by Bill Bowerman, founder of the running shoe brand Nike,
+caption: There was a time when jogging was nonsense. This book helped it make sense,
+}
 ---
 
 This is Issue 28 of the Design Fiction Newsletter and this is your commercial interruption. 
@@ -82,64 +90,69 @@ Okay. Now, back to our regularly scheduled newsletter.
 
 26. “Eh? What the heck are you talking about? Don’t do that. You’ll get caught. People are going to look at you nervously, I’m telling you. Stop. Best case outcome is you’ll get lightly and collegially mocked.”
 
-27. Look here: on the cover of the earliest editions of the book, right there on the damn cover, he has to define it: “**A DETAILED INSTRUCTIONAL GUIDE TO JOGGING (LIGHT RUNNING AND WALKING)..**”
+27. Look here: on the cover of the earliest editions of the book, right there on the damn cover, he has to define it: “A DETAILED INSTRUCTIONAL GUIDE TO JOGGING (LIGHT RUNNING AND WALKING)..”
 
 28. I mean..this is great stuff. Great stuff. What you see on the cover and in the copious images (back when printing images in a book was definitely not a routine thing to do!) is an [epistemological monkey wrench](https://buttondown.email/designfiction/archive/design-fiction-as-the-epistemological-monkey/). Knowledge is being crafted and poured into this material package of pages, images, explanatory texts.
 
- ![JOGGING_IMG_9007_1 _600px.jpg](https://buttondown-attachments.s3.amazonaws.com/images/02671e65-2f1f-4951-9567-5817a11ebe64.jpg) 
+<figure>
+<img src=/bd-images/when-jogging-was-futuristic/when-jogging-was-futuristic_02671e65-2f1f-4951-9567-5817a11ebe64.jpg alt="" />
+</figure>
 
- ![JOGGING_IMG_9009_1 _600px.jpg](https://buttondown-attachments.s3.amazonaws.com/images/38ef317a-2616-469e-8cda-07c7c8dc9a24.jpg) 
+<figure>
+<img src=/bd-images/when-jogging-was-futuristic/when-jogging-was-futuristic_38ef317a-2616-469e-8cda-07c7c8dc9a24.jpg alt="" />
+</figure>
 
- ![JOGGING_IMG_9011 _600px.jpg](https://buttondown-attachments.s3.amazonaws.com/images/ea2d9b2f-0f90-414f-ba89-b27f2842cd1f.jpg) 
-<p align = "center">
-This guy is in Chuck Taylor's — and his Sunday-go-to-meeting waist belt!
-</p>
+<figure>
+<img src=/bd-images/when-jogging-was-futuristic/when-jogging-was-futuristic_ea2d9b2f-0f90-414f-ba89-b27f2842cd1f.jpg alt={} />
+<figcaption>This guy is in Chuck Taylor's — and his Sunday-go-to-meeting waist belt!
+</figcaption>
+</figure>
 
 
-**30.** Image after image shows us what jogging looks like and how to do it properly. Image after image routinizes the act, allowing us to possible see ourselves in the models doing the jogging (particularly if you’re white, but we’ll leave that to the side for now.)
+30. Image after image shows us what jogging looks like and how to do it properly. Image after image routinizes the act, allowing us to possible see ourselves in the models doing the jogging (particularly if you’re white, but we’ll leave that to the side for now.)
 
-**31.** So, why do I share this in the context of Design Fiction?
+31. So, why do I share this in the context of Design Fiction?
 
-**32.** It’s because the power of the Design Fiction mindset comes from accepting that change is a constant..
+32. It’s because the power of the Design Fiction mindset comes from accepting that change is a constant..
 
-**33.** (dramatic pause)
+33. (dramatic pause)
 
-**34.** The future as seen through the Design Fiction mindset  is to accept that change requires imagining a different world..
+34. The future as seen through the Design Fiction mindset  is to accept that change requires imagining a different world..
 
-**35.** ..and then actually materializing the implications of that world in the form of the Design Fiction Artifact — the thing that one would find were one to time travel to that possible future and grab a few things to bring back. 
+35. ..and then actually materializing the implications of that world in the form of the Design Fiction Artifact — the thing that one would find were one to time travel to that possible future and grab a few things to bring back. 
 
-**36.** That’s hard to do in the sense that it’s not easy to do.
+36. That’s hard to do in the sense that it’s not easy to do.
 
-**37.** Not everyone gets how to time travel in this fashion, I realize that now. I used to take it for granted that this was something everyone did, or could do naturally and routinely.
+37. Not everyone gets how to time travel in this fashion, I realize that now. I used to take it for granted that this was something everyone did, or could do naturally and routinely.
 
-**38.** (But then I saw the Meta presentation a month or so back and I thought like..oof. What the heck. Shame on the futurists who helped produce that strategy.)
+38. (But then I saw the Meta presentation a month or so back and I thought like..oof. What the heck. Shame on the futurists who helped produce that strategy.)
 
-**39.** Bowerman went through the trouble of writing and publishing a manual for a possible future in which people ran to “REDUCE THE WAISTLINE” and to “PROLONG YOUR LIFE”.
+39. Bowerman went through the trouble of writing and publishing a manual for a possible future in which people ran to “REDUCE THE WAISTLINE” and to “PROLONG YOUR LIFE”.
 
-**40.** It’s fun to think that this manual for jogging was what Bowerman brought back from a jogging future.
+40. It’s fun to think that this manual for jogging was what Bowerman brought back from a jogging future.
 
-**41.** Like, in his imagination he had seen a possible future and did the Design Fiction thing (not really..there was no Design Fiction in 1967), and rather than writing a report he wrote a book _as if_ jogging was a thing.
+41. Like, in his imagination he had seen a possible future and did the Design Fiction thing (not really..there was no Design Fiction in 1967), and rather than writing a report he wrote a book _as if_ jogging was a thing.
 
-**42.** (It’s especially fun because ‘jogging as futuristic’ is so beautifully adjacent to what we routinely consider futuristic — no network connected end-points, no blockchain, no cyber-this-or-that. People, in a world, doing a thing that from the situated perspective of, say, 1967, seems weird and unexpected and alien.
+42. It’s especially fun because ‘jogging as futuristic’ is so beautifully adjacent to what we routinely consider futuristic — no network connected end-points, no blockchain, no cyber-this-or-that. People, in a world, doing a thing that from the situated perspective of, say, 1967, seems weird and unexpected and alien.
 
-**43.** Really, it’s remarkable to imagine that this was not an easy pitch.
+43. Really, it’s remarkable to imagine that this was not an easy pitch.
 
-**44.** Not easy at all.
+44. Not easy at all.
 
-**45.** Much like [Dick Fosbury and his Fosbury Flop](https://buttondown.email/designfiction/archive/design-fiction-and-the-optimistic-contrarian/).
+45. Much like [Dick Fosbury and his Fosbury Flop](https://buttondown.email/designfiction/archive/design-fiction-and-the-optimistic-contrarian/).
 
-**46.** Or the whole [Wheels on Luggage](https://buttondown.email/designfiction/archive/the-wheels-on-luggage-phenomenon/) gambit.
+46. Or the whole [Wheels on Luggage](https://buttondown.email/designfiction/archive/the-wheels-on-luggage-phenomenon/) gambit.
 
-**47.** It requires translating the imagination shrewdly, creatively, cleverly.
+47. It requires translating the imagination shrewdly, creatively, cleverly.
 
-**48.** It’s takes gumption and a bit of guile.
+48. It’s takes gumption and a bit of guile.
 
-**49.** It takes an incredibly active and nagging intuition that is able to travel to another world, and by world I mean a place with a futuristic set of values, epistemologies, ontologies. That’s what science-fiction is well-suited to do — create science-based other worlds.
+49. It takes an incredibly active and nagging intuition that is able to travel to another world, and by world I mean a place with a futuristic set of values, epistemologies, ontologies. That’s what science-fiction is well-suited to do — create science-based other worlds.
 
-**50.** Design Fiction is well-suited to making artifacts brought back from the future to suspend our disbelief about change. It’s archeology, but the other way around. Rather than digging up artifacts from the past, we harvest actual artifacts from possible futures. (Not stories about the future, just to be clear and I will continue to repeat the point not to quibble but because I think the difference is quite helpful.)
+50. Design Fiction is well-suited to making artifacts brought back from the future to suspend our disbelief about change. It’s archeology, but the other way around. Rather than digging up artifacts from the past, we harvest actual artifacts from possible futures. (Not stories about the future, just to be clear and I will continue to repeat the point not to quibble but because I think the difference is quite helpful.)
 
-**51.** To take on the mindset of the optimistic contrarian futurist requires a willingness to seem like and in fact act like a productive, helpful fool. 
+51. To take on the mindset of the optimistic contrarian futurist requires a willingness to seem like and in fact act like a productive, helpful fool. 
 
-**52.** To take on the mindset of the optimistic contrarian futurist requires one to accept and understand from whence the light and collegial mocking obtains — it’s probably a reluctance to see things as possibly different — and to remain of the mindset that change is possible. 
+52. To take on the mindset of the optimistic contrarian futurist requires one to accept and understand from whence the light and collegial mocking obtains — it’s probably a reluctance to see things as possibly different — and to remain of the mindset that change is possible. 
 
-**53.** Remember and believe that the world can become otherwise.
+53. Remember and believe that the world can become otherwise.

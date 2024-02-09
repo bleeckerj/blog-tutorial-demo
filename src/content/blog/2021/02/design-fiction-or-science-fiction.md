@@ -1,12 +1,18 @@
 ---
 title: "Design Fiction Or Science Fiction"
-author: "Julian Bleecker"
-pubDate: 2021-06-19
-description: ""
+pubDate: 2021-02-04 21:17:13.062745+00:00
+description: 'This essay examines the distinctions between design fiction and science fiction, focusing on their respective methodologies for envisioning futures. It highlights the concept of diegetic prototypes in design fiction, which are material artifacts that suggest possible future worlds, in contrast to the allegorical storytelling found in science fiction. The analysis clarifies how design fiction employs tangible objects to stimulate discussions on future technologies and societal changes, differentiating it from the narrative-driven approach of science fiction literature.'
+seo: 'design fiction or science fiction'
+author: 'Julian Bleecker'
+tags: ["Design Fiction", "Science Fiction", "Diegetic Prototypes", "Future Technologies", "Speculative Design", "Societal Changes", "Material Artifacts", "Storytelling", "Imagining Futures", "Technological Implications"]
 isDraft: false
+containImage: true
+image: {
+url: /bd-images/design-fiction-or-science-fiction/design-fiction-or-science-fiction_eef4ccde-fef7-41a4-8589-84495344ee56.jpg,
+altText: Take it easy,
+caption: Imagination Unlocks Greatness
+}
 ---
-
-![](/bd-images/design-fiction-or-science-fiction/design-fiction-or-science-fiction_eef4ccde-fef7-41a4-8589-84495344ee56.jpg) 
 
 ## Design Fiction or Science Fiction?
 
@@ -38,4 +44,4 @@ Design Fiction and science fiction each have their place, and each speak to the 
 
 ---
 
-Apologies again for a brief issue. Same excuse as last time — final-final edits on our forthcoming **The Manual of Design Fiction**.  I will say that we're all super excited about our forthcoming book, the notes from our trusted early readers are strong, positive and humbling. Shortly we'll have more details about the when, where, and how. Be well.
+Apologies again for a brief issue. Same excuse as last time — final-final edits on our forthcoming [The Manual of Design Fiction](https://shop.nearfuturelaboratory.com/products/the-manual-of-design-fiction-paperback).  I will say that we're all super excited about our forthcoming book, the notes from our trusted early readers are strong, positive and humbling. Shortly we'll have more details about the when, where, and how. Be well.

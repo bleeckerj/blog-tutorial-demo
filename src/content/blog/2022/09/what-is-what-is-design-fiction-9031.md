@@ -1,5 +1,5 @@
 ---
-title: 'What Is Design Fiction'
+title: 'What Is Design Fiction? (2)'
 pubDate: 2022-09-28 20:09:58.821419+00:00
 description: 'What is Design Fiction?'
 seo: "Uncover the essence of Design Fiction and its profound impact on imagining future possibilities through objects. Dive into a thought-provoking discussion on how design fiction transcends traditional prose, offering a fresh perspective on envisioning the future. Discover our new book, 'The Manual of Design Fiction,' for a comprehensive guide on redefining creativity and innovation in design. Explore the historical roots of design fiction and join us in reimagining the future through tangible artifacts."
