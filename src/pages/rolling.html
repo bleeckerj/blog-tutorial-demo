@@ -1,0 +1,35 @@
+
+<html>
+<head>
+    <script type="module">
+        // Client-side JavaScript here
+      import { gsap } from "./node_modules/gsap/index.js";
+      import { TextPlugin } from "./node_modules/gsap/TextPlugin.js";
+      gsap.registerPlugin(TextPlugin);
+
+        console.log('Hello from Astro!');
+        //let text = document.querySelector("h1");
+
+gsap.defaults({ease: "none"});
+
+const tl = gsap.timeline({yoyo:false});
+tl.to(".ig", {duration: 2, text:" is what unlocks"}, "+=2")
+.to(".gt", {duration: 1, text:"Greatness"})
+  .to(".ih", {duration: 4, delay: 2, text:"Near Future<br/>Laboratory<br/>Will Show<br/>You How To<br/>"} )
+.to(".t2", {duration: 2, text:"Imagine Harder"})
+      </script>
+  <title>GSAP Animation with Astro</title>
+</head>
+<body>
+    <span class="text-pink-500">Imagination</span>
+    <br/>
+    <span class="ig"></span>
+    <br/>
+    <span class="text-pink-500 gt"></span>
+    <br/>
+      <span class="ih"></span>
+    <span class="text-blue-400 text-size-[24px] font-bold t2"></span>
+
+</body>
+</html>
+

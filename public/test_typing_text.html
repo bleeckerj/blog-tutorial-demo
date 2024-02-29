@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Character by Character Animation</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
+<link rel="stylesheet" href="../src/styles/fonts.css">
+
+<style>
+    #typingText {
+        font-family: "FormaDJRVariable", 'Courier New', Courier, monospace;
+            font-variation-settings: 'wght' 900;
+
+            color: rgb(45, 45, 45); /* Text color */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+            font-size: 4vw; /* Adjust the value based on desired text size at different widths */
+            text-align: left;
+            /* background-color: transparent; */
+            max-width: 95%; /* Allows some margin from the viewport edges */
+            z-index: 10; /* Ensure it's above the video */
+            position: absolute;
+            left: 3.5vw; /* Responsive distance from the left */
+            top: 3vh; /* Responsive distance from the top */
+       }
+</style>
+</head>
+<body>
+
+<div id="typingText"></div>
+
+<script>
+  const text = "Hypothesis: Imagination Unlocks Greatness";
+  const container = document.getElementById('typingText');
+
+  text.split('').forEach((char, index, array) => {
+  const span = document.createElement('span');
+  const isSpace = char === ' ';
+  span.textContent = isSpace ? '\u00A0' : char; // Non-breaking space for spaces
+  span.style.opacity = "0";
+
+  // Check if current char starts the word "Greatness" and wrap the whole word
+  if (text.substring(index, index + 9) === "Greatness") {
+    const wordSpan = document.createElement('span');
+    wordSpan.className = 'greatness'; // Assign a class for later targeting
+    for (let i = 0; i < "Greatness".length; i++) {
+      const letterSpan = document.createElement('span');
+      letterSpan.textContent = array[index + i] === ' ' ? '\u00A0' : array[index + i];
+      letterSpan.style.opacity = "0";
+      wordSpan.appendChild(letterSpan);
+    }
+    container.appendChild(wordSpan);
+    // Skip ahead to avoid duplicating the word "Greatness"
+    index += "Greatness".length - 1;
+  } else if (index < array.length - "Greatness".length || text.substring(index - "Greatness".length, index) !== "Greatness") {
+    container.appendChild(span);
+  }
+});
+
+  gsap.to("#typingText span", {
+    opacity: 1, // Make characters visible
+    ease: "none",
+    duration: 0.01, // Duration of each character's animation
+    stagger: 0.05 // Delay between each character's animation
+  });
+</script>
+
+</body>
+</html>

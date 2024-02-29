@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typing Animation</title>
+    <!-- <link rel="stylesheet" href="../src/styles/bundle.css"> -->
+    <link rel="stylesheet" href="../src/styles/fonts.css">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@latest/dist/tailwind.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            /*font-family: 'Courier New', Courier, monospace;*/
+            padding: 20px;
+            font-family: "FormaDJRVariable", 'Courier New', Courier, monospace;
+            font-variation-settings: 'wght' 600;
+	        font-size: 4em;
+            margin: 0;
+            padding: 0;
+            overflow-x: hidden; 
+            background-color: bisque;
+        }
+        #typeit {
+            color: white; /* Text color */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+            font-size: 4vw; /* Adjust the value based on desired text size at different widths */
+            text-align: left;
+            /* background-color: transparent; */
+            max-width: 100%; /* Allows some margin from the viewport edges */
+            z-index: 10; /* Ensure it's above the video */
+            position: absolute;
+            left: 4vw; /* Responsive distance from the left */
+            top: 3vh; /* Responsive distance from the top */
+       }
+       .bright {
+        font-family: "FormaDJRVariable", 'Courier New', Courier, monospace;
+        font-size:4vw;
+        font-variation-settings: 'wght' 900;
+        color: limegreen
+       }
+        .ti-cursor {
+            font-family: "FormaDJRVariable", 'Courier New', Courier, monospace;
+            font-variation-settings: 'wght' 900;
+            animation: blink 2s infinite;
+            padding: 20px;
+        }
+
+        @keyframes blink {
+            50% { opacity: 0; }
+        }
+        #backgroundVideo {
+            display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  overflow: hidden; /* Ensures the video doesn't overflow the container */
+  position: relative; /* For positioning the video absolutely within */
+  border-radius: 15px; /* Rounded corners */
+            opacity: 30;
+        }
+        video {
+    width: 95%; /* Make video width equal to container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+    </style>
+</head>
+<body>
+    <div id="typeit"></div>
+    <video id="backgroundVideo" width="320" height="240" loop muted>
+        <source src="/movies/__Mini Munchies | Stop Coming At Me | Jack in the Box.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <!-- Include TypeIt -->
+    <script src="https://cdn.jsdelivr.net/npm/typeit@7.0.4/dist/typeit.min.js"></script>
+
+    <script>
+        new TypeIt('#typeit', {
+            speed: 60,
+            cursor: true,
+            lifeLike: true,
+            cursorChar: "_",
+            loop: false,
+            html: true,
+            afterComplete: (instance) => {
+                applyTailwindStyles();
+        // Start playing the video after typing is complete
+            document.getElementById('backgroundVideo').play();
+            document.getElementById('backgroundVideo').style.opacity = '100';
+    }
+        })
+        .type("At Near Future Laboratory ")
+        .pause(800)
+        .type("We Believe Imagination Unlocks")
+        .type('<span class="bright"> Greatness</span>')
+        .break()
+        .pause(500)
+        .break()
+        .pause(800)
+        .type("We Make It Our Business To ")
+        .pause(550)
+        .type('<span class="bright"> Imagine Harder</span>.. ')
+        .break()
+        .pause(1000)
+        .go();
+
+
+        function applyTailwindStyles() {
+        // Select the dynamically generated elements
+        const elementsToStyle = document.querySelectorAll('#typeit span');
+        console.log(elementsToStyle);
+        // Apply Tailwind classes to these elements
+        elementsToStyle.forEach(element => {
+            element.classList.add('text-slate-900', 'another-tailwind-class');
+        });
+    }
+    </script>
+</body>
+</html>

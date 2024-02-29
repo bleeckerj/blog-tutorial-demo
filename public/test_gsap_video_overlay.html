@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text Animation with GSAP</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
+    <link rel="stylesheet" href="../src/styles/fonts.css">
+
+<style>
+    #typingText {
+            font-family: "FormaDJRVariable", 'Courier New', Courier, monospace;
+            font-variation-settings: 'wght' 900;
+
+            color: #101010; /* Text color */
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
+            font-size: 4vw; /* Adjust the value based on desired text size at different widths */
+            text-align: left;
+            /* background-color: transparent; */
+            max-width: 95%; /* Allows some margin from the viewport edges */
+            z-index: 10; /* Ensure it's above the video */
+            position: absolute;
+            left: 3.5vw; /* Responsive distance from the left */
+            top: 3vh; /* Responsive distance from the top */
+       }
+       #backgroundVideo {
+            display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  overflow: hidden; /* Ensures the video doesn't overflow the container */
+  position: relative; /* For positioning the video absolutely within */
+  border-radius: 15px; /* Rounded corners */
+            opacity: 30;
+        }
+        video {
+    width: 95%; /* Make video width equal to container width */
+    height: auto; /* Maintain aspect ratio */
+  }
+</style>
+</head>
+<body>
+
+<div id="typingText"></div>
+
+<video id="backgroundVideo" width="320" height="240" loop muted>
+    <source src="/movies/__Mini Munchies | Stop Coming At Me | Jack in the Box.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+<script>
+// Prepare the text and container
+const text = "Hypothesis: Imagination Unlocks Greatness";
+const container = document.getElementById('typingText');
+
+// Split the text into individual characters and wrap each in a span
+text.split('').forEach((char, index) => {
+    const span = document.createElement('span');
+    span.textContent = char;
+    span.style.opacity = "0";
+    container.appendChild(span);
+});
+
+const hypothesisIndex = text.indexOf("Hypothesis:");
+for (let i = hypothesisIndex; i < hypothesisIndex + "Hypothesis:".length; i++) {
+    container.children[i].className = 'hypothesis';
+}
+
+// Special handling to wrap "Greatness" in a unique span for later animation
+const greatnessIndex = text.indexOf("Greatness");
+for (let i = greatnessIndex; i < greatnessIndex + "Greatness".length; i++) {
+    container.children[i].className = 'greatness';
+}
+
+// GSAP animation
+const tl = gsap.timeline();
+tl.to("#typingText span", {opacity: 1, ease: "none", duration: 0.05, stagger: 0.05})
+  .to("#typingText .greatness", {color: "#00f000", delay: 0.1, duration: 0.1, onComplete: function() {
+    // Play the video once the animation is complete
+    document.querySelector("#backgroundVideo").play();
+  }})
+  .to("#typingText .greatness", {fontSize: '4.5vw', duration: 0.2, ease: "steppedEase.config(12)"}, "+=0.1");
+
+
+</script>
+
+</body>
+</html>
